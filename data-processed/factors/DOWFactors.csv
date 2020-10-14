@@ -1,0 +1,2341 @@
+DOWFACFC,AreaType,FuncGroup,SiteGroupDOW,DOWGroup,DOWFactor
+Arterial,1,Arterial,WD0,1-Monday,0.907
+Arterial,1,Arterial,WD0,2-Tuesday,0.902
+Arterial,1,Arterial,WD0,3-Wednesday,0.943
+Arterial,1,Arterial,WD0,4-Thursday,0.995
+Arterial,1,Arterial,WD0,5-Friday,1.17
+Arterial,1,Arterial,WD0,6-Saturday,1.136
+Arterial,1,Arterial,WD0,7-Sunday,0.937
+Arterial,1,Arterial,WD0,W1-Weekday,0.938
+Arterial,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI15,1,Arterial,WD0,1-Monday,0.907
+FreewayI15,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI15,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI15,1,Arterial,WD0,4-Thursday,0.995
+FreewayI15,1,Arterial,WD0,5-Friday,1.17
+FreewayI15,1,Arterial,WD0,6-Saturday,1.136
+FreewayI15,1,Arterial,WD0,7-Sunday,0.937
+FreewayI15,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI15,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI70,1,Arterial,WD0,1-Monday,0.907
+FreewayI70,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI70,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI70,1,Arterial,WD0,4-Thursday,0.995
+FreewayI70,1,Arterial,WD0,5-Friday,1.17
+FreewayI70,1,Arterial,WD0,6-Saturday,1.136
+FreewayI70,1,Arterial,WD0,7-Sunday,0.937
+FreewayI70,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI70,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI80,1,Arterial,WD0,1-Monday,0.907
+FreewayI80,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI80,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI80,1,Arterial,WD0,4-Thursday,0.995
+FreewayI80,1,Arterial,WD0,5-Friday,1.17
+FreewayI80,1,Arterial,WD0,6-Saturday,1.136
+FreewayI80,1,Arterial,WD0,7-Sunday,0.937
+FreewayI80,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI80,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI84West,1,Arterial,WD0,1-Monday,0.907
+FreewayI84West,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI84West,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI84West,1,Arterial,WD0,4-Thursday,0.995
+FreewayI84West,1,Arterial,WD0,5-Friday,1.17
+FreewayI84West,1,Arterial,WD0,6-Saturday,1.136
+FreewayI84West,1,Arterial,WD0,7-Sunday,0.937
+FreewayI84West,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI84West,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI84East,1,Arterial,WD0,1-Monday,0.907
+FreewayI84East,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI84East,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI84East,1,Arterial,WD0,4-Thursday,0.995
+FreewayI84East,1,Arterial,WD0,5-Friday,1.17
+FreewayI84East,1,Arterial,WD0,6-Saturday,1.136
+FreewayI84East,1,Arterial,WD0,7-Sunday,0.937
+FreewayI84East,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI84East,1,Arterial,WD0,MaxSatSun,0.938
+FreewayI215,1,Arterial,WD0,1-Monday,0.907
+FreewayI215,1,Arterial,WD0,2-Tuesday,0.902
+FreewayI215,1,Arterial,WD0,3-Wednesday,0.943
+FreewayI215,1,Arterial,WD0,4-Thursday,0.995
+FreewayI215,1,Arterial,WD0,5-Friday,1.17
+FreewayI215,1,Arterial,WD0,6-Saturday,1.136
+FreewayI215,1,Arterial,WD0,7-Sunday,0.937
+FreewayI215,1,Arterial,WD0,W1-Weekday,0.938
+FreewayI215,1,Arterial,WD0,MaxSatSun,0.938
+FreewayLegacy,1,Arterial,WD0,1-Monday,0.907
+FreewayLegacy,1,Arterial,WD0,2-Tuesday,0.902
+FreewayLegacy,1,Arterial,WD0,3-Wednesday,0.943
+FreewayLegacy,1,Arterial,WD0,4-Thursday,0.995
+FreewayLegacy,1,Arterial,WD0,5-Friday,1.17
+FreewayLegacy,1,Arterial,WD0,6-Saturday,1.136
+FreewayLegacy,1,Arterial,WD0,7-Sunday,0.937
+FreewayLegacy,1,Arterial,WD0,W1-Weekday,0.938
+FreewayLegacy,1,Arterial,WD0,MaxSatSun,0.938
+FreewaySR201,1,Arterial,WD0,1-Monday,0.907
+FreewaySR201,1,Arterial,WD0,2-Tuesday,0.902
+FreewaySR201,1,Arterial,WD0,3-Wednesday,0.943
+FreewaySR201,1,Arterial,WD0,4-Thursday,0.995
+FreewaySR201,1,Arterial,WD0,5-Friday,1.17
+FreewaySR201,1,Arterial,WD0,6-Saturday,1.136
+FreewaySR201,1,Arterial,WD0,7-Sunday,0.937
+FreewaySR201,1,Arterial,WD0,W1-Weekday,0.938
+FreewaySR201,1,Arterial,WD0,MaxSatSun,0.938
+FreewayUS40,1,Arterial,WD0,1-Monday,0.907
+FreewayUS40,1,Arterial,WD0,2-Tuesday,0.902
+FreewayUS40,1,Arterial,WD0,3-Wednesday,0.943
+FreewayUS40,1,Arterial,WD0,4-Thursday,0.995
+FreewayUS40,1,Arterial,WD0,5-Friday,1.17
+FreewayUS40,1,Arterial,WD0,6-Saturday,1.136
+FreewayUS40,1,Arterial,WD0,7-Sunday,0.937
+FreewayUS40,1,Arterial,WD0,W1-Weekday,0.938
+FreewayUS40,1,Arterial,WD0,MaxSatSun,0.938
+FreewayCommuter,1,Arterial,WD0,1-Monday,0.907
+FreewayCommuter,1,Arterial,WD0,2-Tuesday,0.902
+FreewayCommuter,1,Arterial,WD0,3-Wednesday,0.943
+FreewayCommuter,1,Arterial,WD0,4-Thursday,0.995
+FreewayCommuter,1,Arterial,WD0,5-Friday,1.17
+FreewayCommuter,1,Arterial,WD0,6-Saturday,1.136
+FreewayCommuter,1,Arterial,WD0,7-Sunday,0.937
+FreewayCommuter,1,Arterial,WD0,W1-Weekday,0.938
+FreewayCommuter,1,Arterial,WD0,MaxSatSun,0.938
+Arterial,2,Arterial,WD1,1-Monday,0.985
+Arterial,2,Arterial,WD1,2-Tuesday,0.995
+Arterial,2,Arterial,WD1,3-Wednesday,1.02
+Arterial,2,Arterial,WD1,4-Thursday,1.044
+Arterial,2,Arterial,WD1,5-Friday,1.142
+Arterial,2,Arterial,WD1,6-Saturday,1.036
+Arterial,2,Arterial,WD1,7-Sunday,0.773
+Arterial,2,Arterial,WD1,W1-Weekday,1.012
+Arterial,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI15,2,Arterial,WD1,1-Monday,0.985
+FreewayI15,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI15,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI15,2,Arterial,WD1,4-Thursday,1.044
+FreewayI15,2,Arterial,WD1,5-Friday,1.142
+FreewayI15,2,Arterial,WD1,6-Saturday,1.036
+FreewayI15,2,Arterial,WD1,7-Sunday,0.773
+FreewayI15,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI15,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI70,2,Arterial,WD1,1-Monday,0.985
+FreewayI70,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI70,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI70,2,Arterial,WD1,4-Thursday,1.044
+FreewayI70,2,Arterial,WD1,5-Friday,1.142
+FreewayI70,2,Arterial,WD1,6-Saturday,1.036
+FreewayI70,2,Arterial,WD1,7-Sunday,0.773
+FreewayI70,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI70,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI80,2,Arterial,WD1,1-Monday,0.985
+FreewayI80,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI80,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI80,2,Arterial,WD1,4-Thursday,1.044
+FreewayI80,2,Arterial,WD1,5-Friday,1.142
+FreewayI80,2,Arterial,WD1,6-Saturday,1.036
+FreewayI80,2,Arterial,WD1,7-Sunday,0.773
+FreewayI80,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI80,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI84West,2,Arterial,WD1,1-Monday,0.985
+FreewayI84West,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI84West,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI84West,2,Arterial,WD1,4-Thursday,1.044
+FreewayI84West,2,Arterial,WD1,5-Friday,1.142
+FreewayI84West,2,Arterial,WD1,6-Saturday,1.036
+FreewayI84West,2,Arterial,WD1,7-Sunday,0.773
+FreewayI84West,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI84West,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI84East,2,Arterial,WD1,1-Monday,0.985
+FreewayI84East,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI84East,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI84East,2,Arterial,WD1,4-Thursday,1.044
+FreewayI84East,2,Arterial,WD1,5-Friday,1.142
+FreewayI84East,2,Arterial,WD1,6-Saturday,1.036
+FreewayI84East,2,Arterial,WD1,7-Sunday,0.773
+FreewayI84East,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI84East,2,Arterial,WD1,MaxSatSun,1.012
+FreewayI215,2,Arterial,WD1,1-Monday,0.985
+FreewayI215,2,Arterial,WD1,2-Tuesday,0.995
+FreewayI215,2,Arterial,WD1,3-Wednesday,1.02
+FreewayI215,2,Arterial,WD1,4-Thursday,1.044
+FreewayI215,2,Arterial,WD1,5-Friday,1.142
+FreewayI215,2,Arterial,WD1,6-Saturday,1.036
+FreewayI215,2,Arterial,WD1,7-Sunday,0.773
+FreewayI215,2,Arterial,WD1,W1-Weekday,1.012
+FreewayI215,2,Arterial,WD1,MaxSatSun,1.012
+FreewayLegacy,2,Arterial,WD1,1-Monday,0.985
+FreewayLegacy,2,Arterial,WD1,2-Tuesday,0.995
+FreewayLegacy,2,Arterial,WD1,3-Wednesday,1.02
+FreewayLegacy,2,Arterial,WD1,4-Thursday,1.044
+FreewayLegacy,2,Arterial,WD1,5-Friday,1.142
+FreewayLegacy,2,Arterial,WD1,6-Saturday,1.036
+FreewayLegacy,2,Arterial,WD1,7-Sunday,0.773
+FreewayLegacy,2,Arterial,WD1,W1-Weekday,1.012
+FreewayLegacy,2,Arterial,WD1,MaxSatSun,1.012
+FreewaySR201,2,Arterial,WD1,1-Monday,0.985
+FreewaySR201,2,Arterial,WD1,2-Tuesday,0.995
+FreewaySR201,2,Arterial,WD1,3-Wednesday,1.02
+FreewaySR201,2,Arterial,WD1,4-Thursday,1.044
+FreewaySR201,2,Arterial,WD1,5-Friday,1.142
+FreewaySR201,2,Arterial,WD1,6-Saturday,1.036
+FreewaySR201,2,Arterial,WD1,7-Sunday,0.773
+FreewaySR201,2,Arterial,WD1,W1-Weekday,1.012
+FreewaySR201,2,Arterial,WD1,MaxSatSun,1.012
+FreewayUS40,2,Arterial,WD1,1-Monday,0.985
+FreewayUS40,2,Arterial,WD1,2-Tuesday,0.995
+FreewayUS40,2,Arterial,WD1,3-Wednesday,1.02
+FreewayUS40,2,Arterial,WD1,4-Thursday,1.044
+FreewayUS40,2,Arterial,WD1,5-Friday,1.142
+FreewayUS40,2,Arterial,WD1,6-Saturday,1.036
+FreewayUS40,2,Arterial,WD1,7-Sunday,0.773
+FreewayUS40,2,Arterial,WD1,W1-Weekday,1.012
+FreewayUS40,2,Arterial,WD1,MaxSatSun,1.012
+FreewayCommuter,2,Arterial,WD1,1-Monday,0.985
+FreewayCommuter,2,Arterial,WD1,2-Tuesday,0.995
+FreewayCommuter,2,Arterial,WD1,3-Wednesday,1.02
+FreewayCommuter,2,Arterial,WD1,4-Thursday,1.044
+FreewayCommuter,2,Arterial,WD1,5-Friday,1.142
+FreewayCommuter,2,Arterial,WD1,6-Saturday,1.036
+FreewayCommuter,2,Arterial,WD1,7-Sunday,0.773
+FreewayCommuter,2,Arterial,WD1,W1-Weekday,1.012
+FreewayCommuter,2,Arterial,WD1,MaxSatSun,1.012
+Arterial,3,Arterial,WD2,1-Monday,1.083
+Arterial,3,Arterial,WD2,2-Tuesday,1.116
+Arterial,3,Arterial,WD2,3-Wednesday,1.129
+Arterial,3,Arterial,WD2,4-Thursday,1.137
+Arterial,3,Arterial,WD2,5-Friday,1.146
+Arterial,3,Arterial,WD2,6-Saturday,0.828
+Arterial,3,Arterial,WD2,7-Sunday,0.566
+Arterial,3,Arterial,WD2,W1-Weekday,1.118
+Arterial,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI15,3,Arterial,WD2,1-Monday,1.083
+FreewayI15,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI15,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI15,3,Arterial,WD2,4-Thursday,1.137
+FreewayI15,3,Arterial,WD2,5-Friday,1.146
+FreewayI15,3,Arterial,WD2,6-Saturday,0.828
+FreewayI15,3,Arterial,WD2,7-Sunday,0.566
+FreewayI15,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI15,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI70,3,Arterial,WD2,1-Monday,1.083
+FreewayI70,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI70,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI70,3,Arterial,WD2,4-Thursday,1.137
+FreewayI70,3,Arterial,WD2,5-Friday,1.146
+FreewayI70,3,Arterial,WD2,6-Saturday,0.828
+FreewayI70,3,Arterial,WD2,7-Sunday,0.566
+FreewayI70,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI70,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI80,3,Arterial,WD2,1-Monday,1.083
+FreewayI80,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI80,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI80,3,Arterial,WD2,4-Thursday,1.137
+FreewayI80,3,Arterial,WD2,5-Friday,1.146
+FreewayI80,3,Arterial,WD2,6-Saturday,0.828
+FreewayI80,3,Arterial,WD2,7-Sunday,0.566
+FreewayI80,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI80,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI84West,3,Arterial,WD2,1-Monday,1.083
+FreewayI84West,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI84West,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI84West,3,Arterial,WD2,4-Thursday,1.137
+FreewayI84West,3,Arterial,WD2,5-Friday,1.146
+FreewayI84West,3,Arterial,WD2,6-Saturday,0.828
+FreewayI84West,3,Arterial,WD2,7-Sunday,0.566
+FreewayI84West,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI84West,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI84East,3,Arterial,WD2,1-Monday,1.083
+FreewayI84East,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI84East,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI84East,3,Arterial,WD2,4-Thursday,1.137
+FreewayI84East,3,Arterial,WD2,5-Friday,1.146
+FreewayI84East,3,Arterial,WD2,6-Saturday,0.828
+FreewayI84East,3,Arterial,WD2,7-Sunday,0.566
+FreewayI84East,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI84East,3,Arterial,WD2,MaxSatSun,1.118
+FreewayI215,3,Arterial,WD2,1-Monday,1.083
+FreewayI215,3,Arterial,WD2,2-Tuesday,1.116
+FreewayI215,3,Arterial,WD2,3-Wednesday,1.129
+FreewayI215,3,Arterial,WD2,4-Thursday,1.137
+FreewayI215,3,Arterial,WD2,5-Friday,1.146
+FreewayI215,3,Arterial,WD2,6-Saturday,0.828
+FreewayI215,3,Arterial,WD2,7-Sunday,0.566
+FreewayI215,3,Arterial,WD2,W1-Weekday,1.118
+FreewayI215,3,Arterial,WD2,MaxSatSun,1.118
+FreewayLegacy,3,Arterial,WD2,1-Monday,1.083
+FreewayLegacy,3,Arterial,WD2,2-Tuesday,1.116
+FreewayLegacy,3,Arterial,WD2,3-Wednesday,1.129
+FreewayLegacy,3,Arterial,WD2,4-Thursday,1.137
+FreewayLegacy,3,Arterial,WD2,5-Friday,1.146
+FreewayLegacy,3,Arterial,WD2,6-Saturday,0.828
+FreewayLegacy,3,Arterial,WD2,7-Sunday,0.566
+FreewayLegacy,3,Arterial,WD2,W1-Weekday,1.118
+FreewayLegacy,3,Arterial,WD2,MaxSatSun,1.118
+FreewaySR201,3,Arterial,WD2,1-Monday,1.083
+FreewaySR201,3,Arterial,WD2,2-Tuesday,1.116
+FreewaySR201,3,Arterial,WD2,3-Wednesday,1.129
+FreewaySR201,3,Arterial,WD2,4-Thursday,1.137
+FreewaySR201,3,Arterial,WD2,5-Friday,1.146
+FreewaySR201,3,Arterial,WD2,6-Saturday,0.828
+FreewaySR201,3,Arterial,WD2,7-Sunday,0.566
+FreewaySR201,3,Arterial,WD2,W1-Weekday,1.118
+FreewaySR201,3,Arterial,WD2,MaxSatSun,1.118
+FreewayUS40,3,Arterial,WD2,1-Monday,1.083
+FreewayUS40,3,Arterial,WD2,2-Tuesday,1.116
+FreewayUS40,3,Arterial,WD2,3-Wednesday,1.129
+FreewayUS40,3,Arterial,WD2,4-Thursday,1.137
+FreewayUS40,3,Arterial,WD2,5-Friday,1.146
+FreewayUS40,3,Arterial,WD2,6-Saturday,0.828
+FreewayUS40,3,Arterial,WD2,7-Sunday,0.566
+FreewayUS40,3,Arterial,WD2,W1-Weekday,1.118
+FreewayUS40,3,Arterial,WD2,MaxSatSun,1.118
+FreewayCommuter,3,Arterial,WD2,1-Monday,1.083
+FreewayCommuter,3,Arterial,WD2,2-Tuesday,1.116
+FreewayCommuter,3,Arterial,WD2,3-Wednesday,1.129
+FreewayCommuter,3,Arterial,WD2,4-Thursday,1.137
+FreewayCommuter,3,Arterial,WD2,5-Friday,1.146
+FreewayCommuter,3,Arterial,WD2,6-Saturday,0.828
+FreewayCommuter,3,Arterial,WD2,7-Sunday,0.566
+FreewayCommuter,3,Arterial,WD2,W1-Weekday,1.118
+FreewayCommuter,3,Arterial,WD2,MaxSatSun,1.118
+Arterial,4,Arterial,WD3,1-Monday,1.05
+Arterial,4,Arterial,WD3,2-Tuesday,1.072
+Arterial,4,Arterial,WD3,3-Wednesday,1.08
+Arterial,4,Arterial,WD3,4-Thursday,1.092
+Arterial,4,Arterial,WD3,5-Friday,1.148
+Arterial,4,Arterial,WD3,6-Saturday,0.939
+Arterial,4,Arterial,WD3,7-Sunday,0.622
+Arterial,4,Arterial,WD3,W1-Weekday,1.074
+Arterial,4,Arterial,WD3,MaxSatSun,1.074
+Arterial,5,Arterial,WD3,1-Monday,1.05
+Arterial,5,Arterial,WD3,2-Tuesday,1.072
+Arterial,5,Arterial,WD3,3-Wednesday,1.08
+Arterial,5,Arterial,WD3,4-Thursday,1.092
+Arterial,5,Arterial,WD3,5-Friday,1.148
+Arterial,5,Arterial,WD3,6-Saturday,0.939
+Arterial,5,Arterial,WD3,7-Sunday,0.622
+Arterial,5,Arterial,WD3,W1-Weekday,1.074
+Arterial,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI15,4,Arterial,WD3,1-Monday,1.05
+FreewayI15,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI15,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI15,4,Arterial,WD3,4-Thursday,1.092
+FreewayI15,4,Arterial,WD3,5-Friday,1.148
+FreewayI15,4,Arterial,WD3,6-Saturday,0.939
+FreewayI15,4,Arterial,WD3,7-Sunday,0.622
+FreewayI15,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI15,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI15,5,Arterial,WD3,1-Monday,1.05
+FreewayI15,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI15,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI15,5,Arterial,WD3,4-Thursday,1.092
+FreewayI15,5,Arterial,WD3,5-Friday,1.148
+FreewayI15,5,Arterial,WD3,6-Saturday,0.939
+FreewayI15,5,Arterial,WD3,7-Sunday,0.622
+FreewayI15,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI15,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI70,4,Arterial,WD3,1-Monday,1.05
+FreewayI70,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI70,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI70,4,Arterial,WD3,4-Thursday,1.092
+FreewayI70,4,Arterial,WD3,5-Friday,1.148
+FreewayI70,4,Arterial,WD3,6-Saturday,0.939
+FreewayI70,4,Arterial,WD3,7-Sunday,0.622
+FreewayI70,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI70,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI70,5,Arterial,WD3,1-Monday,1.05
+FreewayI70,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI70,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI70,5,Arterial,WD3,4-Thursday,1.092
+FreewayI70,5,Arterial,WD3,5-Friday,1.148
+FreewayI70,5,Arterial,WD3,6-Saturday,0.939
+FreewayI70,5,Arterial,WD3,7-Sunday,0.622
+FreewayI70,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI70,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI80,4,Arterial,WD3,1-Monday,1.05
+FreewayI80,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI80,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI80,4,Arterial,WD3,4-Thursday,1.092
+FreewayI80,4,Arterial,WD3,5-Friday,1.148
+FreewayI80,4,Arterial,WD3,6-Saturday,0.939
+FreewayI80,4,Arterial,WD3,7-Sunday,0.622
+FreewayI80,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI80,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI80,5,Arterial,WD3,1-Monday,1.05
+FreewayI80,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI80,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI80,5,Arterial,WD3,4-Thursday,1.092
+FreewayI80,5,Arterial,WD3,5-Friday,1.148
+FreewayI80,5,Arterial,WD3,6-Saturday,0.939
+FreewayI80,5,Arterial,WD3,7-Sunday,0.622
+FreewayI80,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI80,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI84West,4,Arterial,WD3,1-Monday,1.05
+FreewayI84West,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI84West,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI84West,4,Arterial,WD3,4-Thursday,1.092
+FreewayI84West,4,Arterial,WD3,5-Friday,1.148
+FreewayI84West,4,Arterial,WD3,6-Saturday,0.939
+FreewayI84West,4,Arterial,WD3,7-Sunday,0.622
+FreewayI84West,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI84West,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI84West,5,Arterial,WD3,1-Monday,1.05
+FreewayI84West,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI84West,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI84West,5,Arterial,WD3,4-Thursday,1.092
+FreewayI84West,5,Arterial,WD3,5-Friday,1.148
+FreewayI84West,5,Arterial,WD3,6-Saturday,0.939
+FreewayI84West,5,Arterial,WD3,7-Sunday,0.622
+FreewayI84West,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI84West,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI84East,4,Arterial,WD3,1-Monday,1.05
+FreewayI84East,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI84East,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI84East,4,Arterial,WD3,4-Thursday,1.092
+FreewayI84East,4,Arterial,WD3,5-Friday,1.148
+FreewayI84East,4,Arterial,WD3,6-Saturday,0.939
+FreewayI84East,4,Arterial,WD3,7-Sunday,0.622
+FreewayI84East,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI84East,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI84East,5,Arterial,WD3,1-Monday,1.05
+FreewayI84East,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI84East,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI84East,5,Arterial,WD3,4-Thursday,1.092
+FreewayI84East,5,Arterial,WD3,5-Friday,1.148
+FreewayI84East,5,Arterial,WD3,6-Saturday,0.939
+FreewayI84East,5,Arterial,WD3,7-Sunday,0.622
+FreewayI84East,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI84East,5,Arterial,WD3,MaxSatSun,1.074
+FreewayI215,4,Arterial,WD3,1-Monday,1.05
+FreewayI215,4,Arterial,WD3,2-Tuesday,1.072
+FreewayI215,4,Arterial,WD3,3-Wednesday,1.08
+FreewayI215,4,Arterial,WD3,4-Thursday,1.092
+FreewayI215,4,Arterial,WD3,5-Friday,1.148
+FreewayI215,4,Arterial,WD3,6-Saturday,0.939
+FreewayI215,4,Arterial,WD3,7-Sunday,0.622
+FreewayI215,4,Arterial,WD3,W1-Weekday,1.074
+FreewayI215,4,Arterial,WD3,MaxSatSun,1.074
+FreewayI215,5,Arterial,WD3,1-Monday,1.05
+FreewayI215,5,Arterial,WD3,2-Tuesday,1.072
+FreewayI215,5,Arterial,WD3,3-Wednesday,1.08
+FreewayI215,5,Arterial,WD3,4-Thursday,1.092
+FreewayI215,5,Arterial,WD3,5-Friday,1.148
+FreewayI215,5,Arterial,WD3,6-Saturday,0.939
+FreewayI215,5,Arterial,WD3,7-Sunday,0.622
+FreewayI215,5,Arterial,WD3,W1-Weekday,1.074
+FreewayI215,5,Arterial,WD3,MaxSatSun,1.074
+FreewayLegacy,4,Arterial,WD3,1-Monday,1.05
+FreewayLegacy,4,Arterial,WD3,2-Tuesday,1.072
+FreewayLegacy,4,Arterial,WD3,3-Wednesday,1.08
+FreewayLegacy,4,Arterial,WD3,4-Thursday,1.092
+FreewayLegacy,4,Arterial,WD3,5-Friday,1.148
+FreewayLegacy,4,Arterial,WD3,6-Saturday,0.939
+FreewayLegacy,4,Arterial,WD3,7-Sunday,0.622
+FreewayLegacy,4,Arterial,WD3,W1-Weekday,1.074
+FreewayLegacy,4,Arterial,WD3,MaxSatSun,1.074
+FreewayLegacy,5,Arterial,WD3,1-Monday,1.05
+FreewayLegacy,5,Arterial,WD3,2-Tuesday,1.072
+FreewayLegacy,5,Arterial,WD3,3-Wednesday,1.08
+FreewayLegacy,5,Arterial,WD3,4-Thursday,1.092
+FreewayLegacy,5,Arterial,WD3,5-Friday,1.148
+FreewayLegacy,5,Arterial,WD3,6-Saturday,0.939
+FreewayLegacy,5,Arterial,WD3,7-Sunday,0.622
+FreewayLegacy,5,Arterial,WD3,W1-Weekday,1.074
+FreewayLegacy,5,Arterial,WD3,MaxSatSun,1.074
+FreewaySR201,4,Arterial,WD3,1-Monday,1.05
+FreewaySR201,4,Arterial,WD3,2-Tuesday,1.072
+FreewaySR201,4,Arterial,WD3,3-Wednesday,1.08
+FreewaySR201,4,Arterial,WD3,4-Thursday,1.092
+FreewaySR201,4,Arterial,WD3,5-Friday,1.148
+FreewaySR201,4,Arterial,WD3,6-Saturday,0.939
+FreewaySR201,4,Arterial,WD3,7-Sunday,0.622
+FreewaySR201,4,Arterial,WD3,W1-Weekday,1.074
+FreewaySR201,4,Arterial,WD3,MaxSatSun,1.074
+FreewaySR201,5,Arterial,WD3,1-Monday,1.05
+FreewaySR201,5,Arterial,WD3,2-Tuesday,1.072
+FreewaySR201,5,Arterial,WD3,3-Wednesday,1.08
+FreewaySR201,5,Arterial,WD3,4-Thursday,1.092
+FreewaySR201,5,Arterial,WD3,5-Friday,1.148
+FreewaySR201,5,Arterial,WD3,6-Saturday,0.939
+FreewaySR201,5,Arterial,WD3,7-Sunday,0.622
+FreewaySR201,5,Arterial,WD3,W1-Weekday,1.074
+FreewaySR201,5,Arterial,WD3,MaxSatSun,1.074
+FreewayUS40,4,Arterial,WD3,1-Monday,1.05
+FreewayUS40,4,Arterial,WD3,2-Tuesday,1.072
+FreewayUS40,4,Arterial,WD3,3-Wednesday,1.08
+FreewayUS40,4,Arterial,WD3,4-Thursday,1.092
+FreewayUS40,4,Arterial,WD3,5-Friday,1.148
+FreewayUS40,4,Arterial,WD3,6-Saturday,0.939
+FreewayUS40,4,Arterial,WD3,7-Sunday,0.622
+FreewayUS40,4,Arterial,WD3,W1-Weekday,1.074
+FreewayUS40,4,Arterial,WD3,MaxSatSun,1.074
+FreewayUS40,5,Arterial,WD3,1-Monday,1.05
+FreewayUS40,5,Arterial,WD3,2-Tuesday,1.072
+FreewayUS40,5,Arterial,WD3,3-Wednesday,1.08
+FreewayUS40,5,Arterial,WD3,4-Thursday,1.092
+FreewayUS40,5,Arterial,WD3,5-Friday,1.148
+FreewayUS40,5,Arterial,WD3,6-Saturday,0.939
+FreewayUS40,5,Arterial,WD3,7-Sunday,0.622
+FreewayUS40,5,Arterial,WD3,W1-Weekday,1.074
+FreewayUS40,5,Arterial,WD3,MaxSatSun,1.074
+FreewayCommuter,4,Arterial,WD3,1-Monday,1.05
+FreewayCommuter,4,Arterial,WD3,2-Tuesday,1.072
+FreewayCommuter,4,Arterial,WD3,3-Wednesday,1.08
+FreewayCommuter,4,Arterial,WD3,4-Thursday,1.092
+FreewayCommuter,4,Arterial,WD3,5-Friday,1.148
+FreewayCommuter,4,Arterial,WD3,6-Saturday,0.939
+FreewayCommuter,4,Arterial,WD3,7-Sunday,0.622
+FreewayCommuter,4,Arterial,WD3,W1-Weekday,1.074
+FreewayCommuter,4,Arterial,WD3,MaxSatSun,1.074
+FreewayCommuter,5,Arterial,WD3,1-Monday,1.05
+FreewayCommuter,5,Arterial,WD3,2-Tuesday,1.072
+FreewayCommuter,5,Arterial,WD3,3-Wednesday,1.08
+FreewayCommuter,5,Arterial,WD3,4-Thursday,1.092
+FreewayCommuter,5,Arterial,WD3,5-Friday,1.148
+FreewayCommuter,5,Arterial,WD3,6-Saturday,0.939
+FreewayCommuter,5,Arterial,WD3,7-Sunday,0.622
+FreewayCommuter,5,Arterial,WD3,W1-Weekday,1.074
+FreewayCommuter,5,Arterial,WD3,MaxSatSun,1.074
+Expressway,1,Arterial,WD5,1-Monday,1.017
+Expressway,1,Arterial,WD5,2-Tuesday,1.017
+Expressway,1,Arterial,WD5,3-Wednesday,1.047
+Expressway,1,Arterial,WD5,4-Thursday,1.081
+Expressway,1,Arterial,WD5,5-Friday,1.159
+Expressway,1,Arterial,WD5,6-Saturday,0.963
+Expressway,1,Arterial,WD5,7-Sunday,0.717
+Expressway,1,Arterial,WD5,W1-Weekday,1.041
+Expressway,1,Arterial,WD5,MaxSatSun,1.041
+Expressway,2,Arterial,WD5,1-Monday,1.017
+Expressway,2,Arterial,WD5,2-Tuesday,1.017
+Expressway,2,Arterial,WD5,3-Wednesday,1.047
+Expressway,2,Arterial,WD5,4-Thursday,1.081
+Expressway,2,Arterial,WD5,5-Friday,1.159
+Expressway,2,Arterial,WD5,6-Saturday,0.963
+Expressway,2,Arterial,WD5,7-Sunday,0.717
+Expressway,2,Arterial,WD5,W1-Weekday,1.041
+Expressway,2,Arterial,WD5,MaxSatSun,1.041
+Expressway,3,Arterial,WD6,1-Monday,1.051
+Expressway,3,Arterial,WD6,2-Tuesday,1.084
+Expressway,3,Arterial,WD6,3-Wednesday,1.097
+Expressway,3,Arterial,WD6,4-Thursday,1.112
+Expressway,3,Arterial,WD6,5-Friday,1.146
+Expressway,3,Arterial,WD6,6-Saturday,0.925
+Expressway,3,Arterial,WD6,7-Sunday,0.582
+Expressway,3,Arterial,WD6,W1-Weekday,1.087
+Expressway,3,Arterial,WD6,MaxSatSun,1.087
+Expressway,4,Arterial,WD7,1-Monday,1.091
+Expressway,4,Arterial,WD7,2-Tuesday,1.122
+Expressway,4,Arterial,WD7,3-Wednesday,1.132
+Expressway,4,Arterial,WD7,4-Thursday,1.14
+Expressway,4,Arterial,WD7,5-Friday,1.158
+Expressway,4,Arterial,WD7,6-Saturday,0.801
+Expressway,4,Arterial,WD7,7-Sunday,0.56
+Expressway,4,Arterial,WD7,W1-Weekday,1.122
+Expressway,4,Arterial,WD7,MaxSatSun,1.122
+Expressway,5,Arterial,WD7,1-Monday,1.091
+Expressway,5,Arterial,WD7,2-Tuesday,1.122
+Expressway,5,Arterial,WD7,3-Wednesday,1.132
+Expressway,5,Arterial,WD7,4-Thursday,1.14
+Expressway,5,Arterial,WD7,5-Friday,1.158
+Expressway,5,Arterial,WD7,6-Saturday,0.801
+Expressway,5,Arterial,WD7,7-Sunday,0.56
+Expressway,5,Arterial,WD7,W1-Weekday,1.122
+Expressway,5,Arterial,WD7,MaxSatSun,1.122
+Canyon,1,Arterial,WD4,1-Monday,0.756
+Canyon,1,Arterial,WD4,2-Tuesday,0.742
+Canyon,1,Arterial,WD4,3-Wednesday,0.794
+Canyon,1,Arterial,WD4,4-Thursday,0.833
+Canyon,1,Arterial,WD4,5-Friday,1.085
+Canyon,1,Arterial,WD4,6-Saturday,1.449
+Canyon,1,Arterial,WD4,7-Sunday,1.306
+Canyon,1,Arterial,WD4,W1-Weekday,0.782
+Canyon,1,Arterial,WD4,MaxSatSun,1.306
+Canyon,2,Arterial,WD4,1-Monday,0.756
+Canyon,2,Arterial,WD4,2-Tuesday,0.742
+Canyon,2,Arterial,WD4,3-Wednesday,0.794
+Canyon,2,Arterial,WD4,4-Thursday,0.833
+Canyon,2,Arterial,WD4,5-Friday,1.085
+Canyon,2,Arterial,WD4,6-Saturday,1.449
+Canyon,2,Arterial,WD4,7-Sunday,1.306
+Canyon,2,Arterial,WD4,W1-Weekday,0.782
+Canyon,2,Arterial,WD4,MaxSatSun,1.306
+Canyon,3,Arterial,WD4,1-Monday,0.756
+Canyon,3,Arterial,WD4,2-Tuesday,0.742
+Canyon,3,Arterial,WD4,3-Wednesday,0.794
+Canyon,3,Arterial,WD4,4-Thursday,0.833
+Canyon,3,Arterial,WD4,5-Friday,1.085
+Canyon,3,Arterial,WD4,6-Saturday,1.449
+Canyon,3,Arterial,WD4,7-Sunday,1.306
+Canyon,3,Arterial,WD4,W1-Weekday,0.782
+Canyon,3,Arterial,WD4,MaxSatSun,1.306
+Canyon,4,Arterial,WD4,1-Monday,0.756
+Canyon,4,Arterial,WD4,2-Tuesday,0.742
+Canyon,4,Arterial,WD4,3-Wednesday,0.794
+Canyon,4,Arterial,WD4,4-Thursday,0.833
+Canyon,4,Arterial,WD4,5-Friday,1.085
+Canyon,4,Arterial,WD4,6-Saturday,1.449
+Canyon,4,Arterial,WD4,7-Sunday,1.306
+Canyon,4,Arterial,WD4,W1-Weekday,0.782
+Canyon,4,Arterial,WD4,MaxSatSun,1.306
+Canyon,5,Arterial,WD4,1-Monday,0.756
+Canyon,5,Arterial,WD4,2-Tuesday,0.742
+Canyon,5,Arterial,WD4,3-Wednesday,0.794
+Canyon,5,Arterial,WD4,4-Thursday,0.833
+Canyon,5,Arterial,WD4,5-Friday,1.085
+Canyon,5,Arterial,WD4,6-Saturday,1.449
+Canyon,5,Arterial,WD4,7-Sunday,1.306
+Canyon,5,Arterial,WD4,W1-Weekday,0.782
+Canyon,5,Arterial,WD4,MaxSatSun,1.306
+Canyon,1,Freeway,WD4,1-Monday,0.756
+Canyon,1,Freeway,WD4,2-Tuesday,0.742
+Canyon,1,Freeway,WD4,3-Wednesday,0.794
+Canyon,1,Freeway,WD4,4-Thursday,0.833
+Canyon,1,Freeway,WD4,5-Friday,1.085
+Canyon,1,Freeway,WD4,6-Saturday,1.449
+Canyon,1,Freeway,WD4,7-Sunday,1.306
+Canyon,1,Freeway,WD4,W1-Weekday,0.782
+Canyon,1,Freeway,WD4,MaxSatSun,1.306
+Canyon,2,Freeway,WD4,1-Monday,0.756
+Canyon,2,Freeway,WD4,2-Tuesday,0.742
+Canyon,2,Freeway,WD4,3-Wednesday,0.794
+Canyon,2,Freeway,WD4,4-Thursday,0.833
+Canyon,2,Freeway,WD4,5-Friday,1.085
+Canyon,2,Freeway,WD4,6-Saturday,1.449
+Canyon,2,Freeway,WD4,7-Sunday,1.306
+Canyon,2,Freeway,WD4,W1-Weekday,0.782
+Canyon,2,Freeway,WD4,MaxSatSun,1.306
+Canyon,3,Freeway,WD4,1-Monday,0.756
+Canyon,3,Freeway,WD4,2-Tuesday,0.742
+Canyon,3,Freeway,WD4,3-Wednesday,0.794
+Canyon,3,Freeway,WD4,4-Thursday,0.833
+Canyon,3,Freeway,WD4,5-Friday,1.085
+Canyon,3,Freeway,WD4,6-Saturday,1.449
+Canyon,3,Freeway,WD4,7-Sunday,1.306
+Canyon,3,Freeway,WD4,W1-Weekday,0.782
+Canyon,3,Freeway,WD4,MaxSatSun,1.306
+Canyon,4,Freeway,WD4,1-Monday,0.756
+Canyon,4,Freeway,WD4,2-Tuesday,0.742
+Canyon,4,Freeway,WD4,3-Wednesday,0.794
+Canyon,4,Freeway,WD4,4-Thursday,0.833
+Canyon,4,Freeway,WD4,5-Friday,1.085
+Canyon,4,Freeway,WD4,6-Saturday,1.449
+Canyon,4,Freeway,WD4,7-Sunday,1.306
+Canyon,4,Freeway,WD4,W1-Weekday,0.782
+Canyon,4,Freeway,WD4,MaxSatSun,1.306
+Canyon,5,Freeway,WD4,1-Monday,0.756
+Canyon,5,Freeway,WD4,2-Tuesday,0.742
+Canyon,5,Freeway,WD4,3-Wednesday,0.794
+Canyon,5,Freeway,WD4,4-Thursday,0.833
+Canyon,5,Freeway,WD4,5-Friday,1.085
+Canyon,5,Freeway,WD4,6-Saturday,1.449
+Canyon,5,Freeway,WD4,7-Sunday,1.306
+Canyon,5,Freeway,WD4,W1-Weekday,0.782
+Canyon,5,Freeway,WD4,MaxSatSun,1.306
+Canyon,1,Managed,WD4,1-Monday,0.756
+Canyon,1,Managed,WD4,2-Tuesday,0.742
+Canyon,1,Managed,WD4,3-Wednesday,0.794
+Canyon,1,Managed,WD4,4-Thursday,0.833
+Canyon,1,Managed,WD4,5-Friday,1.085
+Canyon,1,Managed,WD4,6-Saturday,1.449
+Canyon,1,Managed,WD4,7-Sunday,1.306
+Canyon,1,Managed,WD4,W1-Weekday,0.782
+Canyon,1,Managed,WD4,MaxSatSun,1.306
+Canyon,2,Managed,WD4,1-Monday,0.756
+Canyon,2,Managed,WD4,2-Tuesday,0.742
+Canyon,2,Managed,WD4,3-Wednesday,0.794
+Canyon,2,Managed,WD4,4-Thursday,0.833
+Canyon,2,Managed,WD4,5-Friday,1.085
+Canyon,2,Managed,WD4,6-Saturday,1.449
+Canyon,2,Managed,WD4,7-Sunday,1.306
+Canyon,2,Managed,WD4,W1-Weekday,0.782
+Canyon,2,Managed,WD4,MaxSatSun,1.306
+Canyon,3,Managed,WD4,1-Monday,0.756
+Canyon,3,Managed,WD4,2-Tuesday,0.742
+Canyon,3,Managed,WD4,3-Wednesday,0.794
+Canyon,3,Managed,WD4,4-Thursday,0.833
+Canyon,3,Managed,WD4,5-Friday,1.085
+Canyon,3,Managed,WD4,6-Saturday,1.449
+Canyon,3,Managed,WD4,7-Sunday,1.306
+Canyon,3,Managed,WD4,W1-Weekday,0.782
+Canyon,3,Managed,WD4,MaxSatSun,1.306
+Canyon,4,Managed,WD4,1-Monday,0.756
+Canyon,4,Managed,WD4,2-Tuesday,0.742
+Canyon,4,Managed,WD4,3-Wednesday,0.794
+Canyon,4,Managed,WD4,4-Thursday,0.833
+Canyon,4,Managed,WD4,5-Friday,1.085
+Canyon,4,Managed,WD4,6-Saturday,1.449
+Canyon,4,Managed,WD4,7-Sunday,1.306
+Canyon,4,Managed,WD4,W1-Weekday,0.782
+Canyon,4,Managed,WD4,MaxSatSun,1.306
+Canyon,5,Managed,WD4,1-Monday,0.756
+Canyon,5,Managed,WD4,2-Tuesday,0.742
+Canyon,5,Managed,WD4,3-Wednesday,0.794
+Canyon,5,Managed,WD4,4-Thursday,0.833
+Canyon,5,Managed,WD4,5-Friday,1.085
+Canyon,5,Managed,WD4,6-Saturday,1.449
+Canyon,5,Managed,WD4,7-Sunday,1.306
+Canyon,5,Managed,WD4,W1-Weekday,0.782
+Canyon,5,Managed,WD4,MaxSatSun,1.306
+Canyon,1,CD Road,WD4,1-Monday,0.756
+Canyon,1,CD Road,WD4,2-Tuesday,0.742
+Canyon,1,CD Road,WD4,3-Wednesday,0.794
+Canyon,1,CD Road,WD4,4-Thursday,0.833
+Canyon,1,CD Road,WD4,5-Friday,1.085
+Canyon,1,CD Road,WD4,6-Saturday,1.449
+Canyon,1,CD Road,WD4,7-Sunday,1.306
+Canyon,1,CD Road,WD4,W1-Weekday,0.782
+Canyon,1,CD Road,WD4,MaxSatSun,1.306
+Canyon,2,CD Road,WD4,1-Monday,0.756
+Canyon,2,CD Road,WD4,2-Tuesday,0.742
+Canyon,2,CD Road,WD4,3-Wednesday,0.794
+Canyon,2,CD Road,WD4,4-Thursday,0.833
+Canyon,2,CD Road,WD4,5-Friday,1.085
+Canyon,2,CD Road,WD4,6-Saturday,1.449
+Canyon,2,CD Road,WD4,7-Sunday,1.306
+Canyon,2,CD Road,WD4,W1-Weekday,0.782
+Canyon,2,CD Road,WD4,MaxSatSun,1.306
+Canyon,3,CD Road,WD4,1-Monday,0.756
+Canyon,3,CD Road,WD4,2-Tuesday,0.742
+Canyon,3,CD Road,WD4,3-Wednesday,0.794
+Canyon,3,CD Road,WD4,4-Thursday,0.833
+Canyon,3,CD Road,WD4,5-Friday,1.085
+Canyon,3,CD Road,WD4,6-Saturday,1.449
+Canyon,3,CD Road,WD4,7-Sunday,1.306
+Canyon,3,CD Road,WD4,W1-Weekday,0.782
+Canyon,3,CD Road,WD4,MaxSatSun,1.306
+Canyon,4,CD Road,WD4,1-Monday,0.756
+Canyon,4,CD Road,WD4,2-Tuesday,0.742
+Canyon,4,CD Road,WD4,3-Wednesday,0.794
+Canyon,4,CD Road,WD4,4-Thursday,0.833
+Canyon,4,CD Road,WD4,5-Friday,1.085
+Canyon,4,CD Road,WD4,6-Saturday,1.449
+Canyon,4,CD Road,WD4,7-Sunday,1.306
+Canyon,4,CD Road,WD4,W1-Weekday,0.782
+Canyon,4,CD Road,WD4,MaxSatSun,1.306
+Canyon,5,CD Road,WD4,1-Monday,0.756
+Canyon,5,CD Road,WD4,2-Tuesday,0.742
+Canyon,5,CD Road,WD4,3-Wednesday,0.794
+Canyon,5,CD Road,WD4,4-Thursday,0.833
+Canyon,5,CD Road,WD4,5-Friday,1.085
+Canyon,5,CD Road,WD4,6-Saturday,1.449
+Canyon,5,CD Road,WD4,7-Sunday,1.306
+Canyon,5,CD Road,WD4,W1-Weekday,0.782
+Canyon,5,CD Road,WD4,MaxSatSun,1.306
+Arterial,1,Freeway,XX2,1-Monday,1.114
+Arterial,1,Freeway,XX2,2-Tuesday,1.148
+Arterial,1,Freeway,XX2,3-Wednesday,1.161
+Arterial,1,Freeway,XX2,4-Thursday,1.1636666666666666
+Arterial,1,Freeway,XX2,5-Friday,1.163
+Arterial,1,Freeway,XX2,6-Saturday,0.7333333333333334
+Arterial,1,Freeway,XX2,7-Sunday,0.5246666666666666
+Arterial,1,Freeway,XX2,W1-Weekday,1.1476666666666666
+Arterial,1,Freeway,XX2,MaxSatSun,1.1476666666666666
+Arterial,2,Freeway,XX2,1-Monday,1.114
+Arterial,2,Freeway,XX2,2-Tuesday,1.148
+Arterial,2,Freeway,XX2,3-Wednesday,1.161
+Arterial,2,Freeway,XX2,4-Thursday,1.1636666666666666
+Arterial,2,Freeway,XX2,5-Friday,1.163
+Arterial,2,Freeway,XX2,6-Saturday,0.7333333333333334
+Arterial,2,Freeway,XX2,7-Sunday,0.5246666666666666
+Arterial,2,Freeway,XX2,W1-Weekday,1.1476666666666666
+Arterial,2,Freeway,XX2,MaxSatSun,1.1476666666666666
+Arterial,3,Freeway,XX2,1-Monday,1.114
+Arterial,3,Freeway,XX2,2-Tuesday,1.148
+Arterial,3,Freeway,XX2,3-Wednesday,1.161
+Arterial,3,Freeway,XX2,4-Thursday,1.1636666666666666
+Arterial,3,Freeway,XX2,5-Friday,1.163
+Arterial,3,Freeway,XX2,6-Saturday,0.7333333333333334
+Arterial,3,Freeway,XX2,7-Sunday,0.5246666666666666
+Arterial,3,Freeway,XX2,W1-Weekday,1.1476666666666666
+Arterial,3,Freeway,XX2,MaxSatSun,1.1476666666666666
+Arterial,4,Freeway,XX2,1-Monday,1.114
+Arterial,4,Freeway,XX2,2-Tuesday,1.148
+Arterial,4,Freeway,XX2,3-Wednesday,1.161
+Arterial,4,Freeway,XX2,4-Thursday,1.1636666666666666
+Arterial,4,Freeway,XX2,5-Friday,1.163
+Arterial,4,Freeway,XX2,6-Saturday,0.7333333333333334
+Arterial,4,Freeway,XX2,7-Sunday,0.5246666666666666
+Arterial,4,Freeway,XX2,W1-Weekday,1.1476666666666666
+Arterial,4,Freeway,XX2,MaxSatSun,1.1476666666666666
+Arterial,5,Freeway,XX2,1-Monday,1.114
+Arterial,5,Freeway,XX2,2-Tuesday,1.148
+Arterial,5,Freeway,XX2,3-Wednesday,1.161
+Arterial,5,Freeway,XX2,4-Thursday,1.1636666666666666
+Arterial,5,Freeway,XX2,5-Friday,1.163
+Arterial,5,Freeway,XX2,6-Saturday,0.7333333333333334
+Arterial,5,Freeway,XX2,7-Sunday,0.5246666666666666
+Arterial,5,Freeway,XX2,W1-Weekday,1.1476666666666666
+Arterial,5,Freeway,XX2,MaxSatSun,1.1476666666666666
+Expressway,1,Freeway,XX2,1-Monday,1.114
+Expressway,1,Freeway,XX2,2-Tuesday,1.148
+Expressway,1,Freeway,XX2,3-Wednesday,1.161
+Expressway,1,Freeway,XX2,4-Thursday,1.1636666666666666
+Expressway,1,Freeway,XX2,5-Friday,1.163
+Expressway,1,Freeway,XX2,6-Saturday,0.7333333333333334
+Expressway,1,Freeway,XX2,7-Sunday,0.5246666666666666
+Expressway,1,Freeway,XX2,W1-Weekday,1.1476666666666666
+Expressway,1,Freeway,XX2,MaxSatSun,1.1476666666666666
+Expressway,2,Freeway,XX2,1-Monday,1.114
+Expressway,2,Freeway,XX2,2-Tuesday,1.148
+Expressway,2,Freeway,XX2,3-Wednesday,1.161
+Expressway,2,Freeway,XX2,4-Thursday,1.1636666666666666
+Expressway,2,Freeway,XX2,5-Friday,1.163
+Expressway,2,Freeway,XX2,6-Saturday,0.7333333333333334
+Expressway,2,Freeway,XX2,7-Sunday,0.5246666666666666
+Expressway,2,Freeway,XX2,W1-Weekday,1.1476666666666666
+Expressway,2,Freeway,XX2,MaxSatSun,1.1476666666666666
+Expressway,3,Freeway,XX2,1-Monday,1.114
+Expressway,3,Freeway,XX2,2-Tuesday,1.148
+Expressway,3,Freeway,XX2,3-Wednesday,1.161
+Expressway,3,Freeway,XX2,4-Thursday,1.1636666666666666
+Expressway,3,Freeway,XX2,5-Friday,1.163
+Expressway,3,Freeway,XX2,6-Saturday,0.7333333333333334
+Expressway,3,Freeway,XX2,7-Sunday,0.5246666666666666
+Expressway,3,Freeway,XX2,W1-Weekday,1.1476666666666666
+Expressway,3,Freeway,XX2,MaxSatSun,1.1476666666666666
+Expressway,4,Freeway,XX2,1-Monday,1.114
+Expressway,4,Freeway,XX2,2-Tuesday,1.148
+Expressway,4,Freeway,XX2,3-Wednesday,1.161
+Expressway,4,Freeway,XX2,4-Thursday,1.1636666666666666
+Expressway,4,Freeway,XX2,5-Friday,1.163
+Expressway,4,Freeway,XX2,6-Saturday,0.7333333333333334
+Expressway,4,Freeway,XX2,7-Sunday,0.5246666666666666
+Expressway,4,Freeway,XX2,W1-Weekday,1.1476666666666666
+Expressway,4,Freeway,XX2,MaxSatSun,1.1476666666666666
+Expressway,5,Freeway,XX2,1-Monday,1.114
+Expressway,5,Freeway,XX2,2-Tuesday,1.148
+Expressway,5,Freeway,XX2,3-Wednesday,1.161
+Expressway,5,Freeway,XX2,4-Thursday,1.1636666666666666
+Expressway,5,Freeway,XX2,5-Friday,1.163
+Expressway,5,Freeway,XX2,6-Saturday,0.7333333333333334
+Expressway,5,Freeway,XX2,7-Sunday,0.5246666666666666
+Expressway,5,Freeway,XX2,W1-Weekday,1.1476666666666666
+Expressway,5,Freeway,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,1,Freeway,XX2,1-Monday,1.114
+FreewayCommuter,1,Freeway,XX2,2-Tuesday,1.148
+FreewayCommuter,1,Freeway,XX2,3-Wednesday,1.161
+FreewayCommuter,1,Freeway,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,1,Freeway,XX2,5-Friday,1.163
+FreewayCommuter,1,Freeway,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,1,Freeway,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,1,Freeway,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,1,Freeway,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,2,Freeway,XX2,1-Monday,1.114
+FreewayCommuter,2,Freeway,XX2,2-Tuesday,1.148
+FreewayCommuter,2,Freeway,XX2,3-Wednesday,1.161
+FreewayCommuter,2,Freeway,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,2,Freeway,XX2,5-Friday,1.163
+FreewayCommuter,2,Freeway,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,2,Freeway,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,2,Freeway,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,2,Freeway,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,3,Freeway,XX2,1-Monday,1.114
+FreewayCommuter,3,Freeway,XX2,2-Tuesday,1.148
+FreewayCommuter,3,Freeway,XX2,3-Wednesday,1.161
+FreewayCommuter,3,Freeway,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,3,Freeway,XX2,5-Friday,1.163
+FreewayCommuter,3,Freeway,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,3,Freeway,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,3,Freeway,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,3,Freeway,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,4,Freeway,XX2,1-Monday,1.114
+FreewayCommuter,4,Freeway,XX2,2-Tuesday,1.148
+FreewayCommuter,4,Freeway,XX2,3-Wednesday,1.161
+FreewayCommuter,4,Freeway,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,4,Freeway,XX2,5-Friday,1.163
+FreewayCommuter,4,Freeway,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,4,Freeway,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,4,Freeway,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,4,Freeway,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,5,Freeway,XX2,1-Monday,1.114
+FreewayCommuter,5,Freeway,XX2,2-Tuesday,1.148
+FreewayCommuter,5,Freeway,XX2,3-Wednesday,1.161
+FreewayCommuter,5,Freeway,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,5,Freeway,XX2,5-Friday,1.163
+FreewayCommuter,5,Freeway,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,5,Freeway,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,5,Freeway,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,5,Freeway,XX2,MaxSatSun,1.1476666666666666
+Arterial,1,Managed,XX2,1-Monday,1.114
+Arterial,1,Managed,XX2,2-Tuesday,1.148
+Arterial,1,Managed,XX2,3-Wednesday,1.161
+Arterial,1,Managed,XX2,4-Thursday,1.1636666666666666
+Arterial,1,Managed,XX2,5-Friday,1.163
+Arterial,1,Managed,XX2,6-Saturday,0.7333333333333334
+Arterial,1,Managed,XX2,7-Sunday,0.5246666666666666
+Arterial,1,Managed,XX2,W1-Weekday,1.1476666666666666
+Arterial,1,Managed,XX2,MaxSatSun,1.1476666666666666
+Arterial,2,Managed,XX2,1-Monday,1.114
+Arterial,2,Managed,XX2,2-Tuesday,1.148
+Arterial,2,Managed,XX2,3-Wednesday,1.161
+Arterial,2,Managed,XX2,4-Thursday,1.1636666666666666
+Arterial,2,Managed,XX2,5-Friday,1.163
+Arterial,2,Managed,XX2,6-Saturday,0.7333333333333334
+Arterial,2,Managed,XX2,7-Sunday,0.5246666666666666
+Arterial,2,Managed,XX2,W1-Weekday,1.1476666666666666
+Arterial,2,Managed,XX2,MaxSatSun,1.1476666666666666
+Arterial,3,Managed,XX2,1-Monday,1.114
+Arterial,3,Managed,XX2,2-Tuesday,1.148
+Arterial,3,Managed,XX2,3-Wednesday,1.161
+Arterial,3,Managed,XX2,4-Thursday,1.1636666666666666
+Arterial,3,Managed,XX2,5-Friday,1.163
+Arterial,3,Managed,XX2,6-Saturday,0.7333333333333334
+Arterial,3,Managed,XX2,7-Sunday,0.5246666666666666
+Arterial,3,Managed,XX2,W1-Weekday,1.1476666666666666
+Arterial,3,Managed,XX2,MaxSatSun,1.1476666666666666
+Arterial,4,Managed,XX2,1-Monday,1.114
+Arterial,4,Managed,XX2,2-Tuesday,1.148
+Arterial,4,Managed,XX2,3-Wednesday,1.161
+Arterial,4,Managed,XX2,4-Thursday,1.1636666666666666
+Arterial,4,Managed,XX2,5-Friday,1.163
+Arterial,4,Managed,XX2,6-Saturday,0.7333333333333334
+Arterial,4,Managed,XX2,7-Sunday,0.5246666666666666
+Arterial,4,Managed,XX2,W1-Weekday,1.1476666666666666
+Arterial,4,Managed,XX2,MaxSatSun,1.1476666666666666
+Arterial,5,Managed,XX2,1-Monday,1.114
+Arterial,5,Managed,XX2,2-Tuesday,1.148
+Arterial,5,Managed,XX2,3-Wednesday,1.161
+Arterial,5,Managed,XX2,4-Thursday,1.1636666666666666
+Arterial,5,Managed,XX2,5-Friday,1.163
+Arterial,5,Managed,XX2,6-Saturday,0.7333333333333334
+Arterial,5,Managed,XX2,7-Sunday,0.5246666666666666
+Arterial,5,Managed,XX2,W1-Weekday,1.1476666666666666
+Arterial,5,Managed,XX2,MaxSatSun,1.1476666666666666
+Expressway,1,Managed,XX2,1-Monday,1.114
+Expressway,1,Managed,XX2,2-Tuesday,1.148
+Expressway,1,Managed,XX2,3-Wednesday,1.161
+Expressway,1,Managed,XX2,4-Thursday,1.1636666666666666
+Expressway,1,Managed,XX2,5-Friday,1.163
+Expressway,1,Managed,XX2,6-Saturday,0.7333333333333334
+Expressway,1,Managed,XX2,7-Sunday,0.5246666666666666
+Expressway,1,Managed,XX2,W1-Weekday,1.1476666666666666
+Expressway,1,Managed,XX2,MaxSatSun,1.1476666666666666
+Expressway,2,Managed,XX2,1-Monday,1.114
+Expressway,2,Managed,XX2,2-Tuesday,1.148
+Expressway,2,Managed,XX2,3-Wednesday,1.161
+Expressway,2,Managed,XX2,4-Thursday,1.1636666666666666
+Expressway,2,Managed,XX2,5-Friday,1.163
+Expressway,2,Managed,XX2,6-Saturday,0.7333333333333334
+Expressway,2,Managed,XX2,7-Sunday,0.5246666666666666
+Expressway,2,Managed,XX2,W1-Weekday,1.1476666666666666
+Expressway,2,Managed,XX2,MaxSatSun,1.1476666666666666
+Expressway,3,Managed,XX2,1-Monday,1.114
+Expressway,3,Managed,XX2,2-Tuesday,1.148
+Expressway,3,Managed,XX2,3-Wednesday,1.161
+Expressway,3,Managed,XX2,4-Thursday,1.1636666666666666
+Expressway,3,Managed,XX2,5-Friday,1.163
+Expressway,3,Managed,XX2,6-Saturday,0.7333333333333334
+Expressway,3,Managed,XX2,7-Sunday,0.5246666666666666
+Expressway,3,Managed,XX2,W1-Weekday,1.1476666666666666
+Expressway,3,Managed,XX2,MaxSatSun,1.1476666666666666
+Expressway,4,Managed,XX2,1-Monday,1.114
+Expressway,4,Managed,XX2,2-Tuesday,1.148
+Expressway,4,Managed,XX2,3-Wednesday,1.161
+Expressway,4,Managed,XX2,4-Thursday,1.1636666666666666
+Expressway,4,Managed,XX2,5-Friday,1.163
+Expressway,4,Managed,XX2,6-Saturday,0.7333333333333334
+Expressway,4,Managed,XX2,7-Sunday,0.5246666666666666
+Expressway,4,Managed,XX2,W1-Weekday,1.1476666666666666
+Expressway,4,Managed,XX2,MaxSatSun,1.1476666666666666
+Expressway,5,Managed,XX2,1-Monday,1.114
+Expressway,5,Managed,XX2,2-Tuesday,1.148
+Expressway,5,Managed,XX2,3-Wednesday,1.161
+Expressway,5,Managed,XX2,4-Thursday,1.1636666666666666
+Expressway,5,Managed,XX2,5-Friday,1.163
+Expressway,5,Managed,XX2,6-Saturday,0.7333333333333334
+Expressway,5,Managed,XX2,7-Sunday,0.5246666666666666
+Expressway,5,Managed,XX2,W1-Weekday,1.1476666666666666
+Expressway,5,Managed,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,1,Managed,XX2,1-Monday,1.114
+FreewayCommuter,1,Managed,XX2,2-Tuesday,1.148
+FreewayCommuter,1,Managed,XX2,3-Wednesday,1.161
+FreewayCommuter,1,Managed,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,1,Managed,XX2,5-Friday,1.163
+FreewayCommuter,1,Managed,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,1,Managed,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,1,Managed,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,1,Managed,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,2,Managed,XX2,1-Monday,1.114
+FreewayCommuter,2,Managed,XX2,2-Tuesday,1.148
+FreewayCommuter,2,Managed,XX2,3-Wednesday,1.161
+FreewayCommuter,2,Managed,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,2,Managed,XX2,5-Friday,1.163
+FreewayCommuter,2,Managed,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,2,Managed,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,2,Managed,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,2,Managed,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,3,Managed,XX2,1-Monday,1.114
+FreewayCommuter,3,Managed,XX2,2-Tuesday,1.148
+FreewayCommuter,3,Managed,XX2,3-Wednesday,1.161
+FreewayCommuter,3,Managed,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,3,Managed,XX2,5-Friday,1.163
+FreewayCommuter,3,Managed,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,3,Managed,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,3,Managed,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,3,Managed,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,4,Managed,XX2,1-Monday,1.114
+FreewayCommuter,4,Managed,XX2,2-Tuesday,1.148
+FreewayCommuter,4,Managed,XX2,3-Wednesday,1.161
+FreewayCommuter,4,Managed,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,4,Managed,XX2,5-Friday,1.163
+FreewayCommuter,4,Managed,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,4,Managed,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,4,Managed,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,4,Managed,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,5,Managed,XX2,1-Monday,1.114
+FreewayCommuter,5,Managed,XX2,2-Tuesday,1.148
+FreewayCommuter,5,Managed,XX2,3-Wednesday,1.161
+FreewayCommuter,5,Managed,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,5,Managed,XX2,5-Friday,1.163
+FreewayCommuter,5,Managed,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,5,Managed,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,5,Managed,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,5,Managed,XX2,MaxSatSun,1.1476666666666666
+Arterial,1,CD Road,XX2,1-Monday,1.114
+Arterial,1,CD Road,XX2,2-Tuesday,1.148
+Arterial,1,CD Road,XX2,3-Wednesday,1.161
+Arterial,1,CD Road,XX2,4-Thursday,1.1636666666666666
+Arterial,1,CD Road,XX2,5-Friday,1.163
+Arterial,1,CD Road,XX2,6-Saturday,0.7333333333333334
+Arterial,1,CD Road,XX2,7-Sunday,0.5246666666666666
+Arterial,1,CD Road,XX2,W1-Weekday,1.1476666666666666
+Arterial,1,CD Road,XX2,MaxSatSun,1.1476666666666666
+Arterial,2,CD Road,XX2,1-Monday,1.114
+Arterial,2,CD Road,XX2,2-Tuesday,1.148
+Arterial,2,CD Road,XX2,3-Wednesday,1.161
+Arterial,2,CD Road,XX2,4-Thursday,1.1636666666666666
+Arterial,2,CD Road,XX2,5-Friday,1.163
+Arterial,2,CD Road,XX2,6-Saturday,0.7333333333333334
+Arterial,2,CD Road,XX2,7-Sunday,0.5246666666666666
+Arterial,2,CD Road,XX2,W1-Weekday,1.1476666666666666
+Arterial,2,CD Road,XX2,MaxSatSun,1.1476666666666666
+Arterial,3,CD Road,XX2,1-Monday,1.114
+Arterial,3,CD Road,XX2,2-Tuesday,1.148
+Arterial,3,CD Road,XX2,3-Wednesday,1.161
+Arterial,3,CD Road,XX2,4-Thursday,1.1636666666666666
+Arterial,3,CD Road,XX2,5-Friday,1.163
+Arterial,3,CD Road,XX2,6-Saturday,0.7333333333333334
+Arterial,3,CD Road,XX2,7-Sunday,0.5246666666666666
+Arterial,3,CD Road,XX2,W1-Weekday,1.1476666666666666
+Arterial,3,CD Road,XX2,MaxSatSun,1.1476666666666666
+Arterial,4,CD Road,XX2,1-Monday,1.114
+Arterial,4,CD Road,XX2,2-Tuesday,1.148
+Arterial,4,CD Road,XX2,3-Wednesday,1.161
+Arterial,4,CD Road,XX2,4-Thursday,1.1636666666666666
+Arterial,4,CD Road,XX2,5-Friday,1.163
+Arterial,4,CD Road,XX2,6-Saturday,0.7333333333333334
+Arterial,4,CD Road,XX2,7-Sunday,0.5246666666666666
+Arterial,4,CD Road,XX2,W1-Weekday,1.1476666666666666
+Arterial,4,CD Road,XX2,MaxSatSun,1.1476666666666666
+Arterial,5,CD Road,XX2,1-Monday,1.114
+Arterial,5,CD Road,XX2,2-Tuesday,1.148
+Arterial,5,CD Road,XX2,3-Wednesday,1.161
+Arterial,5,CD Road,XX2,4-Thursday,1.1636666666666666
+Arterial,5,CD Road,XX2,5-Friday,1.163
+Arterial,5,CD Road,XX2,6-Saturday,0.7333333333333334
+Arterial,5,CD Road,XX2,7-Sunday,0.5246666666666666
+Arterial,5,CD Road,XX2,W1-Weekday,1.1476666666666666
+Arterial,5,CD Road,XX2,MaxSatSun,1.1476666666666666
+Expressway,1,CD Road,XX2,1-Monday,1.114
+Expressway,1,CD Road,XX2,2-Tuesday,1.148
+Expressway,1,CD Road,XX2,3-Wednesday,1.161
+Expressway,1,CD Road,XX2,4-Thursday,1.1636666666666666
+Expressway,1,CD Road,XX2,5-Friday,1.163
+Expressway,1,CD Road,XX2,6-Saturday,0.7333333333333334
+Expressway,1,CD Road,XX2,7-Sunday,0.5246666666666666
+Expressway,1,CD Road,XX2,W1-Weekday,1.1476666666666666
+Expressway,1,CD Road,XX2,MaxSatSun,1.1476666666666666
+Expressway,2,CD Road,XX2,1-Monday,1.114
+Expressway,2,CD Road,XX2,2-Tuesday,1.148
+Expressway,2,CD Road,XX2,3-Wednesday,1.161
+Expressway,2,CD Road,XX2,4-Thursday,1.1636666666666666
+Expressway,2,CD Road,XX2,5-Friday,1.163
+Expressway,2,CD Road,XX2,6-Saturday,0.7333333333333334
+Expressway,2,CD Road,XX2,7-Sunday,0.5246666666666666
+Expressway,2,CD Road,XX2,W1-Weekday,1.1476666666666666
+Expressway,2,CD Road,XX2,MaxSatSun,1.1476666666666666
+Expressway,3,CD Road,XX2,1-Monday,1.114
+Expressway,3,CD Road,XX2,2-Tuesday,1.148
+Expressway,3,CD Road,XX2,3-Wednesday,1.161
+Expressway,3,CD Road,XX2,4-Thursday,1.1636666666666666
+Expressway,3,CD Road,XX2,5-Friday,1.163
+Expressway,3,CD Road,XX2,6-Saturday,0.7333333333333334
+Expressway,3,CD Road,XX2,7-Sunday,0.5246666666666666
+Expressway,3,CD Road,XX2,W1-Weekday,1.1476666666666666
+Expressway,3,CD Road,XX2,MaxSatSun,1.1476666666666666
+Expressway,4,CD Road,XX2,1-Monday,1.114
+Expressway,4,CD Road,XX2,2-Tuesday,1.148
+Expressway,4,CD Road,XX2,3-Wednesday,1.161
+Expressway,4,CD Road,XX2,4-Thursday,1.1636666666666666
+Expressway,4,CD Road,XX2,5-Friday,1.163
+Expressway,4,CD Road,XX2,6-Saturday,0.7333333333333334
+Expressway,4,CD Road,XX2,7-Sunday,0.5246666666666666
+Expressway,4,CD Road,XX2,W1-Weekday,1.1476666666666666
+Expressway,4,CD Road,XX2,MaxSatSun,1.1476666666666666
+Expressway,5,CD Road,XX2,1-Monday,1.114
+Expressway,5,CD Road,XX2,2-Tuesday,1.148
+Expressway,5,CD Road,XX2,3-Wednesday,1.161
+Expressway,5,CD Road,XX2,4-Thursday,1.1636666666666666
+Expressway,5,CD Road,XX2,5-Friday,1.163
+Expressway,5,CD Road,XX2,6-Saturday,0.7333333333333334
+Expressway,5,CD Road,XX2,7-Sunday,0.5246666666666666
+Expressway,5,CD Road,XX2,W1-Weekday,1.1476666666666666
+Expressway,5,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,1,CD Road,XX2,1-Monday,1.114
+FreewayCommuter,1,CD Road,XX2,2-Tuesday,1.148
+FreewayCommuter,1,CD Road,XX2,3-Wednesday,1.161
+FreewayCommuter,1,CD Road,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,1,CD Road,XX2,5-Friday,1.163
+FreewayCommuter,1,CD Road,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,1,CD Road,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,1,CD Road,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,1,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,2,CD Road,XX2,1-Monday,1.114
+FreewayCommuter,2,CD Road,XX2,2-Tuesday,1.148
+FreewayCommuter,2,CD Road,XX2,3-Wednesday,1.161
+FreewayCommuter,2,CD Road,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,2,CD Road,XX2,5-Friday,1.163
+FreewayCommuter,2,CD Road,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,2,CD Road,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,2,CD Road,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,2,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,3,CD Road,XX2,1-Monday,1.114
+FreewayCommuter,3,CD Road,XX2,2-Tuesday,1.148
+FreewayCommuter,3,CD Road,XX2,3-Wednesday,1.161
+FreewayCommuter,3,CD Road,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,3,CD Road,XX2,5-Friday,1.163
+FreewayCommuter,3,CD Road,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,3,CD Road,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,3,CD Road,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,3,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,4,CD Road,XX2,1-Monday,1.114
+FreewayCommuter,4,CD Road,XX2,2-Tuesday,1.148
+FreewayCommuter,4,CD Road,XX2,3-Wednesday,1.161
+FreewayCommuter,4,CD Road,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,4,CD Road,XX2,5-Friday,1.163
+FreewayCommuter,4,CD Road,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,4,CD Road,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,4,CD Road,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,4,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayCommuter,5,CD Road,XX2,1-Monday,1.114
+FreewayCommuter,5,CD Road,XX2,2-Tuesday,1.148
+FreewayCommuter,5,CD Road,XX2,3-Wednesday,1.161
+FreewayCommuter,5,CD Road,XX2,4-Thursday,1.1636666666666666
+FreewayCommuter,5,CD Road,XX2,5-Friday,1.163
+FreewayCommuter,5,CD Road,XX2,6-Saturday,0.7333333333333334
+FreewayCommuter,5,CD Road,XX2,7-Sunday,0.5246666666666666
+FreewayCommuter,5,CD Road,XX2,W1-Weekday,1.1476666666666666
+FreewayCommuter,5,CD Road,XX2,MaxSatSun,1.1476666666666666
+FreewayI15,1,Freeway,WD8,1-Monday,0.855
+FreewayI15,1,Freeway,WD8,2-Tuesday,0.831
+FreewayI15,1,Freeway,WD8,3-Wednesday,0.904
+FreewayI15,1,Freeway,WD8,4-Thursday,1.023
+FreewayI15,1,Freeway,WD8,5-Friday,1.21
+FreewayI15,1,Freeway,WD8,6-Saturday,1.018
+FreewayI15,1,Freeway,WD8,7-Sunday,1.148
+FreewayI15,1,Freeway,WD8,W1-Weekday,0.904
+FreewayI15,1,Freeway,WD8,MaxSatSun,1.148
+FreewayI15,1,Managed,WD8,1-Monday,0.855
+FreewayI15,1,Managed,WD8,2-Tuesday,0.831
+FreewayI15,1,Managed,WD8,3-Wednesday,0.904
+FreewayI15,1,Managed,WD8,4-Thursday,1.023
+FreewayI15,1,Managed,WD8,5-Friday,1.21
+FreewayI15,1,Managed,WD8,6-Saturday,1.018
+FreewayI15,1,Managed,WD8,7-Sunday,1.148
+FreewayI15,1,Managed,WD8,W1-Weekday,0.904
+FreewayI15,1,Managed,WD8,MaxSatSun,1.148
+FreewayI15,1,CD Road,WD8,1-Monday,0.855
+FreewayI15,1,CD Road,WD8,2-Tuesday,0.831
+FreewayI15,1,CD Road,WD8,3-Wednesday,0.904
+FreewayI15,1,CD Road,WD8,4-Thursday,1.023
+FreewayI15,1,CD Road,WD8,5-Friday,1.21
+FreewayI15,1,CD Road,WD8,6-Saturday,1.018
+FreewayI15,1,CD Road,WD8,7-Sunday,1.148
+FreewayI15,1,CD Road,WD8,W1-Weekday,0.904
+FreewayI15,1,CD Road,WD8,MaxSatSun,1.148
+FreewayI15,2,Freeway,WD9,1-Monday,0.929
+FreewayI15,2,Freeway,WD9,2-Tuesday,0.922
+FreewayI15,2,Freeway,WD9,3-Wednesday,0.964
+FreewayI15,2,Freeway,WD9,4-Thursday,1.027
+FreewayI15,2,Freeway,WD9,5-Friday,1.175
+FreewayI15,2,Freeway,WD9,6-Saturday,1.054
+FreewayI15,2,Freeway,WD9,7-Sunday,0.922
+FreewayI15,2,Freeway,WD9,W1-Weekday,0.961
+FreewayI15,2,Freeway,WD9,MaxSatSun,0.961
+FreewayI15,2,Managed,WD9,1-Monday,0.929
+FreewayI15,2,Managed,WD9,2-Tuesday,0.922
+FreewayI15,2,Managed,WD9,3-Wednesday,0.964
+FreewayI15,2,Managed,WD9,4-Thursday,1.027
+FreewayI15,2,Managed,WD9,5-Friday,1.175
+FreewayI15,2,Managed,WD9,6-Saturday,1.054
+FreewayI15,2,Managed,WD9,7-Sunday,0.922
+FreewayI15,2,Managed,WD9,W1-Weekday,0.961
+FreewayI15,2,Managed,WD9,MaxSatSun,0.961
+FreewayI15,2,CD Road,WD9,1-Monday,0.929
+FreewayI15,2,CD Road,WD9,2-Tuesday,0.922
+FreewayI15,2,CD Road,WD9,3-Wednesday,0.964
+FreewayI15,2,CD Road,WD9,4-Thursday,1.027
+FreewayI15,2,CD Road,WD9,5-Friday,1.175
+FreewayI15,2,CD Road,WD9,6-Saturday,1.054
+FreewayI15,2,CD Road,WD9,7-Sunday,0.922
+FreewayI15,2,CD Road,WD9,W1-Weekday,0.961
+FreewayI15,2,CD Road,WD9,MaxSatSun,0.961
+FreewayI15,3,Freeway,WDA,1-Monday,1.019
+FreewayI15,3,Freeway,WDA,2-Tuesday,1.047
+FreewayI15,3,Freeway,WDA,3-Wednesday,1.067
+FreewayI15,3,Freeway,WDA,4-Thursday,1.091
+FreewayI15,3,Freeway,WDA,5-Friday,1.149
+FreewayI15,3,Freeway,WDA,6-Saturday,0.959
+FreewayI15,3,Freeway,WDA,7-Sunday,0.668
+FreewayI15,3,Freeway,WDA,W1-Weekday,1.057
+FreewayI15,3,Freeway,WDA,MaxSatSun,1.057
+FreewayI15,4,Freeway,WDA,1-Monday,1.019
+FreewayI15,4,Freeway,WDA,2-Tuesday,1.047
+FreewayI15,4,Freeway,WDA,3-Wednesday,1.067
+FreewayI15,4,Freeway,WDA,4-Thursday,1.091
+FreewayI15,4,Freeway,WDA,5-Friday,1.149
+FreewayI15,4,Freeway,WDA,6-Saturday,0.959
+FreewayI15,4,Freeway,WDA,7-Sunday,0.668
+FreewayI15,4,Freeway,WDA,W1-Weekday,1.057
+FreewayI15,4,Freeway,WDA,MaxSatSun,1.057
+FreewayI15,5,Freeway,WDA,1-Monday,1.019
+FreewayI15,5,Freeway,WDA,2-Tuesday,1.047
+FreewayI15,5,Freeway,WDA,3-Wednesday,1.067
+FreewayI15,5,Freeway,WDA,4-Thursday,1.091
+FreewayI15,5,Freeway,WDA,5-Friday,1.149
+FreewayI15,5,Freeway,WDA,6-Saturday,0.959
+FreewayI15,5,Freeway,WDA,7-Sunday,0.668
+FreewayI15,5,Freeway,WDA,W1-Weekday,1.057
+FreewayI15,5,Freeway,WDA,MaxSatSun,1.057
+FreewayI15,3,Managed,WDA,1-Monday,1.019
+FreewayI15,3,Managed,WDA,2-Tuesday,1.047
+FreewayI15,3,Managed,WDA,3-Wednesday,1.067
+FreewayI15,3,Managed,WDA,4-Thursday,1.091
+FreewayI15,3,Managed,WDA,5-Friday,1.149
+FreewayI15,3,Managed,WDA,6-Saturday,0.959
+FreewayI15,3,Managed,WDA,7-Sunday,0.668
+FreewayI15,3,Managed,WDA,W1-Weekday,1.057
+FreewayI15,3,Managed,WDA,MaxSatSun,1.057
+FreewayI15,4,Managed,WDA,1-Monday,1.019
+FreewayI15,4,Managed,WDA,2-Tuesday,1.047
+FreewayI15,4,Managed,WDA,3-Wednesday,1.067
+FreewayI15,4,Managed,WDA,4-Thursday,1.091
+FreewayI15,4,Managed,WDA,5-Friday,1.149
+FreewayI15,4,Managed,WDA,6-Saturday,0.959
+FreewayI15,4,Managed,WDA,7-Sunday,0.668
+FreewayI15,4,Managed,WDA,W1-Weekday,1.057
+FreewayI15,4,Managed,WDA,MaxSatSun,1.057
+FreewayI15,5,Managed,WDA,1-Monday,1.019
+FreewayI15,5,Managed,WDA,2-Tuesday,1.047
+FreewayI15,5,Managed,WDA,3-Wednesday,1.067
+FreewayI15,5,Managed,WDA,4-Thursday,1.091
+FreewayI15,5,Managed,WDA,5-Friday,1.149
+FreewayI15,5,Managed,WDA,6-Saturday,0.959
+FreewayI15,5,Managed,WDA,7-Sunday,0.668
+FreewayI15,5,Managed,WDA,W1-Weekday,1.057
+FreewayI15,5,Managed,WDA,MaxSatSun,1.057
+FreewayI15,3,CD Road,WDA,1-Monday,1.019
+FreewayI15,3,CD Road,WDA,2-Tuesday,1.047
+FreewayI15,3,CD Road,WDA,3-Wednesday,1.067
+FreewayI15,3,CD Road,WDA,4-Thursday,1.091
+FreewayI15,3,CD Road,WDA,5-Friday,1.149
+FreewayI15,3,CD Road,WDA,6-Saturday,0.959
+FreewayI15,3,CD Road,WDA,7-Sunday,0.668
+FreewayI15,3,CD Road,WDA,W1-Weekday,1.057
+FreewayI15,3,CD Road,WDA,MaxSatSun,1.057
+FreewayI15,4,CD Road,WDA,1-Monday,1.019
+FreewayI15,4,CD Road,WDA,2-Tuesday,1.047
+FreewayI15,4,CD Road,WDA,3-Wednesday,1.067
+FreewayI15,4,CD Road,WDA,4-Thursday,1.091
+FreewayI15,4,CD Road,WDA,5-Friday,1.149
+FreewayI15,4,CD Road,WDA,6-Saturday,0.959
+FreewayI15,4,CD Road,WDA,7-Sunday,0.668
+FreewayI15,4,CD Road,WDA,W1-Weekday,1.057
+FreewayI15,4,CD Road,WDA,MaxSatSun,1.057
+FreewayI15,5,CD Road,WDA,1-Monday,1.019
+FreewayI15,5,CD Road,WDA,2-Tuesday,1.047
+FreewayI15,5,CD Road,WDA,3-Wednesday,1.067
+FreewayI15,5,CD Road,WDA,4-Thursday,1.091
+FreewayI15,5,CD Road,WDA,5-Friday,1.149
+FreewayI15,5,CD Road,WDA,6-Saturday,0.959
+FreewayI15,5,CD Road,WDA,7-Sunday,0.668
+FreewayI15,5,CD Road,WDA,W1-Weekday,1.057
+FreewayI15,5,CD Road,WDA,MaxSatSun,1.057
+FreewayI70,1,Freeway,WDC,1-Monday,0.915
+FreewayI70,1,Freeway,WDC,2-Tuesday,0.918
+FreewayI70,1,Freeway,WDC,3-Wednesday,0.971
+FreewayI70,1,Freeway,WDC,4-Thursday,1.042
+FreewayI70,1,Freeway,WDC,5-Friday,1.095
+FreewayI70,1,Freeway,WDC,6-Saturday,1.042
+FreewayI70,1,Freeway,WDC,7-Sunday,1.008
+FreewayI70,1,Freeway,WDC,W1-Weekday,0.963
+FreewayI70,1,Freeway,WDC,MaxSatSun,1.008
+FreewayI70,2,Freeway,WDC,1-Monday,0.915
+FreewayI70,2,Freeway,WDC,2-Tuesday,0.918
+FreewayI70,2,Freeway,WDC,3-Wednesday,0.971
+FreewayI70,2,Freeway,WDC,4-Thursday,1.042
+FreewayI70,2,Freeway,WDC,5-Friday,1.095
+FreewayI70,2,Freeway,WDC,6-Saturday,1.042
+FreewayI70,2,Freeway,WDC,7-Sunday,1.008
+FreewayI70,2,Freeway,WDC,W1-Weekday,0.963
+FreewayI70,2,Freeway,WDC,MaxSatSun,1.008
+FreewayI70,3,Freeway,WDC,1-Monday,0.915
+FreewayI70,3,Freeway,WDC,2-Tuesday,0.918
+FreewayI70,3,Freeway,WDC,3-Wednesday,0.971
+FreewayI70,3,Freeway,WDC,4-Thursday,1.042
+FreewayI70,3,Freeway,WDC,5-Friday,1.095
+FreewayI70,3,Freeway,WDC,6-Saturday,1.042
+FreewayI70,3,Freeway,WDC,7-Sunday,1.008
+FreewayI70,3,Freeway,WDC,W1-Weekday,0.963
+FreewayI70,3,Freeway,WDC,MaxSatSun,1.008
+FreewayI70,4,Freeway,WDC,1-Monday,0.915
+FreewayI70,4,Freeway,WDC,2-Tuesday,0.918
+FreewayI70,4,Freeway,WDC,3-Wednesday,0.971
+FreewayI70,4,Freeway,WDC,4-Thursday,1.042
+FreewayI70,4,Freeway,WDC,5-Friday,1.095
+FreewayI70,4,Freeway,WDC,6-Saturday,1.042
+FreewayI70,4,Freeway,WDC,7-Sunday,1.008
+FreewayI70,4,Freeway,WDC,W1-Weekday,0.963
+FreewayI70,4,Freeway,WDC,MaxSatSun,1.008
+FreewayI70,5,Freeway,WDC,1-Monday,0.915
+FreewayI70,5,Freeway,WDC,2-Tuesday,0.918
+FreewayI70,5,Freeway,WDC,3-Wednesday,0.971
+FreewayI70,5,Freeway,WDC,4-Thursday,1.042
+FreewayI70,5,Freeway,WDC,5-Friday,1.095
+FreewayI70,5,Freeway,WDC,6-Saturday,1.042
+FreewayI70,5,Freeway,WDC,7-Sunday,1.008
+FreewayI70,5,Freeway,WDC,W1-Weekday,0.963
+FreewayI70,5,Freeway,WDC,MaxSatSun,1.008
+FreewayI70,1,Managed,WDC,1-Monday,0.915
+FreewayI70,1,Managed,WDC,2-Tuesday,0.918
+FreewayI70,1,Managed,WDC,3-Wednesday,0.971
+FreewayI70,1,Managed,WDC,4-Thursday,1.042
+FreewayI70,1,Managed,WDC,5-Friday,1.095
+FreewayI70,1,Managed,WDC,6-Saturday,1.042
+FreewayI70,1,Managed,WDC,7-Sunday,1.008
+FreewayI70,1,Managed,WDC,W1-Weekday,0.963
+FreewayI70,1,Managed,WDC,MaxSatSun,1.008
+FreewayI70,2,Managed,WDC,1-Monday,0.915
+FreewayI70,2,Managed,WDC,2-Tuesday,0.918
+FreewayI70,2,Managed,WDC,3-Wednesday,0.971
+FreewayI70,2,Managed,WDC,4-Thursday,1.042
+FreewayI70,2,Managed,WDC,5-Friday,1.095
+FreewayI70,2,Managed,WDC,6-Saturday,1.042
+FreewayI70,2,Managed,WDC,7-Sunday,1.008
+FreewayI70,2,Managed,WDC,W1-Weekday,0.963
+FreewayI70,2,Managed,WDC,MaxSatSun,1.008
+FreewayI70,3,Managed,WDC,1-Monday,0.915
+FreewayI70,3,Managed,WDC,2-Tuesday,0.918
+FreewayI70,3,Managed,WDC,3-Wednesday,0.971
+FreewayI70,3,Managed,WDC,4-Thursday,1.042
+FreewayI70,3,Managed,WDC,5-Friday,1.095
+FreewayI70,3,Managed,WDC,6-Saturday,1.042
+FreewayI70,3,Managed,WDC,7-Sunday,1.008
+FreewayI70,3,Managed,WDC,W1-Weekday,0.963
+FreewayI70,3,Managed,WDC,MaxSatSun,1.008
+FreewayI70,4,Managed,WDC,1-Monday,0.915
+FreewayI70,4,Managed,WDC,2-Tuesday,0.918
+FreewayI70,4,Managed,WDC,3-Wednesday,0.971
+FreewayI70,4,Managed,WDC,4-Thursday,1.042
+FreewayI70,4,Managed,WDC,5-Friday,1.095
+FreewayI70,4,Managed,WDC,6-Saturday,1.042
+FreewayI70,4,Managed,WDC,7-Sunday,1.008
+FreewayI70,4,Managed,WDC,W1-Weekday,0.963
+FreewayI70,4,Managed,WDC,MaxSatSun,1.008
+FreewayI70,5,Managed,WDC,1-Monday,0.915
+FreewayI70,5,Managed,WDC,2-Tuesday,0.918
+FreewayI70,5,Managed,WDC,3-Wednesday,0.971
+FreewayI70,5,Managed,WDC,4-Thursday,1.042
+FreewayI70,5,Managed,WDC,5-Friday,1.095
+FreewayI70,5,Managed,WDC,6-Saturday,1.042
+FreewayI70,5,Managed,WDC,7-Sunday,1.008
+FreewayI70,5,Managed,WDC,W1-Weekday,0.963
+FreewayI70,5,Managed,WDC,MaxSatSun,1.008
+FreewayI70,1,CD Road,WDC,1-Monday,0.915
+FreewayI70,1,CD Road,WDC,2-Tuesday,0.918
+FreewayI70,1,CD Road,WDC,3-Wednesday,0.971
+FreewayI70,1,CD Road,WDC,4-Thursday,1.042
+FreewayI70,1,CD Road,WDC,5-Friday,1.095
+FreewayI70,1,CD Road,WDC,6-Saturday,1.042
+FreewayI70,1,CD Road,WDC,7-Sunday,1.008
+FreewayI70,1,CD Road,WDC,W1-Weekday,0.963
+FreewayI70,1,CD Road,WDC,MaxSatSun,1.008
+FreewayI70,2,CD Road,WDC,1-Monday,0.915
+FreewayI70,2,CD Road,WDC,2-Tuesday,0.918
+FreewayI70,2,CD Road,WDC,3-Wednesday,0.971
+FreewayI70,2,CD Road,WDC,4-Thursday,1.042
+FreewayI70,2,CD Road,WDC,5-Friday,1.095
+FreewayI70,2,CD Road,WDC,6-Saturday,1.042
+FreewayI70,2,CD Road,WDC,7-Sunday,1.008
+FreewayI70,2,CD Road,WDC,W1-Weekday,0.963
+FreewayI70,2,CD Road,WDC,MaxSatSun,1.008
+FreewayI70,3,CD Road,WDC,1-Monday,0.915
+FreewayI70,3,CD Road,WDC,2-Tuesday,0.918
+FreewayI70,3,CD Road,WDC,3-Wednesday,0.971
+FreewayI70,3,CD Road,WDC,4-Thursday,1.042
+FreewayI70,3,CD Road,WDC,5-Friday,1.095
+FreewayI70,3,CD Road,WDC,6-Saturday,1.042
+FreewayI70,3,CD Road,WDC,7-Sunday,1.008
+FreewayI70,3,CD Road,WDC,W1-Weekday,0.963
+FreewayI70,3,CD Road,WDC,MaxSatSun,1.008
+FreewayI70,4,CD Road,WDC,1-Monday,0.915
+FreewayI70,4,CD Road,WDC,2-Tuesday,0.918
+FreewayI70,4,CD Road,WDC,3-Wednesday,0.971
+FreewayI70,4,CD Road,WDC,4-Thursday,1.042
+FreewayI70,4,CD Road,WDC,5-Friday,1.095
+FreewayI70,4,CD Road,WDC,6-Saturday,1.042
+FreewayI70,4,CD Road,WDC,7-Sunday,1.008
+FreewayI70,4,CD Road,WDC,W1-Weekday,0.963
+FreewayI70,4,CD Road,WDC,MaxSatSun,1.008
+FreewayI70,5,CD Road,WDC,1-Monday,0.915
+FreewayI70,5,CD Road,WDC,2-Tuesday,0.918
+FreewayI70,5,CD Road,WDC,3-Wednesday,0.971
+FreewayI70,5,CD Road,WDC,4-Thursday,1.042
+FreewayI70,5,CD Road,WDC,5-Friday,1.095
+FreewayI70,5,CD Road,WDC,6-Saturday,1.042
+FreewayI70,5,CD Road,WDC,7-Sunday,1.008
+FreewayI70,5,CD Road,WDC,W1-Weekday,0.963
+FreewayI70,5,CD Road,WDC,MaxSatSun,1.008
+FreewayI80,1,Freeway,WDD,1-Monday,0.877
+FreewayI80,1,Freeway,WDD,2-Tuesday,0.881
+FreewayI80,1,Freeway,WDD,3-Wednesday,0.958
+FreewayI80,1,Freeway,WDD,4-Thursday,0.995
+FreewayI80,1,Freeway,WDD,5-Friday,1.114
+FreewayI80,1,Freeway,WDD,6-Saturday,1.107
+FreewayI80,1,Freeway,WDD,7-Sunday,1.052
+FreewayI80,1,Freeway,WDD,W1-Weekday,0.929
+FreewayI80,1,Freeway,WDD,MaxSatSun,1.052
+FreewayI80,1,Managed,WDD,1-Monday,0.877
+FreewayI80,1,Managed,WDD,2-Tuesday,0.881
+FreewayI80,1,Managed,WDD,3-Wednesday,0.958
+FreewayI80,1,Managed,WDD,4-Thursday,0.995
+FreewayI80,1,Managed,WDD,5-Friday,1.114
+FreewayI80,1,Managed,WDD,6-Saturday,1.107
+FreewayI80,1,Managed,WDD,7-Sunday,1.052
+FreewayI80,1,Managed,WDD,W1-Weekday,0.929
+FreewayI80,1,Managed,WDD,MaxSatSun,1.052
+FreewayI80,1,CD Road,WDD,1-Monday,0.877
+FreewayI80,1,CD Road,WDD,2-Tuesday,0.881
+FreewayI80,1,CD Road,WDD,3-Wednesday,0.958
+FreewayI80,1,CD Road,WDD,4-Thursday,0.995
+FreewayI80,1,CD Road,WDD,5-Friday,1.114
+FreewayI80,1,CD Road,WDD,6-Saturday,1.107
+FreewayI80,1,CD Road,WDD,7-Sunday,1.052
+FreewayI80,1,CD Road,WDD,W1-Weekday,0.929
+FreewayI80,1,CD Road,WDD,MaxSatSun,1.052
+FreewayI80,2,Freeway,XX1,1-Monday,0.928
+FreewayI80,2,Freeway,XX1,2-Tuesday,0.941
+FreewayI80,2,Freeway,XX1,3-Wednesday,0.996
+FreewayI80,2,Freeway,XX1,4-Thursday,1.029
+FreewayI80,2,Freeway,XX1,5-Friday,1.128
+FreewayI80,2,Freeway,XX1,6-Saturday,1.052
+FreewayI80,2,Freeway,XX1,7-Sunday,0.918
+FreewayI80,2,Freeway,XX1,W1-Weekday,0.975
+FreewayI80,2,Freeway,XX1,MaxSatSun,0.975
+FreewayI80,2,Managed,XX1,1-Monday,0.928
+FreewayI80,2,Managed,XX1,2-Tuesday,0.941
+FreewayI80,2,Managed,XX1,3-Wednesday,0.996
+FreewayI80,2,Managed,XX1,4-Thursday,1.029
+FreewayI80,2,Managed,XX1,5-Friday,1.128
+FreewayI80,2,Managed,XX1,6-Saturday,1.052
+FreewayI80,2,Managed,XX1,7-Sunday,0.918
+FreewayI80,2,Managed,XX1,W1-Weekday,0.975
+FreewayI80,2,Managed,XX1,MaxSatSun,0.975
+FreewayI80,2,CD Road,XX1,1-Monday,0.928
+FreewayI80,2,CD Road,XX1,2-Tuesday,0.941
+FreewayI80,2,CD Road,XX1,3-Wednesday,0.996
+FreewayI80,2,CD Road,XX1,4-Thursday,1.029
+FreewayI80,2,CD Road,XX1,5-Friday,1.128
+FreewayI80,2,CD Road,XX1,6-Saturday,1.052
+FreewayI80,2,CD Road,XX1,7-Sunday,0.918
+FreewayI80,2,CD Road,XX1,W1-Weekday,0.975
+FreewayI80,2,CD Road,XX1,MaxSatSun,0.975
+FreewayI80,3,Freeway,WDE,1-Monday,0.978
+FreewayI80,3,Freeway,WDE,2-Tuesday,1.001
+FreewayI80,3,Freeway,WDE,3-Wednesday,1.033
+FreewayI80,3,Freeway,WDE,4-Thursday,1.062
+FreewayI80,3,Freeway,WDE,5-Friday,1.141
+FreewayI80,3,Freeway,WDE,6-Saturday,0.997
+FreewayI80,3,Freeway,WDE,7-Sunday,0.783
+FreewayI80,3,Freeway,WDE,W1-Weekday,1.02
+FreewayI80,3,Freeway,WDE,MaxSatSun,1.02
+FreewayI80,3,Managed,WDE,1-Monday,0.978
+FreewayI80,3,Managed,WDE,2-Tuesday,1.001
+FreewayI80,3,Managed,WDE,3-Wednesday,1.033
+FreewayI80,3,Managed,WDE,4-Thursday,1.062
+FreewayI80,3,Managed,WDE,5-Friday,1.141
+FreewayI80,3,Managed,WDE,6-Saturday,0.997
+FreewayI80,3,Managed,WDE,7-Sunday,0.783
+FreewayI80,3,Managed,WDE,W1-Weekday,1.02
+FreewayI80,3,Managed,WDE,MaxSatSun,1.02
+FreewayI80,3,CD Road,WDE,1-Monday,0.978
+FreewayI80,3,CD Road,WDE,2-Tuesday,1.001
+FreewayI80,3,CD Road,WDE,3-Wednesday,1.033
+FreewayI80,3,CD Road,WDE,4-Thursday,1.062
+FreewayI80,3,CD Road,WDE,5-Friday,1.141
+FreewayI80,3,CD Road,WDE,6-Saturday,0.997
+FreewayI80,3,CD Road,WDE,7-Sunday,0.783
+FreewayI80,3,CD Road,WDE,W1-Weekday,1.02
+FreewayI80,3,CD Road,WDE,MaxSatSun,1.02
+FreewayI80,4,Freeway,WDF,1-Monday,1.061
+FreewayI80,4,Freeway,WDF,2-Tuesday,1.093
+FreewayI80,4,Freeway,WDF,3-Wednesday,1.114
+FreewayI80,4,Freeway,WDF,4-Thursday,1.13
+FreewayI80,4,Freeway,WDF,5-Friday,1.135
+FreewayI80,4,Freeway,WDF,6-Saturday,0.826
+FreewayI80,4,Freeway,WDF,7-Sunday,0.639
+FreewayI80,4,Freeway,WDF,W1-Weekday,1.1
+FreewayI80,4,Freeway,WDF,MaxSatSun,1.1
+FreewayI80,5,Freeway,WDF,1-Monday,1.061
+FreewayI80,5,Freeway,WDF,2-Tuesday,1.093
+FreewayI80,5,Freeway,WDF,3-Wednesday,1.114
+FreewayI80,5,Freeway,WDF,4-Thursday,1.13
+FreewayI80,5,Freeway,WDF,5-Friday,1.135
+FreewayI80,5,Freeway,WDF,6-Saturday,0.826
+FreewayI80,5,Freeway,WDF,7-Sunday,0.639
+FreewayI80,5,Freeway,WDF,W1-Weekday,1.1
+FreewayI80,5,Freeway,WDF,MaxSatSun,1.1
+FreewayI80,4,Managed,WDF,1-Monday,1.061
+FreewayI80,4,Managed,WDF,2-Tuesday,1.093
+FreewayI80,4,Managed,WDF,3-Wednesday,1.114
+FreewayI80,4,Managed,WDF,4-Thursday,1.13
+FreewayI80,4,Managed,WDF,5-Friday,1.135
+FreewayI80,4,Managed,WDF,6-Saturday,0.826
+FreewayI80,4,Managed,WDF,7-Sunday,0.639
+FreewayI80,4,Managed,WDF,W1-Weekday,1.1
+FreewayI80,4,Managed,WDF,MaxSatSun,1.1
+FreewayI80,5,Managed,WDF,1-Monday,1.061
+FreewayI80,5,Managed,WDF,2-Tuesday,1.093
+FreewayI80,5,Managed,WDF,3-Wednesday,1.114
+FreewayI80,5,Managed,WDF,4-Thursday,1.13
+FreewayI80,5,Managed,WDF,5-Friday,1.135
+FreewayI80,5,Managed,WDF,6-Saturday,0.826
+FreewayI80,5,Managed,WDF,7-Sunday,0.639
+FreewayI80,5,Managed,WDF,W1-Weekday,1.1
+FreewayI80,5,Managed,WDF,MaxSatSun,1.1
+FreewayI80,4,CD Road,WDF,1-Monday,1.061
+FreewayI80,4,CD Road,WDF,2-Tuesday,1.093
+FreewayI80,4,CD Road,WDF,3-Wednesday,1.114
+FreewayI80,4,CD Road,WDF,4-Thursday,1.13
+FreewayI80,4,CD Road,WDF,5-Friday,1.135
+FreewayI80,4,CD Road,WDF,6-Saturday,0.826
+FreewayI80,4,CD Road,WDF,7-Sunday,0.639
+FreewayI80,4,CD Road,WDF,W1-Weekday,1.1
+FreewayI80,4,CD Road,WDF,MaxSatSun,1.1
+FreewayI80,5,CD Road,WDF,1-Monday,1.061
+FreewayI80,5,CD Road,WDF,2-Tuesday,1.093
+FreewayI80,5,CD Road,WDF,3-Wednesday,1.114
+FreewayI80,5,CD Road,WDF,4-Thursday,1.13
+FreewayI80,5,CD Road,WDF,5-Friday,1.135
+FreewayI80,5,CD Road,WDF,6-Saturday,0.826
+FreewayI80,5,CD Road,WDF,7-Sunday,0.639
+FreewayI80,5,CD Road,WDF,W1-Weekday,1.1
+FreewayI80,5,CD Road,WDF,MaxSatSun,1.1
+FreewayI84West,1,Freeway,WDH,1-Monday,0.9
+FreewayI84West,1,Freeway,WDH,2-Tuesday,0.902
+FreewayI84West,1,Freeway,WDH,3-Wednesday,0.961
+FreewayI84West,1,Freeway,WDH,4-Thursday,1.006
+FreewayI84West,1,Freeway,WDH,5-Friday,1.149
+FreewayI84West,1,Freeway,WDH,6-Saturday,1.028
+FreewayI84West,1,Freeway,WDH,7-Sunday,1.044
+FreewayI84West,1,Freeway,WDH,W1-Weekday,0.943
+FreewayI84West,1,Freeway,WDH,MaxSatSun,1.044
+FreewayI84West,2,Freeway,WDH,1-Monday,0.9
+FreewayI84West,2,Freeway,WDH,2-Tuesday,0.902
+FreewayI84West,2,Freeway,WDH,3-Wednesday,0.961
+FreewayI84West,2,Freeway,WDH,4-Thursday,1.006
+FreewayI84West,2,Freeway,WDH,5-Friday,1.149
+FreewayI84West,2,Freeway,WDH,6-Saturday,1.028
+FreewayI84West,2,Freeway,WDH,7-Sunday,1.044
+FreewayI84West,2,Freeway,WDH,W1-Weekday,0.943
+FreewayI84West,2,Freeway,WDH,MaxSatSun,1.044
+FreewayI84West,3,Freeway,WDH,1-Monday,0.9
+FreewayI84West,3,Freeway,WDH,2-Tuesday,0.902
+FreewayI84West,3,Freeway,WDH,3-Wednesday,0.961
+FreewayI84West,3,Freeway,WDH,4-Thursday,1.006
+FreewayI84West,3,Freeway,WDH,5-Friday,1.149
+FreewayI84West,3,Freeway,WDH,6-Saturday,1.028
+FreewayI84West,3,Freeway,WDH,7-Sunday,1.044
+FreewayI84West,3,Freeway,WDH,W1-Weekday,0.943
+FreewayI84West,3,Freeway,WDH,MaxSatSun,1.044
+FreewayI84West,4,Freeway,WDH,1-Monday,0.9
+FreewayI84West,4,Freeway,WDH,2-Tuesday,0.902
+FreewayI84West,4,Freeway,WDH,3-Wednesday,0.961
+FreewayI84West,4,Freeway,WDH,4-Thursday,1.006
+FreewayI84West,4,Freeway,WDH,5-Friday,1.149
+FreewayI84West,4,Freeway,WDH,6-Saturday,1.028
+FreewayI84West,4,Freeway,WDH,7-Sunday,1.044
+FreewayI84West,4,Freeway,WDH,W1-Weekday,0.943
+FreewayI84West,4,Freeway,WDH,MaxSatSun,1.044
+FreewayI84West,5,Freeway,WDH,1-Monday,0.9
+FreewayI84West,5,Freeway,WDH,2-Tuesday,0.902
+FreewayI84West,5,Freeway,WDH,3-Wednesday,0.961
+FreewayI84West,5,Freeway,WDH,4-Thursday,1.006
+FreewayI84West,5,Freeway,WDH,5-Friday,1.149
+FreewayI84West,5,Freeway,WDH,6-Saturday,1.028
+FreewayI84West,5,Freeway,WDH,7-Sunday,1.044
+FreewayI84West,5,Freeway,WDH,W1-Weekday,0.943
+FreewayI84West,5,Freeway,WDH,MaxSatSun,1.044
+FreewayI84West,1,Managed,WDH,1-Monday,0.9
+FreewayI84West,1,Managed,WDH,2-Tuesday,0.902
+FreewayI84West,1,Managed,WDH,3-Wednesday,0.961
+FreewayI84West,1,Managed,WDH,4-Thursday,1.006
+FreewayI84West,1,Managed,WDH,5-Friday,1.149
+FreewayI84West,1,Managed,WDH,6-Saturday,1.028
+FreewayI84West,1,Managed,WDH,7-Sunday,1.044
+FreewayI84West,1,Managed,WDH,W1-Weekday,0.943
+FreewayI84West,1,Managed,WDH,MaxSatSun,1.044
+FreewayI84West,2,Managed,WDH,1-Monday,0.9
+FreewayI84West,2,Managed,WDH,2-Tuesday,0.902
+FreewayI84West,2,Managed,WDH,3-Wednesday,0.961
+FreewayI84West,2,Managed,WDH,4-Thursday,1.006
+FreewayI84West,2,Managed,WDH,5-Friday,1.149
+FreewayI84West,2,Managed,WDH,6-Saturday,1.028
+FreewayI84West,2,Managed,WDH,7-Sunday,1.044
+FreewayI84West,2,Managed,WDH,W1-Weekday,0.943
+FreewayI84West,2,Managed,WDH,MaxSatSun,1.044
+FreewayI84West,3,Managed,WDH,1-Monday,0.9
+FreewayI84West,3,Managed,WDH,2-Tuesday,0.902
+FreewayI84West,3,Managed,WDH,3-Wednesday,0.961
+FreewayI84West,3,Managed,WDH,4-Thursday,1.006
+FreewayI84West,3,Managed,WDH,5-Friday,1.149
+FreewayI84West,3,Managed,WDH,6-Saturday,1.028
+FreewayI84West,3,Managed,WDH,7-Sunday,1.044
+FreewayI84West,3,Managed,WDH,W1-Weekday,0.943
+FreewayI84West,3,Managed,WDH,MaxSatSun,1.044
+FreewayI84West,4,Managed,WDH,1-Monday,0.9
+FreewayI84West,4,Managed,WDH,2-Tuesday,0.902
+FreewayI84West,4,Managed,WDH,3-Wednesday,0.961
+FreewayI84West,4,Managed,WDH,4-Thursday,1.006
+FreewayI84West,4,Managed,WDH,5-Friday,1.149
+FreewayI84West,4,Managed,WDH,6-Saturday,1.028
+FreewayI84West,4,Managed,WDH,7-Sunday,1.044
+FreewayI84West,4,Managed,WDH,W1-Weekday,0.943
+FreewayI84West,4,Managed,WDH,MaxSatSun,1.044
+FreewayI84West,5,Managed,WDH,1-Monday,0.9
+FreewayI84West,5,Managed,WDH,2-Tuesday,0.902
+FreewayI84West,5,Managed,WDH,3-Wednesday,0.961
+FreewayI84West,5,Managed,WDH,4-Thursday,1.006
+FreewayI84West,5,Managed,WDH,5-Friday,1.149
+FreewayI84West,5,Managed,WDH,6-Saturday,1.028
+FreewayI84West,5,Managed,WDH,7-Sunday,1.044
+FreewayI84West,5,Managed,WDH,W1-Weekday,0.943
+FreewayI84West,5,Managed,WDH,MaxSatSun,1.044
+FreewayI84West,1,CD Road,WDH,1-Monday,0.9
+FreewayI84West,1,CD Road,WDH,2-Tuesday,0.902
+FreewayI84West,1,CD Road,WDH,3-Wednesday,0.961
+FreewayI84West,1,CD Road,WDH,4-Thursday,1.006
+FreewayI84West,1,CD Road,WDH,5-Friday,1.149
+FreewayI84West,1,CD Road,WDH,6-Saturday,1.028
+FreewayI84West,1,CD Road,WDH,7-Sunday,1.044
+FreewayI84West,1,CD Road,WDH,W1-Weekday,0.943
+FreewayI84West,1,CD Road,WDH,MaxSatSun,1.044
+FreewayI84West,2,CD Road,WDH,1-Monday,0.9
+FreewayI84West,2,CD Road,WDH,2-Tuesday,0.902
+FreewayI84West,2,CD Road,WDH,3-Wednesday,0.961
+FreewayI84West,2,CD Road,WDH,4-Thursday,1.006
+FreewayI84West,2,CD Road,WDH,5-Friday,1.149
+FreewayI84West,2,CD Road,WDH,6-Saturday,1.028
+FreewayI84West,2,CD Road,WDH,7-Sunday,1.044
+FreewayI84West,2,CD Road,WDH,W1-Weekday,0.943
+FreewayI84West,2,CD Road,WDH,MaxSatSun,1.044
+FreewayI84West,3,CD Road,WDH,1-Monday,0.9
+FreewayI84West,3,CD Road,WDH,2-Tuesday,0.902
+FreewayI84West,3,CD Road,WDH,3-Wednesday,0.961
+FreewayI84West,3,CD Road,WDH,4-Thursday,1.006
+FreewayI84West,3,CD Road,WDH,5-Friday,1.149
+FreewayI84West,3,CD Road,WDH,6-Saturday,1.028
+FreewayI84West,3,CD Road,WDH,7-Sunday,1.044
+FreewayI84West,3,CD Road,WDH,W1-Weekday,0.943
+FreewayI84West,3,CD Road,WDH,MaxSatSun,1.044
+FreewayI84West,4,CD Road,WDH,1-Monday,0.9
+FreewayI84West,4,CD Road,WDH,2-Tuesday,0.902
+FreewayI84West,4,CD Road,WDH,3-Wednesday,0.961
+FreewayI84West,4,CD Road,WDH,4-Thursday,1.006
+FreewayI84West,4,CD Road,WDH,5-Friday,1.149
+FreewayI84West,4,CD Road,WDH,6-Saturday,1.028
+FreewayI84West,4,CD Road,WDH,7-Sunday,1.044
+FreewayI84West,4,CD Road,WDH,W1-Weekday,0.943
+FreewayI84West,4,CD Road,WDH,MaxSatSun,1.044
+FreewayI84West,5,CD Road,WDH,1-Monday,0.9
+FreewayI84West,5,CD Road,WDH,2-Tuesday,0.902
+FreewayI84West,5,CD Road,WDH,3-Wednesday,0.961
+FreewayI84West,5,CD Road,WDH,4-Thursday,1.006
+FreewayI84West,5,CD Road,WDH,5-Friday,1.149
+FreewayI84West,5,CD Road,WDH,6-Saturday,1.028
+FreewayI84West,5,CD Road,WDH,7-Sunday,1.044
+FreewayI84West,5,CD Road,WDH,W1-Weekday,0.943
+FreewayI84West,5,CD Road,WDH,MaxSatSun,1.044
+FreewayI84East,1,Freeway,WDG,1-Monday,0.947
+FreewayI84East,1,Freeway,WDG,2-Tuesday,0.954
+FreewayI84East,1,Freeway,WDG,3-Wednesday,1.001
+FreewayI84East,1,Freeway,WDG,4-Thursday,1.04
+FreewayI84East,1,Freeway,WDG,5-Friday,1.144
+FreewayI84East,1,Freeway,WDG,6-Saturday,1.074
+FreewayI84East,1,Freeway,WDG,7-Sunday,0.831
+FreewayI84East,1,Freeway,WDG,W1-Weekday,0.987
+FreewayI84East,1,Freeway,WDG,MaxSatSun,0.987
+FreewayI84East,2,Freeway,WDG,1-Monday,0.947
+FreewayI84East,2,Freeway,WDG,2-Tuesday,0.954
+FreewayI84East,2,Freeway,WDG,3-Wednesday,1.001
+FreewayI84East,2,Freeway,WDG,4-Thursday,1.04
+FreewayI84East,2,Freeway,WDG,5-Friday,1.144
+FreewayI84East,2,Freeway,WDG,6-Saturday,1.074
+FreewayI84East,2,Freeway,WDG,7-Sunday,0.831
+FreewayI84East,2,Freeway,WDG,W1-Weekday,0.987
+FreewayI84East,2,Freeway,WDG,MaxSatSun,0.987
+FreewayI84East,3,Freeway,WDG,1-Monday,0.947
+FreewayI84East,3,Freeway,WDG,2-Tuesday,0.954
+FreewayI84East,3,Freeway,WDG,3-Wednesday,1.001
+FreewayI84East,3,Freeway,WDG,4-Thursday,1.04
+FreewayI84East,3,Freeway,WDG,5-Friday,1.144
+FreewayI84East,3,Freeway,WDG,6-Saturday,1.074
+FreewayI84East,3,Freeway,WDG,7-Sunday,0.831
+FreewayI84East,3,Freeway,WDG,W1-Weekday,0.987
+FreewayI84East,3,Freeway,WDG,MaxSatSun,0.987
+FreewayI84East,4,Freeway,WDG,1-Monday,0.947
+FreewayI84East,4,Freeway,WDG,2-Tuesday,0.954
+FreewayI84East,4,Freeway,WDG,3-Wednesday,1.001
+FreewayI84East,4,Freeway,WDG,4-Thursday,1.04
+FreewayI84East,4,Freeway,WDG,5-Friday,1.144
+FreewayI84East,4,Freeway,WDG,6-Saturday,1.074
+FreewayI84East,4,Freeway,WDG,7-Sunday,0.831
+FreewayI84East,4,Freeway,WDG,W1-Weekday,0.987
+FreewayI84East,4,Freeway,WDG,MaxSatSun,0.987
+FreewayI84East,5,Freeway,WDG,1-Monday,0.947
+FreewayI84East,5,Freeway,WDG,2-Tuesday,0.954
+FreewayI84East,5,Freeway,WDG,3-Wednesday,1.001
+FreewayI84East,5,Freeway,WDG,4-Thursday,1.04
+FreewayI84East,5,Freeway,WDG,5-Friday,1.144
+FreewayI84East,5,Freeway,WDG,6-Saturday,1.074
+FreewayI84East,5,Freeway,WDG,7-Sunday,0.831
+FreewayI84East,5,Freeway,WDG,W1-Weekday,0.987
+FreewayI84East,5,Freeway,WDG,MaxSatSun,0.987
+FreewayI84East,1,Managed,WDG,1-Monday,0.947
+FreewayI84East,1,Managed,WDG,2-Tuesday,0.954
+FreewayI84East,1,Managed,WDG,3-Wednesday,1.001
+FreewayI84East,1,Managed,WDG,4-Thursday,1.04
+FreewayI84East,1,Managed,WDG,5-Friday,1.144
+FreewayI84East,1,Managed,WDG,6-Saturday,1.074
+FreewayI84East,1,Managed,WDG,7-Sunday,0.831
+FreewayI84East,1,Managed,WDG,W1-Weekday,0.987
+FreewayI84East,1,Managed,WDG,MaxSatSun,0.987
+FreewayI84East,2,Managed,WDG,1-Monday,0.947
+FreewayI84East,2,Managed,WDG,2-Tuesday,0.954
+FreewayI84East,2,Managed,WDG,3-Wednesday,1.001
+FreewayI84East,2,Managed,WDG,4-Thursday,1.04
+FreewayI84East,2,Managed,WDG,5-Friday,1.144
+FreewayI84East,2,Managed,WDG,6-Saturday,1.074
+FreewayI84East,2,Managed,WDG,7-Sunday,0.831
+FreewayI84East,2,Managed,WDG,W1-Weekday,0.987
+FreewayI84East,2,Managed,WDG,MaxSatSun,0.987
+FreewayI84East,3,Managed,WDG,1-Monday,0.947
+FreewayI84East,3,Managed,WDG,2-Tuesday,0.954
+FreewayI84East,3,Managed,WDG,3-Wednesday,1.001
+FreewayI84East,3,Managed,WDG,4-Thursday,1.04
+FreewayI84East,3,Managed,WDG,5-Friday,1.144
+FreewayI84East,3,Managed,WDG,6-Saturday,1.074
+FreewayI84East,3,Managed,WDG,7-Sunday,0.831
+FreewayI84East,3,Managed,WDG,W1-Weekday,0.987
+FreewayI84East,3,Managed,WDG,MaxSatSun,0.987
+FreewayI84East,4,Managed,WDG,1-Monday,0.947
+FreewayI84East,4,Managed,WDG,2-Tuesday,0.954
+FreewayI84East,4,Managed,WDG,3-Wednesday,1.001
+FreewayI84East,4,Managed,WDG,4-Thursday,1.04
+FreewayI84East,4,Managed,WDG,5-Friday,1.144
+FreewayI84East,4,Managed,WDG,6-Saturday,1.074
+FreewayI84East,4,Managed,WDG,7-Sunday,0.831
+FreewayI84East,4,Managed,WDG,W1-Weekday,0.987
+FreewayI84East,4,Managed,WDG,MaxSatSun,0.987
+FreewayI84East,5,Managed,WDG,1-Monday,0.947
+FreewayI84East,5,Managed,WDG,2-Tuesday,0.954
+FreewayI84East,5,Managed,WDG,3-Wednesday,1.001
+FreewayI84East,5,Managed,WDG,4-Thursday,1.04
+FreewayI84East,5,Managed,WDG,5-Friday,1.144
+FreewayI84East,5,Managed,WDG,6-Saturday,1.074
+FreewayI84East,5,Managed,WDG,7-Sunday,0.831
+FreewayI84East,5,Managed,WDG,W1-Weekday,0.987
+FreewayI84East,5,Managed,WDG,MaxSatSun,0.987
+FreewayI84East,1,CD Road,WDG,1-Monday,0.947
+FreewayI84East,1,CD Road,WDG,2-Tuesday,0.954
+FreewayI84East,1,CD Road,WDG,3-Wednesday,1.001
+FreewayI84East,1,CD Road,WDG,4-Thursday,1.04
+FreewayI84East,1,CD Road,WDG,5-Friday,1.144
+FreewayI84East,1,CD Road,WDG,6-Saturday,1.074
+FreewayI84East,1,CD Road,WDG,7-Sunday,0.831
+FreewayI84East,1,CD Road,WDG,W1-Weekday,0.987
+FreewayI84East,1,CD Road,WDG,MaxSatSun,0.987
+FreewayI84East,2,CD Road,WDG,1-Monday,0.947
+FreewayI84East,2,CD Road,WDG,2-Tuesday,0.954
+FreewayI84East,2,CD Road,WDG,3-Wednesday,1.001
+FreewayI84East,2,CD Road,WDG,4-Thursday,1.04
+FreewayI84East,2,CD Road,WDG,5-Friday,1.144
+FreewayI84East,2,CD Road,WDG,6-Saturday,1.074
+FreewayI84East,2,CD Road,WDG,7-Sunday,0.831
+FreewayI84East,2,CD Road,WDG,W1-Weekday,0.987
+FreewayI84East,2,CD Road,WDG,MaxSatSun,0.987
+FreewayI84East,3,CD Road,WDG,1-Monday,0.947
+FreewayI84East,3,CD Road,WDG,2-Tuesday,0.954
+FreewayI84East,3,CD Road,WDG,3-Wednesday,1.001
+FreewayI84East,3,CD Road,WDG,4-Thursday,1.04
+FreewayI84East,3,CD Road,WDG,5-Friday,1.144
+FreewayI84East,3,CD Road,WDG,6-Saturday,1.074
+FreewayI84East,3,CD Road,WDG,7-Sunday,0.831
+FreewayI84East,3,CD Road,WDG,W1-Weekday,0.987
+FreewayI84East,3,CD Road,WDG,MaxSatSun,0.987
+FreewayI84East,4,CD Road,WDG,1-Monday,0.947
+FreewayI84East,4,CD Road,WDG,2-Tuesday,0.954
+FreewayI84East,4,CD Road,WDG,3-Wednesday,1.001
+FreewayI84East,4,CD Road,WDG,4-Thursday,1.04
+FreewayI84East,4,CD Road,WDG,5-Friday,1.144
+FreewayI84East,4,CD Road,WDG,6-Saturday,1.074
+FreewayI84East,4,CD Road,WDG,7-Sunday,0.831
+FreewayI84East,4,CD Road,WDG,W1-Weekday,0.987
+FreewayI84East,4,CD Road,WDG,MaxSatSun,0.987
+FreewayI84East,5,CD Road,WDG,1-Monday,0.947
+FreewayI84East,5,CD Road,WDG,2-Tuesday,0.954
+FreewayI84East,5,CD Road,WDG,3-Wednesday,1.001
+FreewayI84East,5,CD Road,WDG,4-Thursday,1.04
+FreewayI84East,5,CD Road,WDG,5-Friday,1.144
+FreewayI84East,5,CD Road,WDG,6-Saturday,1.074
+FreewayI84East,5,CD Road,WDG,7-Sunday,0.831
+FreewayI84East,5,CD Road,WDG,W1-Weekday,0.987
+FreewayI84East,5,CD Road,WDG,MaxSatSun,0.987
+FreewayI215,1,Freeway,WDB,1-Monday,1.085
+FreewayI215,1,Freeway,WDB,2-Tuesday,1.121
+FreewayI215,1,Freeway,WDB,3-Wednesday,1.136
+FreewayI215,1,Freeway,WDB,4-Thursday,1.144
+FreewayI215,1,Freeway,WDB,5-Friday,1.154
+FreewayI215,1,Freeway,WDB,6-Saturday,0.788
+FreewayI215,1,Freeway,WDB,7-Sunday,0.576
+FreewayI215,1,Freeway,WDB,W1-Weekday,1.123
+FreewayI215,1,Freeway,WDB,MaxSatSun,1.123
+FreewayI215,2,Freeway,WDB,1-Monday,1.085
+FreewayI215,2,Freeway,WDB,2-Tuesday,1.121
+FreewayI215,2,Freeway,WDB,3-Wednesday,1.136
+FreewayI215,2,Freeway,WDB,4-Thursday,1.144
+FreewayI215,2,Freeway,WDB,5-Friday,1.154
+FreewayI215,2,Freeway,WDB,6-Saturday,0.788
+FreewayI215,2,Freeway,WDB,7-Sunday,0.576
+FreewayI215,2,Freeway,WDB,W1-Weekday,1.123
+FreewayI215,2,Freeway,WDB,MaxSatSun,1.123
+FreewayI215,3,Freeway,WDB,1-Monday,1.085
+FreewayI215,3,Freeway,WDB,2-Tuesday,1.121
+FreewayI215,3,Freeway,WDB,3-Wednesday,1.136
+FreewayI215,3,Freeway,WDB,4-Thursday,1.144
+FreewayI215,3,Freeway,WDB,5-Friday,1.154
+FreewayI215,3,Freeway,WDB,6-Saturday,0.788
+FreewayI215,3,Freeway,WDB,7-Sunday,0.576
+FreewayI215,3,Freeway,WDB,W1-Weekday,1.123
+FreewayI215,3,Freeway,WDB,MaxSatSun,1.123
+FreewayI215,4,Freeway,WDB,1-Monday,1.085
+FreewayI215,4,Freeway,WDB,2-Tuesday,1.121
+FreewayI215,4,Freeway,WDB,3-Wednesday,1.136
+FreewayI215,4,Freeway,WDB,4-Thursday,1.144
+FreewayI215,4,Freeway,WDB,5-Friday,1.154
+FreewayI215,4,Freeway,WDB,6-Saturday,0.788
+FreewayI215,4,Freeway,WDB,7-Sunday,0.576
+FreewayI215,4,Freeway,WDB,W1-Weekday,1.123
+FreewayI215,4,Freeway,WDB,MaxSatSun,1.123
+FreewayI215,5,Freeway,WDB,1-Monday,1.085
+FreewayI215,5,Freeway,WDB,2-Tuesday,1.121
+FreewayI215,5,Freeway,WDB,3-Wednesday,1.136
+FreewayI215,5,Freeway,WDB,4-Thursday,1.144
+FreewayI215,5,Freeway,WDB,5-Friday,1.154
+FreewayI215,5,Freeway,WDB,6-Saturday,0.788
+FreewayI215,5,Freeway,WDB,7-Sunday,0.576
+FreewayI215,5,Freeway,WDB,W1-Weekday,1.123
+FreewayI215,5,Freeway,WDB,MaxSatSun,1.123
+FreewayI215,1,Managed,WDB,1-Monday,1.085
+FreewayI215,1,Managed,WDB,2-Tuesday,1.121
+FreewayI215,1,Managed,WDB,3-Wednesday,1.136
+FreewayI215,1,Managed,WDB,4-Thursday,1.144
+FreewayI215,1,Managed,WDB,5-Friday,1.154
+FreewayI215,1,Managed,WDB,6-Saturday,0.788
+FreewayI215,1,Managed,WDB,7-Sunday,0.576
+FreewayI215,1,Managed,WDB,W1-Weekday,1.123
+FreewayI215,1,Managed,WDB,MaxSatSun,1.123
+FreewayI215,2,Managed,WDB,1-Monday,1.085
+FreewayI215,2,Managed,WDB,2-Tuesday,1.121
+FreewayI215,2,Managed,WDB,3-Wednesday,1.136
+FreewayI215,2,Managed,WDB,4-Thursday,1.144
+FreewayI215,2,Managed,WDB,5-Friday,1.154
+FreewayI215,2,Managed,WDB,6-Saturday,0.788
+FreewayI215,2,Managed,WDB,7-Sunday,0.576
+FreewayI215,2,Managed,WDB,W1-Weekday,1.123
+FreewayI215,2,Managed,WDB,MaxSatSun,1.123
+FreewayI215,3,Managed,WDB,1-Monday,1.085
+FreewayI215,3,Managed,WDB,2-Tuesday,1.121
+FreewayI215,3,Managed,WDB,3-Wednesday,1.136
+FreewayI215,3,Managed,WDB,4-Thursday,1.144
+FreewayI215,3,Managed,WDB,5-Friday,1.154
+FreewayI215,3,Managed,WDB,6-Saturday,0.788
+FreewayI215,3,Managed,WDB,7-Sunday,0.576
+FreewayI215,3,Managed,WDB,W1-Weekday,1.123
+FreewayI215,3,Managed,WDB,MaxSatSun,1.123
+FreewayI215,4,Managed,WDB,1-Monday,1.085
+FreewayI215,4,Managed,WDB,2-Tuesday,1.121
+FreewayI215,4,Managed,WDB,3-Wednesday,1.136
+FreewayI215,4,Managed,WDB,4-Thursday,1.144
+FreewayI215,4,Managed,WDB,5-Friday,1.154
+FreewayI215,4,Managed,WDB,6-Saturday,0.788
+FreewayI215,4,Managed,WDB,7-Sunday,0.576
+FreewayI215,4,Managed,WDB,W1-Weekday,1.123
+FreewayI215,4,Managed,WDB,MaxSatSun,1.123
+FreewayI215,5,Managed,WDB,1-Monday,1.085
+FreewayI215,5,Managed,WDB,2-Tuesday,1.121
+FreewayI215,5,Managed,WDB,3-Wednesday,1.136
+FreewayI215,5,Managed,WDB,4-Thursday,1.144
+FreewayI215,5,Managed,WDB,5-Friday,1.154
+FreewayI215,5,Managed,WDB,6-Saturday,0.788
+FreewayI215,5,Managed,WDB,7-Sunday,0.576
+FreewayI215,5,Managed,WDB,W1-Weekday,1.123
+FreewayI215,5,Managed,WDB,MaxSatSun,1.123
+FreewayI215,1,CD Road,WDB,1-Monday,1.085
+FreewayI215,1,CD Road,WDB,2-Tuesday,1.121
+FreewayI215,1,CD Road,WDB,3-Wednesday,1.136
+FreewayI215,1,CD Road,WDB,4-Thursday,1.144
+FreewayI215,1,CD Road,WDB,5-Friday,1.154
+FreewayI215,1,CD Road,WDB,6-Saturday,0.788
+FreewayI215,1,CD Road,WDB,7-Sunday,0.576
+FreewayI215,1,CD Road,WDB,W1-Weekday,1.123
+FreewayI215,1,CD Road,WDB,MaxSatSun,1.123
+FreewayI215,2,CD Road,WDB,1-Monday,1.085
+FreewayI215,2,CD Road,WDB,2-Tuesday,1.121
+FreewayI215,2,CD Road,WDB,3-Wednesday,1.136
+FreewayI215,2,CD Road,WDB,4-Thursday,1.144
+FreewayI215,2,CD Road,WDB,5-Friday,1.154
+FreewayI215,2,CD Road,WDB,6-Saturday,0.788
+FreewayI215,2,CD Road,WDB,7-Sunday,0.576
+FreewayI215,2,CD Road,WDB,W1-Weekday,1.123
+FreewayI215,2,CD Road,WDB,MaxSatSun,1.123
+FreewayI215,3,CD Road,WDB,1-Monday,1.085
+FreewayI215,3,CD Road,WDB,2-Tuesday,1.121
+FreewayI215,3,CD Road,WDB,3-Wednesday,1.136
+FreewayI215,3,CD Road,WDB,4-Thursday,1.144
+FreewayI215,3,CD Road,WDB,5-Friday,1.154
+FreewayI215,3,CD Road,WDB,6-Saturday,0.788
+FreewayI215,3,CD Road,WDB,7-Sunday,0.576
+FreewayI215,3,CD Road,WDB,W1-Weekday,1.123
+FreewayI215,3,CD Road,WDB,MaxSatSun,1.123
+FreewayI215,4,CD Road,WDB,1-Monday,1.085
+FreewayI215,4,CD Road,WDB,2-Tuesday,1.121
+FreewayI215,4,CD Road,WDB,3-Wednesday,1.136
+FreewayI215,4,CD Road,WDB,4-Thursday,1.144
+FreewayI215,4,CD Road,WDB,5-Friday,1.154
+FreewayI215,4,CD Road,WDB,6-Saturday,0.788
+FreewayI215,4,CD Road,WDB,7-Sunday,0.576
+FreewayI215,4,CD Road,WDB,W1-Weekday,1.123
+FreewayI215,4,CD Road,WDB,MaxSatSun,1.123
+FreewayI215,5,CD Road,WDB,1-Monday,1.085
+FreewayI215,5,CD Road,WDB,2-Tuesday,1.121
+FreewayI215,5,CD Road,WDB,3-Wednesday,1.136
+FreewayI215,5,CD Road,WDB,4-Thursday,1.144
+FreewayI215,5,CD Road,WDB,5-Friday,1.154
+FreewayI215,5,CD Road,WDB,6-Saturday,0.788
+FreewayI215,5,CD Road,WDB,7-Sunday,0.576
+FreewayI215,5,CD Road,WDB,W1-Weekday,1.123
+FreewayI215,5,CD Road,WDB,MaxSatSun,1.123
+FreewayLegacy,1,Freeway,WDI,1-Monday,1.181
+FreewayLegacy,1,Freeway,WDI,2-Tuesday,1.219
+FreewayLegacy,1,Freeway,WDI,3-Wednesday,1.227
+FreewayLegacy,1,Freeway,WDI,4-Thursday,1.227
+FreewayLegacy,1,Freeway,WDI,5-Friday,1.181
+FreewayLegacy,1,Freeway,WDI,6-Saturday,0.569
+FreewayLegacy,1,Freeway,WDI,7-Sunday,0.406
+FreewayLegacy,1,Freeway,WDI,W1-Weekday,1.214
+FreewayLegacy,1,Freeway,WDI,MaxSatSun,1.214
+FreewayLegacy,2,Freeway,WDI,1-Monday,1.181
+FreewayLegacy,2,Freeway,WDI,2-Tuesday,1.219
+FreewayLegacy,2,Freeway,WDI,3-Wednesday,1.227
+FreewayLegacy,2,Freeway,WDI,4-Thursday,1.227
+FreewayLegacy,2,Freeway,WDI,5-Friday,1.181
+FreewayLegacy,2,Freeway,WDI,6-Saturday,0.569
+FreewayLegacy,2,Freeway,WDI,7-Sunday,0.406
+FreewayLegacy,2,Freeway,WDI,W1-Weekday,1.214
+FreewayLegacy,2,Freeway,WDI,MaxSatSun,1.214
+FreewayLegacy,3,Freeway,WDI,1-Monday,1.181
+FreewayLegacy,3,Freeway,WDI,2-Tuesday,1.219
+FreewayLegacy,3,Freeway,WDI,3-Wednesday,1.227
+FreewayLegacy,3,Freeway,WDI,4-Thursday,1.227
+FreewayLegacy,3,Freeway,WDI,5-Friday,1.181
+FreewayLegacy,3,Freeway,WDI,6-Saturday,0.569
+FreewayLegacy,3,Freeway,WDI,7-Sunday,0.406
+FreewayLegacy,3,Freeway,WDI,W1-Weekday,1.214
+FreewayLegacy,3,Freeway,WDI,MaxSatSun,1.214
+FreewayLegacy,4,Freeway,WDI,1-Monday,1.181
+FreewayLegacy,4,Freeway,WDI,2-Tuesday,1.219
+FreewayLegacy,4,Freeway,WDI,3-Wednesday,1.227
+FreewayLegacy,4,Freeway,WDI,4-Thursday,1.227
+FreewayLegacy,4,Freeway,WDI,5-Friday,1.181
+FreewayLegacy,4,Freeway,WDI,6-Saturday,0.569
+FreewayLegacy,4,Freeway,WDI,7-Sunday,0.406
+FreewayLegacy,4,Freeway,WDI,W1-Weekday,1.214
+FreewayLegacy,4,Freeway,WDI,MaxSatSun,1.214
+FreewayLegacy,5,Freeway,WDI,1-Monday,1.181
+FreewayLegacy,5,Freeway,WDI,2-Tuesday,1.219
+FreewayLegacy,5,Freeway,WDI,3-Wednesday,1.227
+FreewayLegacy,5,Freeway,WDI,4-Thursday,1.227
+FreewayLegacy,5,Freeway,WDI,5-Friday,1.181
+FreewayLegacy,5,Freeway,WDI,6-Saturday,0.569
+FreewayLegacy,5,Freeway,WDI,7-Sunday,0.406
+FreewayLegacy,5,Freeway,WDI,W1-Weekday,1.214
+FreewayLegacy,5,Freeway,WDI,MaxSatSun,1.214
+FreewayLegacy,1,Managed,WDI,1-Monday,1.181
+FreewayLegacy,1,Managed,WDI,2-Tuesday,1.219
+FreewayLegacy,1,Managed,WDI,3-Wednesday,1.227
+FreewayLegacy,1,Managed,WDI,4-Thursday,1.227
+FreewayLegacy,1,Managed,WDI,5-Friday,1.181
+FreewayLegacy,1,Managed,WDI,6-Saturday,0.569
+FreewayLegacy,1,Managed,WDI,7-Sunday,0.406
+FreewayLegacy,1,Managed,WDI,W1-Weekday,1.214
+FreewayLegacy,1,Managed,WDI,MaxSatSun,1.214
+FreewayLegacy,2,Managed,WDI,1-Monday,1.181
+FreewayLegacy,2,Managed,WDI,2-Tuesday,1.219
+FreewayLegacy,2,Managed,WDI,3-Wednesday,1.227
+FreewayLegacy,2,Managed,WDI,4-Thursday,1.227
+FreewayLegacy,2,Managed,WDI,5-Friday,1.181
+FreewayLegacy,2,Managed,WDI,6-Saturday,0.569
+FreewayLegacy,2,Managed,WDI,7-Sunday,0.406
+FreewayLegacy,2,Managed,WDI,W1-Weekday,1.214
+FreewayLegacy,2,Managed,WDI,MaxSatSun,1.214
+FreewayLegacy,3,Managed,WDI,1-Monday,1.181
+FreewayLegacy,3,Managed,WDI,2-Tuesday,1.219
+FreewayLegacy,3,Managed,WDI,3-Wednesday,1.227
+FreewayLegacy,3,Managed,WDI,4-Thursday,1.227
+FreewayLegacy,3,Managed,WDI,5-Friday,1.181
+FreewayLegacy,3,Managed,WDI,6-Saturday,0.569
+FreewayLegacy,3,Managed,WDI,7-Sunday,0.406
+FreewayLegacy,3,Managed,WDI,W1-Weekday,1.214
+FreewayLegacy,3,Managed,WDI,MaxSatSun,1.214
+FreewayLegacy,4,Managed,WDI,1-Monday,1.181
+FreewayLegacy,4,Managed,WDI,2-Tuesday,1.219
+FreewayLegacy,4,Managed,WDI,3-Wednesday,1.227
+FreewayLegacy,4,Managed,WDI,4-Thursday,1.227
+FreewayLegacy,4,Managed,WDI,5-Friday,1.181
+FreewayLegacy,4,Managed,WDI,6-Saturday,0.569
+FreewayLegacy,4,Managed,WDI,7-Sunday,0.406
+FreewayLegacy,4,Managed,WDI,W1-Weekday,1.214
+FreewayLegacy,4,Managed,WDI,MaxSatSun,1.214
+FreewayLegacy,5,Managed,WDI,1-Monday,1.181
+FreewayLegacy,5,Managed,WDI,2-Tuesday,1.219
+FreewayLegacy,5,Managed,WDI,3-Wednesday,1.227
+FreewayLegacy,5,Managed,WDI,4-Thursday,1.227
+FreewayLegacy,5,Managed,WDI,5-Friday,1.181
+FreewayLegacy,5,Managed,WDI,6-Saturday,0.569
+FreewayLegacy,5,Managed,WDI,7-Sunday,0.406
+FreewayLegacy,5,Managed,WDI,W1-Weekday,1.214
+FreewayLegacy,5,Managed,WDI,MaxSatSun,1.214
+FreewayLegacy,1,CD Road,WDI,1-Monday,1.181
+FreewayLegacy,1,CD Road,WDI,2-Tuesday,1.219
+FreewayLegacy,1,CD Road,WDI,3-Wednesday,1.227
+FreewayLegacy,1,CD Road,WDI,4-Thursday,1.227
+FreewayLegacy,1,CD Road,WDI,5-Friday,1.181
+FreewayLegacy,1,CD Road,WDI,6-Saturday,0.569
+FreewayLegacy,1,CD Road,WDI,7-Sunday,0.406
+FreewayLegacy,1,CD Road,WDI,W1-Weekday,1.214
+FreewayLegacy,1,CD Road,WDI,MaxSatSun,1.214
+FreewayLegacy,2,CD Road,WDI,1-Monday,1.181
+FreewayLegacy,2,CD Road,WDI,2-Tuesday,1.219
+FreewayLegacy,2,CD Road,WDI,3-Wednesday,1.227
+FreewayLegacy,2,CD Road,WDI,4-Thursday,1.227
+FreewayLegacy,2,CD Road,WDI,5-Friday,1.181
+FreewayLegacy,2,CD Road,WDI,6-Saturday,0.569
+FreewayLegacy,2,CD Road,WDI,7-Sunday,0.406
+FreewayLegacy,2,CD Road,WDI,W1-Weekday,1.214
+FreewayLegacy,2,CD Road,WDI,MaxSatSun,1.214
+FreewayLegacy,3,CD Road,WDI,1-Monday,1.181
+FreewayLegacy,3,CD Road,WDI,2-Tuesday,1.219
+FreewayLegacy,3,CD Road,WDI,3-Wednesday,1.227
+FreewayLegacy,3,CD Road,WDI,4-Thursday,1.227
+FreewayLegacy,3,CD Road,WDI,5-Friday,1.181
+FreewayLegacy,3,CD Road,WDI,6-Saturday,0.569
+FreewayLegacy,3,CD Road,WDI,7-Sunday,0.406
+FreewayLegacy,3,CD Road,WDI,W1-Weekday,1.214
+FreewayLegacy,3,CD Road,WDI,MaxSatSun,1.214
+FreewayLegacy,4,CD Road,WDI,1-Monday,1.181
+FreewayLegacy,4,CD Road,WDI,2-Tuesday,1.219
+FreewayLegacy,4,CD Road,WDI,3-Wednesday,1.227
+FreewayLegacy,4,CD Road,WDI,4-Thursday,1.227
+FreewayLegacy,4,CD Road,WDI,5-Friday,1.181
+FreewayLegacy,4,CD Road,WDI,6-Saturday,0.569
+FreewayLegacy,4,CD Road,WDI,7-Sunday,0.406
+FreewayLegacy,4,CD Road,WDI,W1-Weekday,1.214
+FreewayLegacy,4,CD Road,WDI,MaxSatSun,1.214
+FreewayLegacy,5,CD Road,WDI,1-Monday,1.181
+FreewayLegacy,5,CD Road,WDI,2-Tuesday,1.219
+FreewayLegacy,5,CD Road,WDI,3-Wednesday,1.227
+FreewayLegacy,5,CD Road,WDI,4-Thursday,1.227
+FreewayLegacy,5,CD Road,WDI,5-Friday,1.181
+FreewayLegacy,5,CD Road,WDI,6-Saturday,0.569
+FreewayLegacy,5,CD Road,WDI,7-Sunday,0.406
+FreewayLegacy,5,CD Road,WDI,W1-Weekday,1.214
+FreewayLegacy,5,CD Road,WDI,MaxSatSun,1.214
+FreewaySR201,1,Freeway,WDJ,1-Monday,1.076
+FreewaySR201,1,Freeway,WDJ,2-Tuesday,1.104
+FreewaySR201,1,Freeway,WDJ,3-Wednesday,1.12
+FreewaySR201,1,Freeway,WDJ,4-Thursday,1.12
+FreewaySR201,1,Freeway,WDJ,5-Friday,1.154
+FreewaySR201,1,Freeway,WDJ,6-Saturday,0.843
+FreewaySR201,1,Freeway,WDJ,7-Sunday,0.592
+FreewaySR201,1,Freeway,WDJ,W1-Weekday,1.106
+FreewaySR201,1,Freeway,WDJ,MaxSatSun,1.106
+FreewaySR201,2,Freeway,WDJ,1-Monday,1.076
+FreewaySR201,2,Freeway,WDJ,2-Tuesday,1.104
+FreewaySR201,2,Freeway,WDJ,3-Wednesday,1.12
+FreewaySR201,2,Freeway,WDJ,4-Thursday,1.12
+FreewaySR201,2,Freeway,WDJ,5-Friday,1.154
+FreewaySR201,2,Freeway,WDJ,6-Saturday,0.843
+FreewaySR201,2,Freeway,WDJ,7-Sunday,0.592
+FreewaySR201,2,Freeway,WDJ,W1-Weekday,1.106
+FreewaySR201,2,Freeway,WDJ,MaxSatSun,1.106
+FreewaySR201,3,Freeway,WDJ,1-Monday,1.076
+FreewaySR201,3,Freeway,WDJ,2-Tuesday,1.104
+FreewaySR201,3,Freeway,WDJ,3-Wednesday,1.12
+FreewaySR201,3,Freeway,WDJ,4-Thursday,1.12
+FreewaySR201,3,Freeway,WDJ,5-Friday,1.154
+FreewaySR201,3,Freeway,WDJ,6-Saturday,0.843
+FreewaySR201,3,Freeway,WDJ,7-Sunday,0.592
+FreewaySR201,3,Freeway,WDJ,W1-Weekday,1.106
+FreewaySR201,3,Freeway,WDJ,MaxSatSun,1.106
+FreewaySR201,4,Freeway,WDJ,1-Monday,1.076
+FreewaySR201,4,Freeway,WDJ,2-Tuesday,1.104
+FreewaySR201,4,Freeway,WDJ,3-Wednesday,1.12
+FreewaySR201,4,Freeway,WDJ,4-Thursday,1.12
+FreewaySR201,4,Freeway,WDJ,5-Friday,1.154
+FreewaySR201,4,Freeway,WDJ,6-Saturday,0.843
+FreewaySR201,4,Freeway,WDJ,7-Sunday,0.592
+FreewaySR201,4,Freeway,WDJ,W1-Weekday,1.106
+FreewaySR201,4,Freeway,WDJ,MaxSatSun,1.106
+FreewaySR201,5,Freeway,WDJ,1-Monday,1.076
+FreewaySR201,5,Freeway,WDJ,2-Tuesday,1.104
+FreewaySR201,5,Freeway,WDJ,3-Wednesday,1.12
+FreewaySR201,5,Freeway,WDJ,4-Thursday,1.12
+FreewaySR201,5,Freeway,WDJ,5-Friday,1.154
+FreewaySR201,5,Freeway,WDJ,6-Saturday,0.843
+FreewaySR201,5,Freeway,WDJ,7-Sunday,0.592
+FreewaySR201,5,Freeway,WDJ,W1-Weekday,1.106
+FreewaySR201,5,Freeway,WDJ,MaxSatSun,1.106
+FreewaySR201,1,Managed,WDJ,1-Monday,1.076
+FreewaySR201,1,Managed,WDJ,2-Tuesday,1.104
+FreewaySR201,1,Managed,WDJ,3-Wednesday,1.12
+FreewaySR201,1,Managed,WDJ,4-Thursday,1.12
+FreewaySR201,1,Managed,WDJ,5-Friday,1.154
+FreewaySR201,1,Managed,WDJ,6-Saturday,0.843
+FreewaySR201,1,Managed,WDJ,7-Sunday,0.592
+FreewaySR201,1,Managed,WDJ,W1-Weekday,1.106
+FreewaySR201,1,Managed,WDJ,MaxSatSun,1.106
+FreewaySR201,2,Managed,WDJ,1-Monday,1.076
+FreewaySR201,2,Managed,WDJ,2-Tuesday,1.104
+FreewaySR201,2,Managed,WDJ,3-Wednesday,1.12
+FreewaySR201,2,Managed,WDJ,4-Thursday,1.12
+FreewaySR201,2,Managed,WDJ,5-Friday,1.154
+FreewaySR201,2,Managed,WDJ,6-Saturday,0.843
+FreewaySR201,2,Managed,WDJ,7-Sunday,0.592
+FreewaySR201,2,Managed,WDJ,W1-Weekday,1.106
+FreewaySR201,2,Managed,WDJ,MaxSatSun,1.106
+FreewaySR201,3,Managed,WDJ,1-Monday,1.076
+FreewaySR201,3,Managed,WDJ,2-Tuesday,1.104
+FreewaySR201,3,Managed,WDJ,3-Wednesday,1.12
+FreewaySR201,3,Managed,WDJ,4-Thursday,1.12
+FreewaySR201,3,Managed,WDJ,5-Friday,1.154
+FreewaySR201,3,Managed,WDJ,6-Saturday,0.843
+FreewaySR201,3,Managed,WDJ,7-Sunday,0.592
+FreewaySR201,3,Managed,WDJ,W1-Weekday,1.106
+FreewaySR201,3,Managed,WDJ,MaxSatSun,1.106
+FreewaySR201,4,Managed,WDJ,1-Monday,1.076
+FreewaySR201,4,Managed,WDJ,2-Tuesday,1.104
+FreewaySR201,4,Managed,WDJ,3-Wednesday,1.12
+FreewaySR201,4,Managed,WDJ,4-Thursday,1.12
+FreewaySR201,4,Managed,WDJ,5-Friday,1.154
+FreewaySR201,4,Managed,WDJ,6-Saturday,0.843
+FreewaySR201,4,Managed,WDJ,7-Sunday,0.592
+FreewaySR201,4,Managed,WDJ,W1-Weekday,1.106
+FreewaySR201,4,Managed,WDJ,MaxSatSun,1.106
+FreewaySR201,5,Managed,WDJ,1-Monday,1.076
+FreewaySR201,5,Managed,WDJ,2-Tuesday,1.104
+FreewaySR201,5,Managed,WDJ,3-Wednesday,1.12
+FreewaySR201,5,Managed,WDJ,4-Thursday,1.12
+FreewaySR201,5,Managed,WDJ,5-Friday,1.154
+FreewaySR201,5,Managed,WDJ,6-Saturday,0.843
+FreewaySR201,5,Managed,WDJ,7-Sunday,0.592
+FreewaySR201,5,Managed,WDJ,W1-Weekday,1.106
+FreewaySR201,5,Managed,WDJ,MaxSatSun,1.106
+FreewaySR201,1,CD Road,WDJ,1-Monday,1.076
+FreewaySR201,1,CD Road,WDJ,2-Tuesday,1.104
+FreewaySR201,1,CD Road,WDJ,3-Wednesday,1.12
+FreewaySR201,1,CD Road,WDJ,4-Thursday,1.12
+FreewaySR201,1,CD Road,WDJ,5-Friday,1.154
+FreewaySR201,1,CD Road,WDJ,6-Saturday,0.843
+FreewaySR201,1,CD Road,WDJ,7-Sunday,0.592
+FreewaySR201,1,CD Road,WDJ,W1-Weekday,1.106
+FreewaySR201,1,CD Road,WDJ,MaxSatSun,1.106
+FreewaySR201,2,CD Road,WDJ,1-Monday,1.076
+FreewaySR201,2,CD Road,WDJ,2-Tuesday,1.104
+FreewaySR201,2,CD Road,WDJ,3-Wednesday,1.12
+FreewaySR201,2,CD Road,WDJ,4-Thursday,1.12
+FreewaySR201,2,CD Road,WDJ,5-Friday,1.154
+FreewaySR201,2,CD Road,WDJ,6-Saturday,0.843
+FreewaySR201,2,CD Road,WDJ,7-Sunday,0.592
+FreewaySR201,2,CD Road,WDJ,W1-Weekday,1.106
+FreewaySR201,2,CD Road,WDJ,MaxSatSun,1.106
+FreewaySR201,3,CD Road,WDJ,1-Monday,1.076
+FreewaySR201,3,CD Road,WDJ,2-Tuesday,1.104
+FreewaySR201,3,CD Road,WDJ,3-Wednesday,1.12
+FreewaySR201,3,CD Road,WDJ,4-Thursday,1.12
+FreewaySR201,3,CD Road,WDJ,5-Friday,1.154
+FreewaySR201,3,CD Road,WDJ,6-Saturday,0.843
+FreewaySR201,3,CD Road,WDJ,7-Sunday,0.592
+FreewaySR201,3,CD Road,WDJ,W1-Weekday,1.106
+FreewaySR201,3,CD Road,WDJ,MaxSatSun,1.106
+FreewaySR201,4,CD Road,WDJ,1-Monday,1.076
+FreewaySR201,4,CD Road,WDJ,2-Tuesday,1.104
+FreewaySR201,4,CD Road,WDJ,3-Wednesday,1.12
+FreewaySR201,4,CD Road,WDJ,4-Thursday,1.12
+FreewaySR201,4,CD Road,WDJ,5-Friday,1.154
+FreewaySR201,4,CD Road,WDJ,6-Saturday,0.843
+FreewaySR201,4,CD Road,WDJ,7-Sunday,0.592
+FreewaySR201,4,CD Road,WDJ,W1-Weekday,1.106
+FreewaySR201,4,CD Road,WDJ,MaxSatSun,1.106
+FreewaySR201,5,CD Road,WDJ,1-Monday,1.076
+FreewaySR201,5,CD Road,WDJ,2-Tuesday,1.104
+FreewaySR201,5,CD Road,WDJ,3-Wednesday,1.12
+FreewaySR201,5,CD Road,WDJ,4-Thursday,1.12
+FreewaySR201,5,CD Road,WDJ,5-Friday,1.154
+FreewaySR201,5,CD Road,WDJ,6-Saturday,0.843
+FreewaySR201,5,CD Road,WDJ,7-Sunday,0.592
+FreewaySR201,5,CD Road,WDJ,W1-Weekday,1.106
+FreewaySR201,5,CD Road,WDJ,MaxSatSun,1.106
+FreewayUS40,1,Freeway,WDK,1-Monday,0.965
+FreewayUS40,1,Freeway,WDK,2-Tuesday,0.991
+FreewayUS40,1,Freeway,WDK,3-Wednesday,1.016
+FreewayUS40,1,Freeway,WDK,4-Thursday,1.05
+FreewayUS40,1,Freeway,WDK,5-Friday,1.17
+FreewayUS40,1,Freeway,WDK,6-Saturday,1.029
+FreewayUS40,1,Freeway,WDK,7-Sunday,0.777
+FreewayUS40,1,Freeway,WDK,W1-Weekday,1.007
+FreewayUS40,1,Freeway,WDK,MaxSatSun,1.007
+FreewayUS40,2,Freeway,WDK,1-Monday,0.965
+FreewayUS40,2,Freeway,WDK,2-Tuesday,0.991
+FreewayUS40,2,Freeway,WDK,3-Wednesday,1.016
+FreewayUS40,2,Freeway,WDK,4-Thursday,1.05
+FreewayUS40,2,Freeway,WDK,5-Friday,1.17
+FreewayUS40,2,Freeway,WDK,6-Saturday,1.029
+FreewayUS40,2,Freeway,WDK,7-Sunday,0.777
+FreewayUS40,2,Freeway,WDK,W1-Weekday,1.007
+FreewayUS40,2,Freeway,WDK,MaxSatSun,1.007
+FreewayUS40,3,Freeway,WDK,1-Monday,0.965
+FreewayUS40,3,Freeway,WDK,2-Tuesday,0.991
+FreewayUS40,3,Freeway,WDK,3-Wednesday,1.016
+FreewayUS40,3,Freeway,WDK,4-Thursday,1.05
+FreewayUS40,3,Freeway,WDK,5-Friday,1.17
+FreewayUS40,3,Freeway,WDK,6-Saturday,1.029
+FreewayUS40,3,Freeway,WDK,7-Sunday,0.777
+FreewayUS40,3,Freeway,WDK,W1-Weekday,1.007
+FreewayUS40,3,Freeway,WDK,MaxSatSun,1.007
+FreewayUS40,4,Freeway,WDK,1-Monday,0.965
+FreewayUS40,4,Freeway,WDK,2-Tuesday,0.991
+FreewayUS40,4,Freeway,WDK,3-Wednesday,1.016
+FreewayUS40,4,Freeway,WDK,4-Thursday,1.05
+FreewayUS40,4,Freeway,WDK,5-Friday,1.17
+FreewayUS40,4,Freeway,WDK,6-Saturday,1.029
+FreewayUS40,4,Freeway,WDK,7-Sunday,0.777
+FreewayUS40,4,Freeway,WDK,W1-Weekday,1.007
+FreewayUS40,4,Freeway,WDK,MaxSatSun,1.007
+FreewayUS40,5,Freeway,WDK,1-Monday,0.965
+FreewayUS40,5,Freeway,WDK,2-Tuesday,0.991
+FreewayUS40,5,Freeway,WDK,3-Wednesday,1.016
+FreewayUS40,5,Freeway,WDK,4-Thursday,1.05
+FreewayUS40,5,Freeway,WDK,5-Friday,1.17
+FreewayUS40,5,Freeway,WDK,6-Saturday,1.029
+FreewayUS40,5,Freeway,WDK,7-Sunday,0.777
+FreewayUS40,5,Freeway,WDK,W1-Weekday,1.007
+FreewayUS40,5,Freeway,WDK,MaxSatSun,1.007
+FreewayUS40,1,Managed,WDK,1-Monday,0.965
+FreewayUS40,1,Managed,WDK,2-Tuesday,0.991
+FreewayUS40,1,Managed,WDK,3-Wednesday,1.016
+FreewayUS40,1,Managed,WDK,4-Thursday,1.05
+FreewayUS40,1,Managed,WDK,5-Friday,1.17
+FreewayUS40,1,Managed,WDK,6-Saturday,1.029
+FreewayUS40,1,Managed,WDK,7-Sunday,0.777
+FreewayUS40,1,Managed,WDK,W1-Weekday,1.007
+FreewayUS40,1,Managed,WDK,MaxSatSun,1.007
+FreewayUS40,2,Managed,WDK,1-Monday,0.965
+FreewayUS40,2,Managed,WDK,2-Tuesday,0.991
+FreewayUS40,2,Managed,WDK,3-Wednesday,1.016
+FreewayUS40,2,Managed,WDK,4-Thursday,1.05
+FreewayUS40,2,Managed,WDK,5-Friday,1.17
+FreewayUS40,2,Managed,WDK,6-Saturday,1.029
+FreewayUS40,2,Managed,WDK,7-Sunday,0.777
+FreewayUS40,2,Managed,WDK,W1-Weekday,1.007
+FreewayUS40,2,Managed,WDK,MaxSatSun,1.007
+FreewayUS40,3,Managed,WDK,1-Monday,0.965
+FreewayUS40,3,Managed,WDK,2-Tuesday,0.991
+FreewayUS40,3,Managed,WDK,3-Wednesday,1.016
+FreewayUS40,3,Managed,WDK,4-Thursday,1.05
+FreewayUS40,3,Managed,WDK,5-Friday,1.17
+FreewayUS40,3,Managed,WDK,6-Saturday,1.029
+FreewayUS40,3,Managed,WDK,7-Sunday,0.777
+FreewayUS40,3,Managed,WDK,W1-Weekday,1.007
+FreewayUS40,3,Managed,WDK,MaxSatSun,1.007
+FreewayUS40,4,Managed,WDK,1-Monday,0.965
+FreewayUS40,4,Managed,WDK,2-Tuesday,0.991
+FreewayUS40,4,Managed,WDK,3-Wednesday,1.016
+FreewayUS40,4,Managed,WDK,4-Thursday,1.05
+FreewayUS40,4,Managed,WDK,5-Friday,1.17
+FreewayUS40,4,Managed,WDK,6-Saturday,1.029
+FreewayUS40,4,Managed,WDK,7-Sunday,0.777
+FreewayUS40,4,Managed,WDK,W1-Weekday,1.007
+FreewayUS40,4,Managed,WDK,MaxSatSun,1.007
+FreewayUS40,5,Managed,WDK,1-Monday,0.965
+FreewayUS40,5,Managed,WDK,2-Tuesday,0.991
+FreewayUS40,5,Managed,WDK,3-Wednesday,1.016
+FreewayUS40,5,Managed,WDK,4-Thursday,1.05
+FreewayUS40,5,Managed,WDK,5-Friday,1.17
+FreewayUS40,5,Managed,WDK,6-Saturday,1.029
+FreewayUS40,5,Managed,WDK,7-Sunday,0.777
+FreewayUS40,5,Managed,WDK,W1-Weekday,1.007
+FreewayUS40,5,Managed,WDK,MaxSatSun,1.007
+FreewayUS40,1,CD Road,WDK,1-Monday,0.965
+FreewayUS40,1,CD Road,WDK,2-Tuesday,0.991
+FreewayUS40,1,CD Road,WDK,3-Wednesday,1.016
+FreewayUS40,1,CD Road,WDK,4-Thursday,1.05
+FreewayUS40,1,CD Road,WDK,5-Friday,1.17
+FreewayUS40,1,CD Road,WDK,6-Saturday,1.029
+FreewayUS40,1,CD Road,WDK,7-Sunday,0.777
+FreewayUS40,1,CD Road,WDK,W1-Weekday,1.007
+FreewayUS40,1,CD Road,WDK,MaxSatSun,1.007
+FreewayUS40,2,CD Road,WDK,1-Monday,0.965
+FreewayUS40,2,CD Road,WDK,2-Tuesday,0.991
+FreewayUS40,2,CD Road,WDK,3-Wednesday,1.016
+FreewayUS40,2,CD Road,WDK,4-Thursday,1.05
+FreewayUS40,2,CD Road,WDK,5-Friday,1.17
+FreewayUS40,2,CD Road,WDK,6-Saturday,1.029
+FreewayUS40,2,CD Road,WDK,7-Sunday,0.777
+FreewayUS40,2,CD Road,WDK,W1-Weekday,1.007
+FreewayUS40,2,CD Road,WDK,MaxSatSun,1.007
+FreewayUS40,3,CD Road,WDK,1-Monday,0.965
+FreewayUS40,3,CD Road,WDK,2-Tuesday,0.991
+FreewayUS40,3,CD Road,WDK,3-Wednesday,1.016
+FreewayUS40,3,CD Road,WDK,4-Thursday,1.05
+FreewayUS40,3,CD Road,WDK,5-Friday,1.17
+FreewayUS40,3,CD Road,WDK,6-Saturday,1.029
+FreewayUS40,3,CD Road,WDK,7-Sunday,0.777
+FreewayUS40,3,CD Road,WDK,W1-Weekday,1.007
+FreewayUS40,3,CD Road,WDK,MaxSatSun,1.007
+FreewayUS40,4,CD Road,WDK,1-Monday,0.965
+FreewayUS40,4,CD Road,WDK,2-Tuesday,0.991
+FreewayUS40,4,CD Road,WDK,3-Wednesday,1.016
+FreewayUS40,4,CD Road,WDK,4-Thursday,1.05
+FreewayUS40,4,CD Road,WDK,5-Friday,1.17
+FreewayUS40,4,CD Road,WDK,6-Saturday,1.029
+FreewayUS40,4,CD Road,WDK,7-Sunday,0.777
+FreewayUS40,4,CD Road,WDK,W1-Weekday,1.007
+FreewayUS40,4,CD Road,WDK,MaxSatSun,1.007
+FreewayUS40,5,CD Road,WDK,1-Monday,0.965
+FreewayUS40,5,CD Road,WDK,2-Tuesday,0.991
+FreewayUS40,5,CD Road,WDK,3-Wednesday,1.016
+FreewayUS40,5,CD Road,WDK,4-Thursday,1.05
+FreewayUS40,5,CD Road,WDK,5-Friday,1.17
+FreewayUS40,5,CD Road,WDK,6-Saturday,1.029
+FreewayUS40,5,CD Road,WDK,7-Sunday,0.777
+FreewayUS40,5,CD Road,WDK,W1-Weekday,1.007
+FreewayUS40,5,CD Road,WDK,MaxSatSun,1.007

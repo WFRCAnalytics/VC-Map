@@ -1,0 +1,1707 @@
+[
+  {
+    "SiteGroup": "SN0",
+    "SiteID": 601,
+    "SiteName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "SiteGroup": "SN0",
+    "SiteID": 602,
+    "SiteName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "SiteGroup": "SN1",
+    "SiteID": 304,
+    "SiteName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "SiteGroup": "SN1",
+    "SiteID": 362,
+    "SiteName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "SiteGroup": "SN2",
+    "SiteID": 322,
+    "SiteName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "SiteGroup": "SN3",
+    "SiteID": 382,
+    "SiteName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "SiteGroup": "SN4",
+    "SiteID": 310,
+    "SiteName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "SiteGroup": "SN4",
+    "SiteID": 313,
+    "SiteName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "SiteGroup": "SN4",
+    "SiteID": 349,
+    "SiteName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "SiteGroup": "SN4",
+    "SiteID": 502,
+    "SiteName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "SiteGroup": "SN4",
+    "SiteID": 513,
+    "SiteName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "SiteGroup": "SN5",
+    "SiteID": 315,
+    "SiteName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "SiteGroup": "SN5",
+    "SiteID": 403,
+    "SiteName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "SiteGroup": "SN5",
+    "SiteID": 613,
+    "SiteName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "SiteGroup": "SN6",
+    "SiteID": 306,
+    "SiteName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "SiteGroup": "SN6",
+    "SiteID": 348,
+    "SiteName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "SiteGroup": "SN6",
+    "SiteID": 611,
+    "SiteName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "SiteGroup": "SN6",
+    "SiteID": 630,
+    "SiteName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "SiteGroup": "SN7",
+    "SiteID": 302,
+    "SiteName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "SiteGroup": "SN7",
+    "SiteID": 612,
+    "SiteName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "SiteGroup": "SN7",
+    "SiteID": 616,
+    "SiteName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "SiteGroup": "SN7",
+    "SiteID": 629,
+    "SiteName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "SiteGroup": "SN8",
+    "SiteID": 351,
+    "SiteName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "SiteGroup": "SN8",
+    "SiteID": 353,
+    "SiteName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "SiteGroup": "SN8",
+    "SiteID": 501,
+    "SiteName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "SiteGroup": "SN8",
+    "SiteID": 617,
+    "SiteName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "SiteGroup": "SN8",
+    "SiteID": 628,
+    "SiteName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "SiteGroup": "SN9",
+    "SiteID": 404,
+    "SiteName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "SiteGroup": "SN9",
+    "SiteID": 508,
+    "SiteName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "SiteGroup": "SNA",
+    "SiteID": 301,
+    "SiteName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "SiteGroup": "SNA",
+    "SiteID": 309,
+    "SiteName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "SiteGroup": "SNA",
+    "SiteID": 318,
+    "SiteName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "SiteGroup": "SNA",
+    "SiteID": 323,
+    "SiteName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "SiteGroup": "SNA",
+    "SiteID": 615,
+    "SiteName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "SiteGroup": "SND",
+    "SiteID": 340,
+    "SiteName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "SiteGroup": "SND",
+    "SiteID": 341,
+    "SiteName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "SiteGroup": "SNE",
+    "SiteID": 307,
+    "SiteName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "SiteGroup": "SNE",
+    "SiteID": 614,
+    "SiteName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "SiteGroup": "SNF",
+    "SiteID": 624,
+    "SiteName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "SiteGroup": "SNF",
+    "SiteID": 625,
+    "SiteName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "SiteGroup": "SNG",
+    "SiteID": 619,
+    "SiteName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "SiteGroup": "SNH",
+    "SiteID": 509,
+    "SiteName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "SiteGroup": "SNI",
+    "SiteID": 317,
+    "SiteName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "SiteGroup": "SNJ",
+    "SiteID": 421,
+    "SiteName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "SiteGroup": "SNK",
+    "SiteID": 605,
+    "SiteName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "SiteGroup": "SNK",
+    "SiteID": 606,
+    "SiteName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "SiteGroup": "SNL",
+    "SiteID": 424,
+    "SiteName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "SiteGroup": "SNM",
+    "SiteID": 512,
+    "SiteName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "SiteGroup": "SNN",
+    "SiteID": 414,
+    "SiteName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 324,
+    "SiteName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 411,
+    "SiteName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 412,
+    "SiteName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 415,
+    "SiteName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 420,
+    "SiteName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 504,
+    "SiteName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "SiteGroup": "SNO",
+    "SiteID": 506,
+    "SiteName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "SiteGroup": "SNP",
+    "SiteID": 321,
+    "SiteName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "SiteGroup": "SNP",
+    "SiteID": 405,
+    "SiteName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "SiteGroup": "SNP",
+    "SiteID": 430,
+    "SiteName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "SiteGroup": "SNP",
+    "SiteID": 431,
+    "SiteName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 303,
+    "SiteName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 305,
+    "SiteName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 308,
+    "SiteName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 312,
+    "SiteName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 314,
+    "SiteName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 320,
+    "SiteName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 416,
+    "SiteName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 418,
+    "SiteName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 427,
+    "SiteName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "SiteGroup": "SNQ",
+    "SiteID": 609,
+    "SiteName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "SiteGroup": "SNR",
+    "SiteID": 319,
+    "SiteName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "SiteGroup": "SNR",
+    "SiteID": 363,
+    "SiteName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "SiteGroup": "SNR",
+    "SiteID": 622,
+    "SiteName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 407,
+    "SiteName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 425,
+    "SiteName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 503,
+    "SiteName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 507,
+    "SiteName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 511,
+    "SiteName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "SiteGroup": "SNS",
+    "SiteID": 633,
+    "SiteName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 316,
+    "SiteName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 327,
+    "SiteName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 332,
+    "SiteName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 350,
+    "SiteName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 355,
+    "SiteName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 510,
+    "SiteName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 620,
+    "SiteName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 626,
+    "SiteName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 632,
+    "SiteName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "SiteGroup": "SNT",
+    "SiteID": 634,
+    "SiteName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 325,
+    "SiteName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 329,
+    "SiteName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 333,
+    "SiteName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 335,
+    "SiteName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 354,
+    "SiteName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 406,
+    "SiteName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 408,
+    "SiteName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 409,
+    "SiteName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 627,
+    "SiteName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 631,
+    "SiteName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "SiteGroup": "SNU",
+    "SiteID": 711,
+    "SiteName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "SiteGroup": "SNV",
+    "SiteID": 623,
+    "SiteName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "SiteGroup": "SNV",
+    "SiteID": 703,
+    "SiteName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "SiteGroup": "SNV",
+    "SiteID": 704,
+    "SiteName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "SiteGroup": "SNW",
+    "SiteID": 402,
+    "SiteName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "SiteGroup": "SNW",
+    "SiteID": 712,
+    "SiteName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "SiteGroup": "SNW",
+    "SiteID": 713,
+    "SiteName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "SiteGroup": "SNW",
+    "SiteID": 714,
+    "SiteName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "SiteGroup": "SNX",
+    "SiteID": 400,
+    "SiteName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "SiteGroup": "SNX",
+    "SiteID": 401,
+    "SiteName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "SiteGroup": "SNX",
+    "SiteID": 621,
+    "SiteName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 302,
+    "SiteName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 321,
+    "SiteName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 350,
+    "SiteName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 402,
+    "SiteName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 409,
+    "SiteName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 427,
+    "SiteName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 605,
+    "SiteName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 606,
+    "SiteName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 613,
+    "SiteName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 626,
+    "SiteName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 627,
+    "SiteName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 629,
+    "SiteName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 631,
+    "SiteName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 632,
+    "SiteName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 633,
+    "SiteName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 634,
+    "SiteName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 635,
+    "SiteName": "635: I 15, 15400 South, Draper"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 712,
+    "SiteName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 713,
+    "SiteName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "SiteGroup": "U00",
+    "SiteID": 714,
+    "SiteName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 306,
+    "SiteName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 315,
+    "SiteName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 340,
+    "SiteName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 341,
+    "SiteName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 348,
+    "SiteName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 351,
+    "SiteName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 353,
+    "SiteName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 501,
+    "SiteName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 611,
+    "SiteName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 612,
+    "SiteName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 616,
+    "SiteName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 617,
+    "SiteName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 621,
+    "SiteName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 628,
+    "SiteName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "SiteGroup": "U40",
+    "SiteID": 630,
+    "SiteName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 316,
+    "SiteName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 327,
+    "SiteName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 329,
+    "SiteName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 332,
+    "SiteName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 333,
+    "SiteName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 354,
+    "SiteName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 406,
+    "SiteName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 425,
+    "SiteName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 619,
+    "SiteName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 620,
+    "SiteName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 624,
+    "SiteName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 625,
+    "SiteName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "SiteGroup": "U43",
+    "SiteID": 711,
+    "SiteName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 325,
+    "SiteName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 335,
+    "SiteName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 355,
+    "SiteName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 407,
+    "SiteName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 408,
+    "SiteName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 511,
+    "SiteName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "SiteGroup": "U45",
+    "SiteID": 622,
+    "SiteName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 301,
+    "SiteName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 307,
+    "SiteName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 310,
+    "SiteName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 313,
+    "SiteName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 323,
+    "SiteName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 349,
+    "SiteName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 400,
+    "SiteName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 401,
+    "SiteName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 403,
+    "SiteName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 502,
+    "SiteName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 513,
+    "SiteName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 614,
+    "SiteName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "SiteGroup": "U50",
+    "SiteID": 615,
+    "SiteName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 312,
+    "SiteName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 314,
+    "SiteName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 324,
+    "SiteName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 363,
+    "SiteName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 418,
+    "SiteName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 420,
+    "SiteName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 425,
+    "SiteName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 431,
+    "SiteName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 503,
+    "SiteName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 506,
+    "SiteName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 507,
+    "SiteName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "SiteGroup": "U51",
+    "SiteID": 509,
+    "SiteName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 303,
+    "SiteName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 305,
+    "SiteName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 405,
+    "SiteName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 412,
+    "SiteName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 430,
+    "SiteName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 510,
+    "SiteName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "SiteGroup": "U53",
+    "SiteID": 609,
+    "SiteName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 308,
+    "SiteName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 309,
+    "SiteName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 318,
+    "SiteName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 319,
+    "SiteName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 320,
+    "SiteName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 382,
+    "SiteName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 404,
+    "SiteName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 411,
+    "SiteName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 414,
+    "SiteName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 415,
+    "SiteName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 416,
+    "SiteName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 418,
+    "SiteName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 421,
+    "SiteName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 424,
+    "SiteName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 430,
+    "SiteName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 504,
+    "SiteName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 508,
+    "SiteName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 509,
+    "SiteName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 512,
+    "SiteName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 601,
+    "SiteName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 602,
+    "SiteName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "SiteGroup": "U60",
+    "SiteID": 609,
+    "SiteName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "SiteGroup": "U62",
+    "SiteID": 317,
+    "SiteName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "SiteGroup": "U62",
+    "SiteID": 322,
+    "SiteName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "SiteGroup": "U63",
+    "SiteID": 304,
+    "SiteName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "SiteGroup": "U63",
+    "SiteID": 362,
+    "SiteName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "SiteGroup": "U70",
+    "SiteID": 623,
+    "SiteName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "SiteGroup": "U70",
+    "SiteID": 703,
+    "SiteName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "SiteGroup": "U70",
+    "SiteID": 704,
+    "SiteName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "SiteGroup": "U75",
+    "SiteID": 304,
+    "SiteName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "SiteGroup": "U75",
+    "SiteID": 362,
+    "SiteName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "SiteGroup": "U75",
+    "SiteID": 382,
+    "SiteName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "SiteGroup": "U75",
+    "SiteID": 601,
+    "SiteName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "SiteGroup": "U75",
+    "SiteID": 602,
+    "SiteName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 308,
+    "SiteName": "308: SR 40 1 mile E of POE Daniels Canyon, SLC MP 21.579 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 312,
+    "SiteName": "312: SR 6 4.5 miles SE of SR 89, Moark Jct. MP 182.390 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 314,
+    "SiteName": "314: SR 6 2 miles W of SR 191, Helper MP 226.966 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 319,
+    "SiteName": "319: SR 189 1 mile W of SR 92, Provo Cyn. MP 13.342 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 320,
+    "SiteName": "320: SR 39 0.5 mile W of SR 158, Ogden Cyn. MP 13.243 FC 06"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 321,
+    "SiteName": "321: SR 6 0.25 mile W of SR 68, Elberta Jct. MP 149.650 FC 06"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 324,
+    "SiteName": "324: SR 491 9 miles E of SR 191, Monticello MP 9.000 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 363,
+    "SiteName": "363: SR 91 0.8 mile N of SR 101, Wellsville MP 19.899 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 382,
+    "SiteName": "382: SR 14 1.7 miles E of SR 130, Cedar City MP 1.700 FC 16"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 411,
+    "SiteName": "411: SR 89 7 miles E of Kanab MP 54.009 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 414,
+    "SiteName": "414: SR 95 0.2 mile S of SR 24, Hanksville MP 0.225 FC 06"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 415,
+    "SiteName": "415: SR 89 1 mile N of Marysvale MP 180.244 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 416,
+    "SiteName": "416: SR 89 5.5 miles S of SR 6, Birdseye MP 306.479 FC 06"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 418,
+    "SiteName": "418: SR 6 0.7 mile N of I 70, Green River MP 299.194 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 420,
+    "SiteName": "420: SR 191 6 miles N of SR 491, Monticello MP 77.531 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 421,
+    "SiteName": "421: SR 191 0.2 mile N of SR 279, Moab MP 129.989 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 424,
+    "SiteName": "424: SR 191 3.5 miles N of SR 40, Vernal MP 355.610 FC 06"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 430,
+    "SiteName": "430: SR 30 6.01 miles E of SR 42, Curlew Jct. MP 80.704 FC 07"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 431,
+    "SiteName": "431: SR 28 1.5 miles S of SR 78, Levan MP 28.668 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 504,
+    "SiteName": "504: SR 89 1 mile S of Circleville MP 156.965 FC 02"
+  },
+  {
+    "SiteGroup": "WD0",
+    "SiteID": 609,
+    "SiteName": "609: SR 167 1.2 miles W of Mountain Green Int. MP 1.250 FC 07"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 303,
+    "SiteName": "303: SR 91 1.5 miles N of SR 61, Webster Jct MP 45.240 FC 06"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 305,
+    "SiteName": "305: SR 24 0.1 mile N of SR 118, Sigurd MP 8.064 FC 07"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 327,
+    "SiteName": "327: SR 6 0.2 mile W of Center Street, Spanish Fork MP 174.652 FC 14"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 355,
+    "SiteName": "355: SR 171 7658 W 3500 S, Magna MP 0.900 FC 16"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 412,
+    "SiteName": "412: SR 89A 2 miles S of Kanab MP 0.010 FC 06"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 503,
+    "SiteName": "503: SR 89 0.5 mile S of SR 50, Salina MP 226.441 FC 02"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 506,
+    "SiteName": "506: SR 191 1.2 miles W of SR 163, Bluff MP 24.666 FC 02"
+  },
+  {
+    "SiteGroup": "WD1",
+    "SiteID": 605,
+    "SiteName": "605: SR 224 0.1 mile N of Canyons Resort Drive, Park City MP 8.920 FC 02"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 332,
+    "SiteName": "332: SR 186 950 S Foothill Blvd., SLC MP 6.186 FC 14"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 405,
+    "SiteName": "405: SR 21 3 miles W of Main Street, Beaver MP 104.310 FC 06"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 407,
+    "SiteName": "407: SR 68 2 miles N of Utah County Line, Bluffdale MP 38.593 FC 16"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 425,
+    "SiteName": "425: SR 40 3 miles W of SR 121, Roosevelt MP 111.561 FC 02"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 427,
+    "SiteName": "427: SR 10 1 mile N of SR 155, Huntington MP 50.294 FC 06"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 510,
+    "SiteName": "510: SR 218 100 N 319 W, Smithfield MP 7.700 FC 16"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 511,
+    "SiteName": "511: Route 1267 2416 N 800 E, Logan MP 2.145 FC 16"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 606,
+    "SiteName": "606: SR 248 0.5 mile W of SR 40, Park City MP 2.561 FC 02"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 620,
+    "SiteName": "620: SR 30 W of 600 W, Logan MP 109.100 FC 12"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 622,
+    "SiteName": "622: SR 165 2121 S, Millville MP 9.350 FC 16"
+  },
+  {
+    "SiteGroup": "WD2",
+    "SiteID": 633,
+    "SiteName": "633: SR 85 Porter Rockwell Blvd @ 2300 West MP 3.374"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 325,
+    "SiteName": "325: SR 89 1087 S State Street, SLC MP 377.450 FC 16"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 329,
+    "SiteName": "329: SR 89 3450 S Washington Blvd., Ogden MP 412.398 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 333,
+    "SiteName": "333: SR 71 1190 S 700 E, SLC MP 21.260 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 335,
+    "SiteName": "335: SR 173 950 W 5400 S, SLC MP 8.339 FC 16"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 354,
+    "SiteName": "354: SR 171 1200 W 3300 S, SLC MP 8.800 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 406,
+    "SiteName": "406: SR 71 4550 S 700 E, SLC MP 16.337 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 408,
+    "SiteName": "408: SR 68 1200 S Redwood Road, SLC MP 57.436 FC 16"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 409,
+    "SiteName": "409: Route 2330 1200 W North Temple, SLC MP 1.690 FC 16"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 623,
+    "SiteName": "623: SR 18 Bluff Street, St. George MP 1.600 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 631,
+    "SiteName": "631: SR 266 4700 S 1075 W, SLC MP 1.923 FC 14"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 703,
+    "SiteName": "703: SR 8 1313 W Sunset Blvd., St. George MP 0.640 FC 16"
+  },
+  {
+    "SiteGroup": "WD3",
+    "SiteID": 704,
+    "SiteName": "704: Route 3196 2250 E Redcliff Drive, St. George MP 7.540 FC 17"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 304,
+    "SiteName": "304: SR 89 0.6 mile N of SR 30, Garden City MP 499.810 FC 02"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 317,
+    "SiteName": "317: SR 210 Mouth of Little Cottonwood Canyon, SLC MP 4.166 FC 06"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 322,
+    "SiteName": "322: SR 190 Mouth of Big Cottonwood Cyn. MP 2.460 FC 16"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 362,
+    "SiteName": "362: SR 89 0.2 mile W of SR 30, Garden City MP 498.231 FC 02"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 512,
+    "SiteName": "512: SR 35 0.7 mile E of Summit County Line, Woodland MP 10.532 FC 07"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 601,
+    "SiteName": "601: SR 92 American Fork Canyon W Toll Booth MP 7.961 FC 17"
+  },
+  {
+    "SiteGroup": "WD4",
+    "SiteID": 602,
+    "SiteName": "602: SR 92 American Fork Canyon E Toll Booth MP 22.519 FC 07"
+  },
+  {
+    "SiteGroup": "WD5",
+    "SiteID": 402,
+    "SiteName": "402: SR 9 1.3 miles W of SR 318, Hurricane MP 1.415 FC 02"
+  },
+  {
+    "SiteGroup": "WD5",
+    "SiteID": 507,
+    "SiteName": "507: SR 6 1 mile N of SR 55 Int., Price MP 239.232 FC 02"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 316,
+    "SiteName": "316: SR 89 2 miles S of SR 193, Hillfield Road, Layton MP 402.695 FC 14"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 350,
+    "SiteName": "350: SR 189 3200 N University Avenue, Provo MP 4.831 FC 14"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 626,
+    "SiteName": "626: SR 73 800 W, Saratoga Springs MP 35.800 FC 14"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 632,
+    "SiteName": "632: SR 145 Pioneer Crossing VMS Sign, Lehi-American Fork MP 4.407"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 634,
+    "SiteName": "634: SR 85 7600 South Mountainview Corridor MP 15.840"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 712,
+    "SiteName": "712: SR 7, Southern Parkway, St. George MP 1.337"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 713,
+    "SiteName": "713: SR 7, Southern Parkway, St. George MP 4.800"
+  },
+  {
+    "SiteGroup": "WD6",
+    "SiteID": 714,
+    "SiteName": "714: SR 7, Southern Parkway, St. George MP 6.910"
+  },
+  {
+    "SiteGroup": "WD7",
+    "SiteID": 627,
+    "SiteName": "627: SR 154 7700 S Bangerter Highway MP 13.004"
+  },
+  {
+    "SiteGroup": "WD7",
+    "SiteID": 711,
+    "SiteName": "711: SR 154 2500 S Bangerter Highway, SLC MP 20.229 FC 14"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 310,
+    "SiteName": "310: I 15 3 miles S of Plymouth Int. MP 389.341 FC 01"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 313,
+    "SiteName": "313: I 15 1 mile S of Scipio Int. MP 187.083 FC 01"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 401,
+    "SiteName": "401: I 15 1 mile S of Leeds Int. MP 22.581 FC 01"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 403,
+    "SiteName": "403: I 15 0.5 mile N of N Beaver Int. MP 112.432 FC 01"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 502,
+    "SiteName": "502: I 15 0.5 mile S of Nephi Int. MP 222.158 FC 01"
+  },
+  {
+    "SiteGroup": "WD8",
+    "SiteID": 513,
+    "SiteName": "513: I 15 1 mile N of S Parowan Int. MP 76.320 FC 01"
+  },
+  {
+    "SiteGroup": "WD9",
+    "SiteID": 349,
+    "SiteName": "349: I 15 2 miles N of Santaquin Int. MP 246.920 FC 01"
+  },
+  {
+    "SiteGroup": "WD9",
+    "SiteID": 400,
+    "SiteName": "400: I 15 1 mile S of Bloomington Int. MP 3.640 FC 11"
+  },
+  {
+    "SiteGroup": "WD9",
+    "SiteID": 613,
+    "SiteName": "613: I 15 2 miles S of S Brigham Int. MP 360.800 FC 01"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 302,
+    "SiteName": "302: I 15 12900 South M.P. 290.600 FC 02"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 306,
+    "SiteName": "306: I 15 2 miles N of Center Street, Provo MP 267.841 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 315,
+    "SiteName": "315: I 15 1.8 miles S of Lagoon Drive Int. MP 321.545 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 348,
+    "SiteName": "348: I 15 0.5 mile S of 31st Street, Ogden MP 340.939 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 611,
+    "SiteName": "611: I 15 1 mile S of SR 77, Springville Int. MP 259.520 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 612,
+    "SiteName": "612: I 15 N of SR 126 Int., Layton MP 331.071 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 616,
+    "SiteName": "616: I 15 0.7 mile N of I 215 On-Ramp, Woods Cross MP 314.600 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 621,
+    "SiteName": "621: I 15 0.43 mile S of Washington Int., St. George MP 10.500 FC 11"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 629,
+    "SiteName": "629: I-15 2900 South MP 304.001"
+  },
+  {
+    "SiteGroup": "WDA",
+    "SiteID": 630,
+    "SiteName": "630: I 15 8550 South, Midvale MP 296.400 FC 02"
+  },
+  {
+    "SiteGroup": "WDB",
+    "SiteID": 351,
+    "SiteName": "351: I 215 700 W, SLC MP 11.826 FC 11"
+  },
+  {
+    "SiteGroup": "WDB",
+    "SiteID": 353,
+    "SiteName": "353: I 215 2800 S, SLC MP 18.500 FC 11"
+  },
+  {
+    "SiteGroup": "WDB",
+    "SiteID": 501,
+    "SiteName": "501: I 215 0.68 mile N of 2100 N Int., SLC MP 26.315 FC 11"
+  },
+  {
+    "SiteGroup": "WDB",
+    "SiteID": 617,
+    "SiteName": "617: I 215 5800 S Knudsen_s Corner, SLC MP 5.100 FC 11"
+  },
+  {
+    "SiteGroup": "WDB",
+    "SiteID": 628,
+    "SiteName": "628: I-215 1100 West, East of Redwood Rd. MP 28.550"
+  },
+  {
+    "SiteGroup": "WDC",
+    "SiteID": 404,
+    "SiteName": "404: I 70 1 mile W of SR 6 Int., Green River MP 156.869 FC 01"
+  },
+  {
+    "SiteGroup": "WDC",
+    "SiteID": 508,
+    "SiteName": "508: I 70 1.5 miles NE of W Richfield Int. MP 38.732 FC 11"
+  },
+  {
+    "SiteGroup": "WDD",
+    "SiteID": 309,
+    "SiteName": "309: I 80 1 mile East of Echo Jct. MP 168.350 FC 01"
+  },
+  {
+    "SiteGroup": "WDD",
+    "SiteID": 318,
+    "SiteName": "318: I 80 1 mile W of Coalville Int. MP 161.501 FC 01"
+  },
+  {
+    "SiteGroup": "WDD",
+    "SiteID": 323,
+    "SiteName": "323: I 80 1 mile W of Delle Int. MP 68.690 FC 01"
+  },
+  {
+    "SiteGroup": "WDE",
+    "SiteID": 301,
+    "SiteName": "301: I 80 1 mile E of I 215 Int., Parleys Canyon, SLC MP 129.000 FC 11"
+  },
+  {
+    "SiteGroup": "WDE",
+    "SiteID": 615,
+    "SiteName": "615: I 80 0.5 mile E of SR 36 Mills Jct., Tooele MP 99.500 FC 01"
+  },
+  {
+    "SiteGroup": "WDF",
+    "SiteID": 340,
+    "SiteName": "340: I 80 1325 W, SLC MP 118.420 FC 11"
+  },
+  {
+    "SiteGroup": "WDF",
+    "SiteID": 341,
+    "SiteName": "341: I 80 1 mile E of 300 E Overpass, SLC MP 123.540 FC 11"
+  },
+  {
+    "SiteGroup": "WDG",
+    "SiteID": 307,
+    "SiteName": "307: I 84 0.5 mile E of Mountain Green Int. MP 92.593 FC 07"
+  },
+  {
+    "SiteGroup": "WDH",
+    "SiteID": 614,
+    "SiteName": "614: I 84 3.2 miles W of Bothwell Int. MP 36.640 FC 01"
+  },
+  {
+    "SiteGroup": "WDI",
+    "SiteID": 624,
+    "SiteName": "624: SR 67 Legacy Parkway MP 0.944 FC 12"
+  },
+  {
+    "SiteGroup": "WDI",
+    "SiteID": 625,
+    "SiteName": "625: SR 67 Legacy Parkway MP 11.418 FC 12"
+  },
+  {
+    "SiteGroup": "WDJ",
+    "SiteID": 619,
+    "SiteName": "619: SR 201 6174 W, SLC MP 10.600 FC 12"
+  },
+  {
+    "SiteGroup": "WDK",
+    "SiteID": 509,
+    "SiteName": "509: SR 40 0.5 mile W of SR 32, Heber MP 12.808 FC 02"
+  }
+]

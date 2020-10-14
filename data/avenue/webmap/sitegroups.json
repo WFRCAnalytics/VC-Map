@@ -1,0 +1,86 @@
+[
+  {
+    "label": "WD0: Weekday Arterial Rural",
+    "value": "WD0"
+  },
+  {
+    "label": "WD1: Weekday Arterial Transition",
+    "value": "WD1"
+  },
+  {
+    "label": "WD2: Weekday Arterial Suburban",
+    "value": "WD2"
+  },
+  {
+    "label": "WD3: Weekday Arterial Urban",
+    "value": "WD3"
+  },
+  {
+    "label": "WD4: Weekday Canyon",
+    "value": "WD4"
+  },
+  {
+    "label": "WD5: Weekday Expressway Transition",
+    "value": "WD5"
+  },
+  {
+    "label": "WD6: Weekday Expressway Suburban",
+    "value": "WD6"
+  },
+  {
+    "label": "WD7: Weekday Expressway Urban",
+    "value": "WD7"
+  },
+  {
+    "label": "WD8: Weekday Freeway I-15 Rural",
+    "value": "WD8"
+  },
+  {
+    "label": "WD9: Weekday Freeway I-15 Transition",
+    "value": "WD9"
+  },
+  {
+    "label": "WDA: Weekday Freeway I-15 Suburban",
+    "value": "WDA"
+  },
+  {
+    "label": "WDB: Weekday Freeway I-215",
+    "value": "WDB"
+  },
+  {
+    "label": "WDC: Weekday Freeway I-70",
+    "value": "WDC"
+  },
+  {
+    "label": "WDD: Weekday Freeway I-80 Rural",
+    "value": "WDD"
+  },
+  {
+    "label": "WDE: Weekday Freeway I-80 Suburban",
+    "value": "WDE"
+  },
+  {
+    "label": "WDF: Weekday Freeway I-80 Urban",
+    "value": "WDF"
+  },
+  {
+    "label": "WDG: Weekday Freeway I-84 East",
+    "value": "WDG"
+  },
+  {
+    "label": "WDH: Weekday Freeway I-84 West",
+    "value": "WDH"
+  },
+  {
+    "label": "WDI: Weekday Freeway Legacy",
+    "value": "WDI"
+  },
+  {
+    "label": "WDJ: Weekday Freeway SR-201",
+    "value": "WDJ"
+  },
+  {
+    "label": "WDK: Weekday Freeway US-40",
+    "value": "WDK"
+  }
+]
