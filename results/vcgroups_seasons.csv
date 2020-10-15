@@ -1,0 +1,6 @@
+DOWGroup,DOWPkCode,DOWPkName,HourPercentOf,Period
+W1-Weekday,WkAM,Weekday AM Peak,Period,AM
+W1-Weekday,WkPM,Weekday AM Peak,Period,PM
+5-Friday,FrPM,Friday PM Peak,Daily,PM
+6-Saturday,SaMD,Saturday Midday Peak,Daily,MD
+7-Sunday,SuMD,Sunday Midday Peak,Daily,MD

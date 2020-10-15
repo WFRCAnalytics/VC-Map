@@ -2,3 +2,14 @@ data/udot-ccs/CCS_Data.accdb
 data/udot-ccs/CCS_GUI.accdb
 data/udot-ccs/tblHourlyVolumes.dbf
 data-processed/ccs/CCS_HourlyVolumes.csv
+results/1_Peak_VC_Base19.csv
+results/1_Peak_VC_NB30.csv
+results/1_Peak_VC_NB40.csv
+results/1_Peak_VC_NB50.csv
+results/1_Peak_VC_RTP30.csv
+results/1_Peak_VC_RTP40.csv
+results/1_Peak_VC_RTP50.csv
+results/1_Peak_VC_TIP24.csv
+results/1_Peak_VC_UF30.csv
+results/1_Peak_VC_UF40.csv
+results/1_Peak_VC_UF50.csv
