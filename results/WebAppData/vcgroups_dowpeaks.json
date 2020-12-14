@@ -1,1 +1,1 @@
-[{"value":"WkAM","label":"Weekday AM Peak"},{"value":"WkPM","label":"Weekday AM Peak"},{"value":"FrPM","label":"Friday PM Peak"},{"value":"SaMD","label":"Saturday Midday Peak"},{"value":"SuMD","label":"Sunday Midday Peak"}]
+[{"value":"WkAM","label":"AM - Weekday"},{"value":"WkMD","label":"Midday - Weekday"},{"value":"WkPM","label":"PM - Weekday"},{"value":"FrPM","label":"PM - Friday"},{"value":"SaDY","label":"Saturday"},{"value":"SuDY","label":"Sunday"}]

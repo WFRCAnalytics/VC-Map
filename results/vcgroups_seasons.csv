@@ -1,6 +1,18 @@
-DOWGroup,DOWPkCode,DOWPkName,HourPercentOf,Period
-W1-Weekday,WkAM,Weekday AM Peak,Period,AM
-W1-Weekday,WkPM,Weekday AM Peak,Period,PM
-5-Friday,FrPM,Friday PM Peak,Daily,PM
-6-Saturday,SaMD,Saturday Midday Peak,Daily,MD
-7-Sunday,SuMD,Sunday Midday Peak,Daily,MD
+SeasonCode,SeasonGroup,SeasonName,SeasonType
+Ann,S00-Ann,Annual,Season
+Win,S01-Win,Winter,Season
+Spr,S02-Spr,Spring,Season
+Sum,S03-Sum,Summer,Season
+Fal,S04-Fal,Fall,Season
+Jan,M01-Jan,January,Month
+Feb,M02-Feb,February,Month
+Mar,M03-Mar,March,Month
+Apr,M04-Apr,April,Month
+May,M05-May,May,Month
+Jun,M06-Jun,June,Month
+Jul,M07-Jul,July,Month
+Aug,M08-Aug,August,Month
+Sep,M09-Sep,September,Month
+Oct,M10-Oct,October,Month
+Nov,M11-Nov,November,Month
+Dec,M12-Dec,December,Month
