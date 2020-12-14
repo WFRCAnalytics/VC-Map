@@ -13,4 +13,4 @@ results/1_VC_TIP24.csv
 results/1_VC_UF30.csv
 results/1_VC_UF40.csv
 results/1_VC_UF50.csv
-results/*
+results/WebAppData/*
