@@ -1,12 +1,13 @@
 Process,ScenarioCode,ScenarioGroup,ScenarioName,ScenarioYear,SegSummaryCSV,PrvScenarioCode,AdjScenarioCode
-Yes,Base19,Base,2019 Base,2019,v831_SE19_Net19_Summary_SEGID_Detailed.csv,,
-Yes,TIP24,TIP,2024 TIP,2024,v831_SE24_Net24_Summary_SEGID_Detailed.csv,Base19,
-Yes,RTP30,RTP,2030 RTP,2030,v831_SE30_Net30_Summary_SEGID_Detailed.csv,TIP24,
-Yes,RTP40,RTP,2040 RTP,2040,v831_SE40_Net40_Summary_SEGID_Detailed.csv,RTP30,
-Yes,RTP50,RTP,2050 RTP,2050,v831_SE50_Net50_Summary_SEGID_Detailed.csv,RTP40,
-Yes,NB30,No Build,2030 No Build,2030,v831_SE30_Net24_Summary_SEGID_Detailed.csv,TIP24,RTP30
-Yes,NB40,No Build,2040 No Build,2040,v831_SE40_Net24_Summary_SEGID_Detailed.csv,NB30,RTP40
-Yes,NB50,No Build,2050 No Build,2050,v831_SE50_Net24_Summary_SEGID_Detailed.csv,NB40,RTP50
-Yes,UF30,Needs,2030 Needs,2030,v831_SE30_Net30UF_Summary_SEGID_Detailed.csv,TIP24,RTP30
-Yes,UF40,Needs,2040 Needs,2040,v831_SE40_Net40UF_Summary_SEGID_Detailed.csv,UF30,RTP40
-Yes,UF50,Needs,2050 Needs,2050,v831_SE50_Net50UF_Summary_SEGID_Detailed.csv,UF40,RTP50
+Yes,Base15,Base,2015 Base,2015,v831_SE15_Net15_Summary_SEGID_Detailed.csv,,
+Yes,Base19,Base,2019 Base,2019,v831_SE19_Net19_Summary_SEGID_Detailed.csv,Base15,
+No,TIP24,TIP,2024 TIP,2024,v831_SE24_Net24_Summary_SEGID_Detailed.csv,Base19,
+No,RTP30,RTP,2030 RTP,2030,v831_SE30_Net30_Summary_SEGID_Detailed.csv,TIP24,
+No,RTP40,RTP,2040 RTP,2040,v831_SE40_Net40_Summary_SEGID_Detailed.csv,RTP30,
+No,RTP50,RTP,2050 RTP,2050,v831_SE50_Net50_Summary_SEGID_Detailed.csv,RTP40,
+No,NB30,No Build,2030 No Build,2030,v831_SE30_Net24_Summary_SEGID_Detailed.csv,TIP24,RTP30
+No,NB40,No Build,2040 No Build,2040,v831_SE40_Net24_Summary_SEGID_Detailed.csv,NB30,RTP40
+No,NB50,No Build,2050 No Build,2050,v831_SE50_Net24_Summary_SEGID_Detailed.csv,NB40,RTP50
+No,UF30,Needs,2030 Needs,2030,v831_SE30_Net30UF_Summary_SEGID_Detailed.csv,TIP24,RTP30
+No,UF40,Needs,2040 Needs,2040,v831_SE40_Net40UF_Summary_SEGID_Detailed.csv,UF30,RTP40
+No,UF50,Needs,2050 Needs,2050,v831_SE50_Net50UF_Summary_SEGID_Detailed.csv,UF40,RTP50
