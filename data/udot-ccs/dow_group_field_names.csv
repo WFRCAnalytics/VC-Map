@@ -1,0 +1,10 @@
+DOWGROUP,DOWFLDNM,DAYFLAG,DAYNAME
+D1-Monday,FAC_MON,1,Mon
+D2-Tuesday,FAC_TUE,1,Tue
+D3-Wednesday,FAC_WED,1,Wed
+D4-Thursday,FAC_THU,1,Thu
+D5-Friday,FAC_FRI,1,Fri
+D6-Saturday,FAC_SAT,1,Sat
+D7-Sunday,FAC_SUN,1,Sun
+1-Weekday (Tu-Th),FAC_WDAVG,0,
+2-Weekend (Sa-Su),FAC_WEAVG,0,

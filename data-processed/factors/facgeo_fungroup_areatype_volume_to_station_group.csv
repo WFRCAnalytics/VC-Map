@@ -1,0 +1,589 @@
+FACGEO,AREATYPE,VOLUMEFROM,VOLUMETO,FUNCGROUP,STATIONGROUP
+I80NevSR36,1,0,1000000,Arterial,COQ
+I80NevSR36,2,0,1000000,Arterial,COS
+I80NevSR36,3,0,1000000,Arterial,COT
+I80NevSR36,4,0,1000000,Arterial,COU
+I80NevSR36,5,0,1000000,Arterial,COU
+I80SR36SR154,1,0,1000000,Arterial,COQ
+I80SR36SR154,2,0,1000000,Arterial,COS
+I80SR36SR154,3,0,1000000,Arterial,COT
+I80SR36SR154,4,0,1000000,Arterial,COU
+I80SR36SR154,5,0,1000000,Arterial,COU
+I80SR154SR186,1,0,1000000,Arterial,COQ
+I80SR154SR186,2,0,1000000,Arterial,COS
+I80SR154SR186,3,0,1000000,Arterial,COT
+I80SR154SR186,4,0,1000000,Arterial,COU
+I80SR154SR186,5,0,1000000,Arterial,COU
+I80SR186US40,1,0,1000000,Arterial,COQ
+I80SR186US40,2,0,1000000,Arterial,COS
+I80SR186US40,3,0,1000000,Arterial,COT
+I80SR186US40,4,0,1000000,Arterial,COU
+I80SR186US40,5,0,1000000,Arterial,COU
+I80US40Wyo,1,0,1000000,Arterial,COQ
+I80US40Wyo,2,0,1000000,Arterial,COS
+I80US40Wyo,3,0,1000000,Arterial,COT
+I80US40Wyo,4,0,1000000,Arterial,COU
+I80US40Wyo,5,0,1000000,Arterial,COU
+I84West,1,0,1000000,Arterial,COQ
+I84West,2,0,1000000,Arterial,COS
+I84West,3,0,1000000,Arterial,COT
+I84West,4,0,1000000,Arterial,COU
+I84West,5,0,1000000,Arterial,COU
+I84East,1,0,1000000,Arterial,COQ
+I84East,2,0,1000000,Arterial,COS
+I84East,3,0,1000000,Arterial,COT
+I84East,4,0,1000000,Arterial,COU
+I84East,5,0,1000000,Arterial,COU
+Legacy,1,0,1000000,Arterial,COQ
+Legacy,2,0,1000000,Arterial,COS
+Legacy,3,0,1000000,Arterial,COT
+Legacy,4,0,1000000,Arterial,COU
+Legacy,5,0,1000000,Arterial,COU
+SR201,1,0,1000000,Arterial,COQ
+SR201,2,0,1000000,Arterial,COS
+SR201,3,0,1000000,Arterial,COT
+SR201,4,0,1000000,Arterial,COU
+SR201,5,0,1000000,Arterial,COU
+US40,1,0,1000000,Arterial,COQ
+US40,2,0,1000000,Arterial,COS
+US40,3,0,1000000,Arterial,COT
+US40,4,0,1000000,Arterial,COU
+US40,5,0,1000000,Arterial,COU
+LittleCottonwoodSnowbasin,1,0,1000000,Arterial,COI
+LittleCottonwoodSnowbasin,2,0,1000000,Arterial,COI
+LittleCottonwoodSnowbasin,3,0,1000000,Arterial,COI
+LittleCottonwoodSnowbasin,4,0,1000000,Arterial,COI
+LittleCottonwoodSnowbasin,5,0,1000000,Arterial,COI
+Moab,1,0,1000000,Arterial,COJ
+Moab,2,0,1000000,Arterial,COJ
+Moab,3,0,1000000,Arterial,COJ
+Moab,4,0,1000000,Arterial,COJ
+Moab,5,0,1000000,Arterial,COJ
+ParkCity,1,0,1000000,Arterial,COK
+ParkCity,2,0,1000000,Arterial,COK
+ParkCity,3,0,1000000,Arterial,COK
+ParkCity,4,0,1000000,Arterial,COK
+ParkCity,5,0,1000000,Arterial,COK
+RuralRecLowVol,1,0,1000000,Arterial,COL
+RuralRecLowVol,2,0,1000000,Arterial,COL
+RuralRecLowVol,3,0,1000000,Arterial,COL
+RuralRecLowVol,4,0,1000000,Arterial,COL
+RuralRecLowVol,5,0,1000000,Arterial,COL
+RuralRecLowVolWinterClosed,1,0,1000000,Arterial,COM
+RuralRecLowVolWinterClosed,2,0,1000000,Arterial,COM
+RuralRecLowVolWinterClosed,3,0,1000000,Arterial,COM
+RuralRecLowVolWinterClosed,4,0,1000000,Arterial,COM
+RuralRecLowVolWinterClosed,5,0,1000000,Arterial,COM
+Statewide,2,0,1000000,Arterial,COS
+Statewide,3,0,1000000,Arterial,COT
+Statewide,4,0,1000000,Arterial,COU
+Statewide,5,0,1000000,Arterial,COU
+Washington,1,0,1000000,Arterial,COV
+Washington,2,0,1000000,Arterial,COV
+Washington,3,0,1000000,Arterial,COV
+Washington,4,0,1000000,Arterial,COV
+Washington,5,0,1000000,Arterial,COV
+Washington,1,0,1000000,Arterial,COW
+Washington,2,0,1000000,Arterial,COW
+Washington,3,0,1000000,Arterial,COW
+Washington,4,0,1000000,Arterial,COW
+Washington,5,0,1000000,Arterial,COW
+Washington,1,0,1000000,Arterial,COQ
+Washington,2,0,1000000,Arterial,COS
+Washington,3,0,1000000,Arterial,COT
+Washington,4,0,1000000,Arterial,COU
+Washington,5,0,1000000,Arterial,COU
+AlpineLoop,1,0,1000000,Arterial,CO0
+AlpineLoop,2,0,1000000,Arterial,CO0
+AlpineLoop,3,0,1000000,Arterial,CO0
+AlpineLoop,4,0,1000000,Arterial,CO0
+AlpineLoop,5,0,1000000,Arterial,CO0
+BearLake,1,0,1000000,Arterial,CO1
+BearLake,2,0,1000000,Arterial,CO1
+BearLake,3,0,1000000,Arterial,CO1
+BearLake,4,0,1000000,Arterial,CO1
+BearLake,5,0,1000000,Arterial,CO1
+BigCottonwood,1,0,1000000,Arterial,CO2
+BigCottonwood,2,0,1000000,Arterial,CO2
+BigCottonwood,3,0,1000000,Arterial,CO2
+BigCottonwood,4,0,1000000,Arterial,CO2
+BigCottonwood,5,0,1000000,Arterial,CO2
+CedarBreaks,1,0,1000000,Arterial,CO3
+CedarBreaks,2,0,1000000,Arterial,CO3
+CedarBreaks,3,0,1000000,Arterial,CO3
+CedarBreaks,4,0,1000000,Arterial,CO3
+CedarBreaks,5,0,1000000,Arterial,CO3
+I15Plymouth,1,0,1000000,Arterial,COQ
+I15Plymouth,2,0,1000000,Arterial,COS
+I15Plymouth,3,0,1000000,Arterial,COT
+I15Plymouth,4,0,1000000,Arterial,COU
+I15Plymouth,5,0,1000000,Arterial,COU
+I15,1,0,1000000,Arterial,COQ
+I15,2,0,1000000,Arterial,COS
+I15,3,0,1000000,Arterial,COT
+I15,4,0,1000000,Arterial,COU
+I15,5,0,1000000,Arterial,COU
+I215,1,0,1000000,Arterial,COQ
+I215,2,0,1000000,Arterial,COS
+I215,3,0,1000000,Arterial,COT
+I215,4,0,1000000,Arterial,COU
+I215,5,0,1000000,Arterial,COU
+I70,1,0,1000000,Arterial,COQ
+I70,2,0,1000000,Arterial,COS
+I70,3,0,1000000,Arterial,COT
+I70,4,0,1000000,Arterial,COU
+I70,5,0,1000000,Arterial,COU
+Southeast,1,0,1500,Arterial,CON
+Southeast,2,0,1500,Arterial,CON
+Southeast,3,0,1500,Arterial,CON
+Southeast,4,0,1500,Arterial,CON
+Southeast,5,0,1500,Arterial,CON
+Southeast,1,1500,1000000,Arterial,COO
+Southeast,2,1500,1000000,Arterial,COO
+Southeast,3,1500,1000000,Arterial,COO
+Southeast,4,1500,1000000,Arterial,COO
+Southeast,5,1500,1000000,Arterial,COO
+Statewide,1,0,2500,Arterial,COP
+Statewide,1,2500,12500,Arterial,COQ
+Statewide,1,12500,1000000,Arterial,COR
+I80NevSR36,1,0,1000000,Freeway,COA
+I80NevSR36,2,0,1000000,Freeway,COA
+I80NevSR36,3,0,1000000,Freeway,COA
+I80NevSR36,4,0,1000000,Freeway,COA
+I80NevSR36,5,0,1000000,Freeway,COA
+I80SR36SR154,1,0,1000000,Freeway,COB
+I80SR36SR154,2,0,1000000,Freeway,COB
+I80SR36SR154,3,0,1000000,Freeway,COB
+I80SR36SR154,4,0,1000000,Freeway,COB
+I80SR36SR154,5,0,1000000,Freeway,COB
+I80SR154SR186,1,0,1000000,Freeway,COC
+I80SR154SR186,2,0,1000000,Freeway,COC
+I80SR154SR186,3,0,1000000,Freeway,COC
+I80SR154SR186,4,0,1000000,Freeway,COC
+I80SR154SR186,5,0,1000000,Freeway,COC
+I80SR186US40,1,0,1000000,Freeway,COD
+I80SR186US40,2,0,1000000,Freeway,COD
+I80SR186US40,3,0,1000000,Freeway,COD
+I80SR186US40,4,0,1000000,Freeway,COD
+I80SR186US40,5,0,1000000,Freeway,COD
+I80US40Wyo,1,0,1000000,Freeway,COY
+I80US40Wyo,2,0,1000000,Freeway,COY
+I80US40Wyo,3,0,1000000,Freeway,COY
+I80US40Wyo,4,0,1000000,Freeway,COY
+I80US40Wyo,5,0,1000000,Freeway,COY
+I84West,1,0,1000000,Freeway,COE
+I84West,2,0,1000000,Freeway,COE
+I84West,3,0,1000000,Freeway,COE
+I84West,4,0,1000000,Freeway,COE
+I84West,5,0,1000000,Freeway,COE
+I84East,1,0,1000000,Freeway,COZ
+I84East,2,0,1000000,Freeway,COZ
+I84East,3,0,1000000,Freeway,COZ
+I84East,4,0,1000000,Freeway,COZ
+I84East,5,0,1000000,Freeway,COZ
+Legacy,1,0,1000000,Freeway,COF
+Legacy,2,0,1000000,Freeway,COF
+Legacy,3,0,1000000,Freeway,COF
+Legacy,4,0,1000000,Freeway,COF
+Legacy,5,0,1000000,Freeway,COF
+SR201,1,0,1000000,Freeway,COG
+SR201,2,0,1000000,Freeway,COG
+SR201,3,0,1000000,Freeway,COG
+SR201,4,0,1000000,Freeway,COG
+SR201,5,0,1000000,Freeway,COG
+US40,1,0,1000000,Freeway,COH
+US40,2,0,1000000,Freeway,COH
+US40,3,0,1000000,Freeway,COH
+US40,4,0,1000000,Freeway,COH
+US40,5,0,1000000,Freeway,COH
+LittleCottonwoodSnowbasin,1,0,1000000,Freeway,COI
+LittleCottonwoodSnowbasin,2,0,1000000,Freeway,COI
+LittleCottonwoodSnowbasin,3,0,1000000,Freeway,COI
+LittleCottonwoodSnowbasin,4,0,1000000,Freeway,COI
+LittleCottonwoodSnowbasin,5,0,1000000,Freeway,COI
+Moab,1,0,1000000,Freeway,COJ
+Moab,2,0,1000000,Freeway,COJ
+Moab,3,0,1000000,Freeway,COJ
+Moab,4,0,1000000,Freeway,COJ
+Moab,5,0,1000000,Freeway,COJ
+ParkCity,1,0,1000000,Freeway,COK
+ParkCity,2,0,1000000,Freeway,COK
+ParkCity,3,0,1000000,Freeway,COK
+ParkCity,4,0,1000000,Freeway,COK
+ParkCity,5,0,1000000,Freeway,COK
+RuralRecLowVol,1,0,1000000,Freeway,COL
+RuralRecLowVol,2,0,1000000,Freeway,COL
+RuralRecLowVol,3,0,1000000,Freeway,COL
+RuralRecLowVol,4,0,1000000,Freeway,COL
+RuralRecLowVol,5,0,1000000,Freeway,COL
+RuralRecLowVolWinterClosed,1,0,1000000,Freeway,COM
+RuralRecLowVolWinterClosed,2,0,1000000,Freeway,COM
+RuralRecLowVolWinterClosed,3,0,1000000,Freeway,COM
+RuralRecLowVolWinterClosed,4,0,1000000,Freeway,COM
+RuralRecLowVolWinterClosed,5,0,1000000,Freeway,COM
+Statewide,2,0,1000000,Freeway,XX3
+Statewide,3,0,1000000,Freeway,XX3
+Statewide,4,0,1000000,Freeway,XX3
+Statewide,5,0,1000000,Freeway,XX3
+Washington,1,0,1000000,Freeway,COV
+Washington,2,0,1000000,Freeway,COV
+Washington,3,0,1000000,Freeway,COV
+Washington,4,0,1000000,Freeway,COV
+Washington,5,0,1000000,Freeway,COV
+Washington,1,0,1000000,Freeway,COW
+Washington,2,0,1000000,Freeway,COW
+Washington,3,0,1000000,Freeway,COW
+Washington,4,0,1000000,Freeway,COW
+Washington,5,0,1000000,Freeway,COW
+Washington,1,0,1000000,Freeway,COX
+Washington,2,0,1000000,Freeway,COX
+Washington,3,0,1000000,Freeway,COX
+Washington,4,0,1000000,Freeway,COX
+Washington,5,0,1000000,Freeway,COX
+AlpineLoop,1,0,1000000,Freeway,CO0
+AlpineLoop,2,0,1000000,Freeway,CO0
+AlpineLoop,3,0,1000000,Freeway,CO0
+AlpineLoop,4,0,1000000,Freeway,CO0
+AlpineLoop,5,0,1000000,Freeway,CO0
+BearLake,1,0,1000000,Freeway,CO1
+BearLake,2,0,1000000,Freeway,CO1
+BearLake,3,0,1000000,Freeway,CO1
+BearLake,4,0,1000000,Freeway,CO1
+BearLake,5,0,1000000,Freeway,CO1
+BigCottonwood,1,0,1000000,Freeway,CO2
+BigCottonwood,2,0,1000000,Freeway,CO2
+BigCottonwood,3,0,1000000,Freeway,CO2
+BigCottonwood,4,0,1000000,Freeway,CO2
+BigCottonwood,5,0,1000000,Freeway,CO2
+CedarBreaks,1,0,1000000,Freeway,CO3
+CedarBreaks,2,0,1000000,Freeway,CO3
+CedarBreaks,3,0,1000000,Freeway,CO3
+CedarBreaks,4,0,1000000,Freeway,CO3
+CedarBreaks,5,0,1000000,Freeway,CO3
+I15Plymouth,1,0,1000000,Freeway,CO7
+I15Plymouth,2,0,1000000,Freeway,CO7
+I15Plymouth,3,0,1000000,Freeway,CO7
+I15Plymouth,4,0,1000000,Freeway,CO7
+I15Plymouth,5,0,1000000,Freeway,CO7
+I15,1,0,1000000,Freeway,CO4
+I15,2,0,1000000,Freeway,CO5
+I15,3,0,1000000,Freeway,CO6
+I15,4,0,1000000,Freeway,CO6
+I15,5,0,1000000,Freeway,CO6
+I215,1,0,1000000,Freeway,CO8
+I215,2,0,1000000,Freeway,CO8
+I215,3,0,1000000,Freeway,CO8
+I215,4,0,1000000,Freeway,CO8
+I215,5,0,1000000,Freeway,CO8
+I70,1,0,1000000,Freeway,CO9
+I70,2,0,1000000,Freeway,CO9
+I70,3,0,1000000,Freeway,CO9
+I70,4,0,1000000,Freeway,CO9
+I70,5,0,1000000,Freeway,CO9
+Southeast,1,0,1500,Freeway,XX3
+Southeast,2,0,1500,Freeway,XX3
+Southeast,3,0,1500,Freeway,XX3
+Southeast,4,0,1500,Freeway,XX3
+Southeast,5,0,1500,Freeway,XX3
+Southeast,1,1500,1000000,Freeway,XX3
+Southeast,2,1500,1000000,Freeway,XX3
+Southeast,3,1500,1000000,Freeway,XX3
+Southeast,4,1500,1000000,Freeway,XX3
+Southeast,5,1500,1000000,Freeway,XX3
+Statewide,1,0,2500,Freeway,XX3
+Statewide,1,2500,12500,Freeway,XX3
+Statewide,1,12500,1000000,Freeway,XX3
+I80NevSR36,1,0,1000000,Managed,COA
+I80NevSR36,2,0,1000000,Managed,COA
+I80NevSR36,3,0,1000000,Managed,COA
+I80NevSR36,4,0,1000000,Managed,COA
+I80NevSR36,5,0,1000000,Managed,COA
+I80SR36SR154,1,0,1000000,Managed,COB
+I80SR36SR154,2,0,1000000,Managed,COB
+I80SR36SR154,3,0,1000000,Managed,COB
+I80SR36SR154,4,0,1000000,Managed,COB
+I80SR36SR154,5,0,1000000,Managed,COB
+I80SR154SR186,1,0,1000000,Managed,COC
+I80SR154SR186,2,0,1000000,Managed,COC
+I80SR154SR186,3,0,1000000,Managed,COC
+I80SR154SR186,4,0,1000000,Managed,COC
+I80SR154SR186,5,0,1000000,Managed,COC
+I80SR186US40,1,0,1000000,Managed,COD
+I80SR186US40,2,0,1000000,Managed,COD
+I80SR186US40,3,0,1000000,Managed,COD
+I80SR186US40,4,0,1000000,Managed,COD
+I80SR186US40,5,0,1000000,Managed,COD
+I80US40Wyo,1,0,1000000,Managed,COY
+I80US40Wyo,2,0,1000000,Managed,COY
+I80US40Wyo,3,0,1000000,Managed,COY
+I80US40Wyo,4,0,1000000,Managed,COY
+I80US40Wyo,5,0,1000000,Managed,COY
+I84West,1,0,1000000,Managed,COE
+I84West,2,0,1000000,Managed,COE
+I84West,3,0,1000000,Managed,COE
+I84West,4,0,1000000,Managed,COE
+I84West,5,0,1000000,Managed,COE
+I84East,1,0,1000000,Managed,COZ
+I84East,2,0,1000000,Managed,COZ
+I84East,3,0,1000000,Managed,COZ
+I84East,4,0,1000000,Managed,COZ
+I84East,5,0,1000000,Managed,COZ
+Legacy,1,0,1000000,Managed,COF
+Legacy,2,0,1000000,Managed,COF
+Legacy,3,0,1000000,Managed,COF
+Legacy,4,0,1000000,Managed,COF
+Legacy,5,0,1000000,Managed,COF
+SR201,1,0,1000000,Managed,COG
+SR201,2,0,1000000,Managed,COG
+SR201,3,0,1000000,Managed,COG
+SR201,4,0,1000000,Managed,COG
+SR201,5,0,1000000,Managed,COG
+US40,1,0,1000000,Managed,COH
+US40,2,0,1000000,Managed,COH
+US40,3,0,1000000,Managed,COH
+US40,4,0,1000000,Managed,COH
+US40,5,0,1000000,Managed,COH
+LittleCottonwoodSnowbasin,1,0,1000000,Managed,COI
+LittleCottonwoodSnowbasin,2,0,1000000,Managed,COI
+LittleCottonwoodSnowbasin,3,0,1000000,Managed,COI
+LittleCottonwoodSnowbasin,4,0,1000000,Managed,COI
+LittleCottonwoodSnowbasin,5,0,1000000,Managed,COI
+Moab,1,0,1000000,Managed,COJ
+Moab,2,0,1000000,Managed,COJ
+Moab,3,0,1000000,Managed,COJ
+Moab,4,0,1000000,Managed,COJ
+Moab,5,0,1000000,Managed,COJ
+ParkCity,1,0,1000000,Managed,COK
+ParkCity,2,0,1000000,Managed,COK
+ParkCity,3,0,1000000,Managed,COK
+ParkCity,4,0,1000000,Managed,COK
+ParkCity,5,0,1000000,Managed,COK
+RuralRecLowVol,1,0,1000000,Managed,COL
+RuralRecLowVol,2,0,1000000,Managed,COL
+RuralRecLowVol,3,0,1000000,Managed,COL
+RuralRecLowVol,4,0,1000000,Managed,COL
+RuralRecLowVol,5,0,1000000,Managed,COL
+RuralRecLowVolWinterClosed,1,0,1000000,Managed,COM
+RuralRecLowVolWinterClosed,2,0,1000000,Managed,COM
+RuralRecLowVolWinterClosed,3,0,1000000,Managed,COM
+RuralRecLowVolWinterClosed,4,0,1000000,Managed,COM
+RuralRecLowVolWinterClosed,5,0,1000000,Managed,COM
+Statewide,2,0,1000000,Managed,XX3
+Statewide,3,0,1000000,Managed,XX3
+Statewide,4,0,1000000,Managed,XX3
+Statewide,5,0,1000000,Managed,XX3
+Washington,1,0,1000000,Managed,COV
+Washington,2,0,1000000,Managed,COV
+Washington,3,0,1000000,Managed,COV
+Washington,4,0,1000000,Managed,COV
+Washington,5,0,1000000,Managed,COV
+Washington,1,0,1000000,Managed,COW
+Washington,2,0,1000000,Managed,COW
+Washington,3,0,1000000,Managed,COW
+Washington,4,0,1000000,Managed,COW
+Washington,5,0,1000000,Managed,COW
+Washington,1,0,1000000,Managed,COX
+Washington,2,0,1000000,Managed,COX
+Washington,3,0,1000000,Managed,COX
+Washington,4,0,1000000,Managed,COX
+Washington,5,0,1000000,Managed,COX
+AlpineLoop,1,0,1000000,Managed,CO0
+AlpineLoop,2,0,1000000,Managed,CO0
+AlpineLoop,3,0,1000000,Managed,CO0
+AlpineLoop,4,0,1000000,Managed,CO0
+AlpineLoop,5,0,1000000,Managed,CO0
+BearLake,1,0,1000000,Managed,CO1
+BearLake,2,0,1000000,Managed,CO1
+BearLake,3,0,1000000,Managed,CO1
+BearLake,4,0,1000000,Managed,CO1
+BearLake,5,0,1000000,Managed,CO1
+BigCottonwood,1,0,1000000,Managed,CO2
+BigCottonwood,2,0,1000000,Managed,CO2
+BigCottonwood,3,0,1000000,Managed,CO2
+BigCottonwood,4,0,1000000,Managed,CO2
+BigCottonwood,5,0,1000000,Managed,CO2
+CedarBreaks,1,0,1000000,Managed,CO3
+CedarBreaks,2,0,1000000,Managed,CO3
+CedarBreaks,3,0,1000000,Managed,CO3
+CedarBreaks,4,0,1000000,Managed,CO3
+CedarBreaks,5,0,1000000,Managed,CO3
+I15Plymouth,1,0,1000000,Managed,CO7
+I15Plymouth,2,0,1000000,Managed,CO7
+I15Plymouth,3,0,1000000,Managed,CO7
+I15Plymouth,4,0,1000000,Managed,CO7
+I15Plymouth,5,0,1000000,Managed,CO7
+I15,1,0,1000000,Managed,CO4
+I15,2,0,1000000,Managed,CO5
+I15,3,0,1000000,Managed,CO6
+I15,4,0,1000000,Managed,CO6
+I15,5,0,1000000,Managed,CO6
+I215,1,0,1000000,Managed,CO8
+I215,2,0,1000000,Managed,CO8
+I215,3,0,1000000,Managed,CO8
+I215,4,0,1000000,Managed,CO8
+I215,5,0,1000000,Managed,CO8
+I70,1,0,1000000,Managed,CO9
+I70,2,0,1000000,Managed,CO9
+I70,3,0,1000000,Managed,CO9
+I70,4,0,1000000,Managed,CO9
+I70,5,0,1000000,Managed,CO9
+Southeast,1,0,1500,Managed,XX3
+Southeast,2,0,1500,Managed,XX3
+Southeast,3,0,1500,Managed,XX3
+Southeast,4,0,1500,Managed,XX3
+Southeast,5,0,1500,Managed,XX3
+Southeast,1,1500,1000000,Managed,XX3
+Southeast,2,1500,1000000,Managed,XX3
+Southeast,3,1500,1000000,Managed,XX3
+Southeast,4,1500,1000000,Managed,XX3
+Southeast,5,1500,1000000,Managed,XX3
+Statewide,1,0,2500,Managed,XX3
+Statewide,1,2500,12500,Managed,XX3
+Statewide,1,12500,1000000,Managed,XX3
+I80NevSR36,1,0,1000000,CD Road,COA
+I80NevSR36,2,0,1000000,CD Road,COA
+I80NevSR36,3,0,1000000,CD Road,COA
+I80NevSR36,4,0,1000000,CD Road,COA
+I80NevSR36,5,0,1000000,CD Road,COA
+I80SR36SR154,1,0,1000000,CD Road,COB
+I80SR36SR154,2,0,1000000,CD Road,COB
+I80SR36SR154,3,0,1000000,CD Road,COB
+I80SR36SR154,4,0,1000000,CD Road,COB
+I80SR36SR154,5,0,1000000,CD Road,COB
+I80SR154SR186,1,0,1000000,CD Road,COC
+I80SR154SR186,2,0,1000000,CD Road,COC
+I80SR154SR186,3,0,1000000,CD Road,COC
+I80SR154SR186,4,0,1000000,CD Road,COC
+I80SR154SR186,5,0,1000000,CD Road,COC
+I80SR186US40,1,0,1000000,CD Road,COD
+I80SR186US40,2,0,1000000,CD Road,COD
+I80SR186US40,3,0,1000000,CD Road,COD
+I80SR186US40,4,0,1000000,CD Road,COD
+I80SR186US40,5,0,1000000,CD Road,COD
+I80US40Wyo,1,0,1000000,CD Road,COY
+I80US40Wyo,2,0,1000000,CD Road,COY
+I80US40Wyo,3,0,1000000,CD Road,COY
+I80US40Wyo,4,0,1000000,CD Road,COY
+I80US40Wyo,5,0,1000000,CD Road,COY
+I84West,1,0,1000000,CD Road,COE
+I84West,2,0,1000000,CD Road,COE
+I84West,3,0,1000000,CD Road,COE
+I84West,4,0,1000000,CD Road,COE
+I84West,5,0,1000000,CD Road,COE
+I84East,1,0,1000000,CD Road,COZ
+I84East,2,0,1000000,CD Road,COZ
+I84East,3,0,1000000,CD Road,COZ
+I84East,4,0,1000000,CD Road,COZ
+I84East,5,0,1000000,CD Road,COZ
+Legacy,1,0,1000000,CD Road,COF
+Legacy,2,0,1000000,CD Road,COF
+Legacy,3,0,1000000,CD Road,COF
+Legacy,4,0,1000000,CD Road,COF
+Legacy,5,0,1000000,CD Road,COF
+SR201,1,0,1000000,CD Road,COG
+SR201,2,0,1000000,CD Road,COG
+SR201,3,0,1000000,CD Road,COG
+SR201,4,0,1000000,CD Road,COG
+SR201,5,0,1000000,CD Road,COG
+US40,1,0,1000000,CD Road,COH
+US40,2,0,1000000,CD Road,COH
+US40,3,0,1000000,CD Road,COH
+US40,4,0,1000000,CD Road,COH
+US40,5,0,1000000,CD Road,COH
+LittleCottonwoodSnowbasin,1,0,1000000,CD Road,COI
+LittleCottonwoodSnowbasin,2,0,1000000,CD Road,COI
+LittleCottonwoodSnowbasin,3,0,1000000,CD Road,COI
+LittleCottonwoodSnowbasin,4,0,1000000,CD Road,COI
+LittleCottonwoodSnowbasin,5,0,1000000,CD Road,COI
+Moab,1,0,1000000,CD Road,COJ
+Moab,2,0,1000000,CD Road,COJ
+Moab,3,0,1000000,CD Road,COJ
+Moab,4,0,1000000,CD Road,COJ
+Moab,5,0,1000000,CD Road,COJ
+ParkCity,1,0,1000000,CD Road,COK
+ParkCity,2,0,1000000,CD Road,COK
+ParkCity,3,0,1000000,CD Road,COK
+ParkCity,4,0,1000000,CD Road,COK
+ParkCity,5,0,1000000,CD Road,COK
+RuralRecLowVol,1,0,1000000,CD Road,COL
+RuralRecLowVol,2,0,1000000,CD Road,COL
+RuralRecLowVol,3,0,1000000,CD Road,COL
+RuralRecLowVol,4,0,1000000,CD Road,COL
+RuralRecLowVol,5,0,1000000,CD Road,COL
+RuralRecLowVolWinterClosed,1,0,1000000,CD Road,COM
+RuralRecLowVolWinterClosed,2,0,1000000,CD Road,COM
+RuralRecLowVolWinterClosed,3,0,1000000,CD Road,COM
+RuralRecLowVolWinterClosed,4,0,1000000,CD Road,COM
+RuralRecLowVolWinterClosed,5,0,1000000,CD Road,COM
+Statewide,2,0,1000000,CD Road,XX3
+Statewide,3,0,1000000,CD Road,XX3
+Statewide,4,0,1000000,CD Road,XX3
+Statewide,5,0,1000000,CD Road,XX3
+Washington,1,0,1000000,CD Road,COV
+Washington,2,0,1000000,CD Road,COV
+Washington,3,0,1000000,CD Road,COV
+Washington,4,0,1000000,CD Road,COV
+Washington,5,0,1000000,CD Road,COV
+Washington,1,0,1000000,CD Road,COW
+Washington,2,0,1000000,CD Road,COW
+Washington,3,0,1000000,CD Road,COW
+Washington,4,0,1000000,CD Road,COW
+Washington,5,0,1000000,CD Road,COW
+Washington,1,0,1000000,CD Road,COX
+Washington,2,0,1000000,CD Road,COX
+Washington,3,0,1000000,CD Road,COX
+Washington,4,0,1000000,CD Road,COX
+Washington,5,0,1000000,CD Road,COX
+AlpineLoop,1,0,1000000,CD Road,CO0
+AlpineLoop,2,0,1000000,CD Road,CO0
+AlpineLoop,3,0,1000000,CD Road,CO0
+AlpineLoop,4,0,1000000,CD Road,CO0
+AlpineLoop,5,0,1000000,CD Road,CO0
+BearLake,1,0,1000000,CD Road,CO1
+BearLake,2,0,1000000,CD Road,CO1
+BearLake,3,0,1000000,CD Road,CO1
+BearLake,4,0,1000000,CD Road,CO1
+BearLake,5,0,1000000,CD Road,CO1
+BigCottonwood,1,0,1000000,CD Road,CO2
+BigCottonwood,2,0,1000000,CD Road,CO2
+BigCottonwood,3,0,1000000,CD Road,CO2
+BigCottonwood,4,0,1000000,CD Road,CO2
+BigCottonwood,5,0,1000000,CD Road,CO2
+CedarBreaks,1,0,1000000,CD Road,CO3
+CedarBreaks,2,0,1000000,CD Road,CO3
+CedarBreaks,3,0,1000000,CD Road,CO3
+CedarBreaks,4,0,1000000,CD Road,CO3
+CedarBreaks,5,0,1000000,CD Road,CO3
+I15Plymouth,1,0,1000000,CD Road,CO7
+I15Plymouth,2,0,1000000,CD Road,CO7
+I15Plymouth,3,0,1000000,CD Road,CO7
+I15Plymouth,4,0,1000000,CD Road,CO7
+I15Plymouth,5,0,1000000,CD Road,CO7
+I15,1,0,1000000,CD Road,CO4
+I15,2,0,1000000,CD Road,CO5
+I15,3,0,1000000,CD Road,CO6
+I15,4,0,1000000,CD Road,CO6
+I15,5,0,1000000,CD Road,CO6
+I215,1,0,1000000,CD Road,CO8
+I215,2,0,1000000,CD Road,CO8
+I215,3,0,1000000,CD Road,CO8
+I215,4,0,1000000,CD Road,CO8
+I215,5,0,1000000,CD Road,CO8
+I70,1,0,1000000,CD Road,CO9
+I70,2,0,1000000,CD Road,CO9
+I70,3,0,1000000,CD Road,CO9
+I70,4,0,1000000,CD Road,CO9
+I70,5,0,1000000,CD Road,CO9
+Southeast,1,0,1500,CD Road,XX3
+Southeast,2,0,1500,CD Road,XX3
+Southeast,3,0,1500,CD Road,XX3
+Southeast,4,0,1500,CD Road,XX3
+Southeast,5,0,1500,CD Road,XX3
+Southeast,1,1500,1000000,CD Road,XX3
+Southeast,2,1500,1000000,CD Road,XX3
+Southeast,3,1500,1000000,CD Road,XX3
+Southeast,4,1500,1000000,CD Road,XX3
+Southeast,5,1500,1000000,CD Road,XX3
+Statewide,1,0,2500,CD Road,XX3
+Statewide,1,2500,12500,CD Road,XX3
+Statewide,1,12500,1000000,CD Road,XX3

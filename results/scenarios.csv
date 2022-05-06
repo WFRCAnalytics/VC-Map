@@ -1,15 +1,14 @@
 Process,ScenarioCode,ScenarioGroup,ScenarioName,ScenarioYear,SegSummaryCSV,PrvScenarioCode,AdjScenarioCode
-Yes,Base15,Base,2015 Base,2015,v831_SE15_Net15_Summary_SEGID_Detailed.csv,,
-Yes,Base19,Base,2019 Base,2019,v831_SE19_Net19_Summary_SEGID_Detailed.csv,Base15,
-Yes,TIP24,TIP,2024 TIP,2024,v831_SE24_Net24_Summary_SEGID_Detailed.csv,Base19,
-Yes,RTP30,RTP,2030 RTP,2030,v831_SE30_Net30_Summary_SEGID_Detailed.csv,TIP24,
-Yes,RTP40,RTP,2040 RTP,2040,v831_SE40_Net40_Summary_SEGID_Detailed.csv,RTP30,
-Yes,RTP50,RTP,2050 RTP,2050,v831_SE50_Net50_Summary_SEGID_Detailed.csv,RTP40,
-Yes,NB30,No Build,2030 No Build,2030,v831_SE30_Net24_Summary_SEGID_Detailed.csv,TIP24,RTP30
-Yes,NB40,No Build,2040 No Build,2040,v831_SE40_Net24_Summary_SEGID_Detailed.csv,NB30,RTP40
-Yes,NB50,No Build,2050 No Build,2050,v831_SE50_Net24_Summary_SEGID_Detailed.csv,NB40,RTP50
-Yes,UF30,Needs,2030 Needs,2030,v831_SE30_Net30UF_Summary_SEGID_Detailed.csv,TIP24,RTP30
-Yes,UF40,Needs,2040 Needs,2040,v831_SE40_Net40UF_Summary_SEGID_Detailed.csv,UF30,RTP40
-Yes,UF50,Needs,2050 Needs,2050,v831_SE50_Net50UF_Summary_SEGID_Detailed.csv,UF40,RTP50
-Yes,S550,Scenario,2050 S5 Draft,2050,v831_SE50_Net50_Summary_SEGID_Detailed_S5DraftRecommendations.csv,,RTP50
-Yes,S650,Scenario,2050 S6 Draft,2050,v831_SE50_Net50_Summary_SEGID_Detailed_S5DraftRecommendations.csv,,RTP50
+Yes,Base19,Base,2019 Base,2019,v832_SE19_Net19_Summary_SEGID_Detailed.csv,,
+Yes,TIP24,TIP,2024 TIP Projects Scenario,2024,v832_SE24_Net24_Summary_SEGID_Detailed.csv,Base19,
+Yes,RTP30,RTP,2030 Fiscally-Constrained Scenario,2030,v832_SE30_Net30_Summary_SEGID_Detailed.csv,TIP24,
+Yes,RTP40,RTP,2040 Fiscally-Constrained Scenario,2040,v832_SE40_Net40_Summary_SEGID_Detailed.csv,RTP30,
+Yes,RTP50,RTP,2050 Fiscally-Constrained Scenario,2050,v832_SE50_Net50_Summary_SEGID_Detailed.csv,RTP40,
+Yes,NB30,No Build,2030 No Build Scenario,2030,v832_NoBuild_SE30_Net24_Summary_SEGID_Detailed.csv,TIP24,RTP30
+Yes,NB40,No Build,2040 No Build Scenario,2040,v832_NoBuild_SE40_Net24_Summary_SEGID_Detailed.csv,NB30,RTP40
+Yes,NB50,No Build,2050 No Build Scenario,2050,v832_NoBuild_SE50_Net24_Summary_SEGID_Detailed.csv,NB40,RTP50
+Yes,UF30,Needs,2030 Needs-Based Scenario,2030,v832_Needs_SE30_Net30_Summary_SEGID_Detailed.csv,TIP24,RTP30
+Yes,UF40,Needs,2040 Needs-Based Scenario,2040,v832_Needs_SE40_Net40_Summary_SEGID_Detailed.csv,UF30,RTP40
+Yes,UF50,Needs,2050 Needs-Based Scenario,2050,v832_Needs_SE50_Net50_Summary_SEGID_Detailed.csv,UF40,RTP50
+Yes,S50_WithOp,Scenario,2050 Test Scenario With Operations,2050,v832_ExtForcesWithOpProj_SE50_Net50_Summary_SEGID_Detailed.csv,RTP50,RTP50
+Yes,S50_WithoutOp,Scenario,2050 Test Scenario Without Operations,2050,v832_ExtForcesWithoutOpProj_SE50_Net50_Summary_SEGID_Detailed.csv,RTP50,RTP50
