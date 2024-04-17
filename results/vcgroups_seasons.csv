@@ -1,2 +1,2 @@
-SEASONGROUP,SeasonCode,SeasonName,SeasonType
-S00-Ann,Ann,Annual,Season
+SeasonCode,SeasonName,SEASONGROUP,SeasonType
+Ann,Annual,S00-Ann,Season

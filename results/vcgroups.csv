@@ -1,4 +1,4 @@
-SEASONGROUP,SeasonType,DOWGROUP,HRPCTOF,PERIOD,VCGroupCode
-S00-Ann,Season,1-Weekday (Tu-Th),Prd,AM,AnnWkAM
-S00-Ann,Season,1-Weekday (Tu-Th),Prd,MD,AnnWkMD
-S00-Ann,Season,1-Weekday (Tu-Th),Prd,PM,AnnWkPM
+SEASONGROUP,SeasonType,DOWGROUP,PERIOD,HRPCTOF,VCGroupCode
+S00-Ann,Season,1-Weekday (Tu-Th),AM,Prd,AnnWkAM
+S00-Ann,Season,1-Weekday (Tu-Th),MD,Prd,AnnWkMD
+S00-Ann,Season,1-Weekday (Tu-Th),PM,Prd,AnnWkPM

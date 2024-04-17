@@ -1,0 +1,1 @@
+data for this widget is taken from E:\GitHub\V-over-C-Calculations\results\WebAppData

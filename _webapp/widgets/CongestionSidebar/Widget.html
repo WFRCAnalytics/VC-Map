@@ -1,0 +1,664 @@
+<div>
+  <div id="CONGESTION_SECTION">
+    <form id="myCongestionForm">
+      <div id="myTableNode">
+        <table width="330px;">
+          <tbody>
+            <tr>
+              <td width="70px;">
+                <p class="thicker">Scenario</p>
+              </td>
+              <td width="260px;" align="left">
+                <div id="cmbScenario" data-dojo-type="dojox.form.Select"></div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <br/>
+        <table width="330px;">
+          <tbody>
+            <tr>
+              <td hidden width="165px;">
+                <p class="thicker">Season/Month</p>
+              </td>
+              <td width="165px;">
+                <!-- <p class="thicker"><input type="radio" data-dojo-type="dijit/form/RadioButton" name="Peak" id="rbPeakPeriod" value="Prd" checked/> <label for="rbPeakPeriod">Period</label>&nbsp;&nbsp;<input type="radio" data-dojo-type="dijit/form/RadioButton" name="Peak" id="rbPeakHour" value="Hr"/> <label for="rbPeakHour">Peak Hour</label></p> -->
+                <select id="cmbInterval" data-dojo-type="dijit/form/Select">
+                  <option value="Prd" selected="selected">Period</option>
+                  <option value="Hr">Peak Hour</option>
+                  <option value="15">Peak 15-Minutes</option>
+                </select>
+              </td>
+            </tr> 
+            <tr>
+              <td hidden>
+                <!--<div id="cmbSeason" data-dojo-type="dojox.form.Select"></div>-->
+                <div id="seasonsection"></div>
+              </td>
+              <td align='top'>
+                <!--<div id="cmbDOWPeak" data-dojo-type="dojox.form.Select"></div>-->
+                <div id="dowpeaksection"></div>
+              </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+            </tr>
+            </tbody>
+        </table>
+        <div><!--style="display: none;"-->
+        <table width="330px;" style="border-collapse: collapse"><!--border="1px solid #095484;"-->
+          <tbody>
+            <tr>
+              <td colspan=14 align="center">
+                <div id="LegendNameCongestion" class="thick thicker">Congestion Levels</div>
+              </td>
+            </tr>
+            <tr>
+              <td colspan=4 align="left">No Congestion</td>
+              <td colspan=10 align="right">Heavy Congestion</td>
+            </tr>
+            <tr>
+              <td width="35%"><div id="ColorCng01" style="background-color:#00FF00;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng02" style="background-color:#AAED46;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng03" style="background-color:#D5E958;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng04" style="background-color:#FFE469;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng05" style="background-color:#FF4D4D;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng06" style="background-color:#E64545;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng07" style="background-color:#CC3E3E;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng08" style="background-color:#B33636;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng09" style="background-color:#992E2E;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng10" style="background-color:#802727;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng11" style="background-color:#661F1F;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng12" style="background-color:#4C1717;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng13" style="background-color:#330F0F;">&nbsp;</div></td>
+              <td width="05%"><div id="ColorCng14" style="background-color:#1A0808;">&nbsp;</div></td>
+            </tr>
+            <tr>
+              <td colspan=1 align="left"><small>0</small></td>
+              <td colspan=3 align="left"><small>0.70</small></td>
+              <td colspan=5 align="left"><small>1.00</small></td>
+              <td colspan=5 align="left"><small>1.50</small></td>
+            </tr>
+            <tr>
+              <td colspan=14 align="center">Volume-over-Capacity (v/c) Ratio</td>
+            </tr>
+          </tbody>
+        </table>
+        </div>  
+      </div>
+    </form>
+  </div>
+  <br/>
+  <hr/>
+  <div id="SegmentDetails" style="display: none;" width="330px;">
+    <div id="chartName" class="thick thicker" style="text-align: center;" width="330px;"></div>
+    <div id="chartOne"></div>
+    <div id="ForecastDetails"></div>
+    <div id="CapacityDetails"></div>
+    <div id="CalculationDetailsButton" width="330px;"><button data-dojo-attach-event="onClick: toggleVCDetals" id="btnDetails" style="width:100%;padding:0;" align="left;">&#9658 Calculation Details</button></div>
+    <div id="VCDetail" style="display: none;" width="330px;">
+      <br/>
+      <table width="330px;">
+        <tr>
+          <td colspan=2 align="center"><div id="NameCalculationDetails" class="thick thicker" width="330px;">Calculation Details</div></td>
+        </tr>
+        <tr>
+          <td colspan=2>&nbsp;</td>
+        </tr>
+        <tr>
+          <td><div class="thick thicker">Segment ID</div></td>
+          <td align="right"><div id="SegmentID" class="thick thicker"></div></td>
+        </tr>
+        <tr>
+          <td><div class="thick thicker">Forecast AADT</div></td>
+          <td align="right"><div id="Forecast" class="thick thicker"></div></td>
+        </tr>
+      </table>
+
+      <div id="DetailFwy" style="display: none;" width="330px;">
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td colspan=2><div class="thick thicker">Freeway</div></td>
+          </tr>
+          <tbody id="Fwy_FGFDiv">
+            <tr>
+              <td>Functional Group Factor</td>
+              <td align="right"><div id='Fwy_FGF1'><div></td><!-- use 1, since 1 and 2 should always be the same-->
+            </tr>
+          </tbody>
+        </table>
+        <hr/>
+        <table width="330px;">
+            <td>Direction</td>
+            <td align="right">NB/EB<div></td>
+            <td align="right">SB/WB<div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>CCS Group Code</td>
+            <td align="right"><div id='Fwy_SG1'><div></td>
+            <td align="right"><div id='Fwy_SG2'><div></td>
+          </tr>
+          <tr>
+            <td>Season Factor</td>
+            <td align="right"><div id='Fwy_SF1'><div></td>
+            <td align="right"><div id='Fwy_SF2'><div></td>
+          </tr>
+          <tr>
+            <td>Day-of-Week Factor</td>
+            <td align="right"><div id='Fwy_DOW1'><div></td>
+            <td align="right"><div id='Fwy_DOW2'><div></td>
+          </tr>
+          <tr>
+            <td>Period Factor</td>
+            <td align="right"><div id='Fwy_PF1'><div></td>
+            <td align="right"><div id='Fwy_PF2'><div></td>
+          </tr>
+          <tr>
+            <td>Max Hour Factor</td>
+            <td align="right"><div id='Fwy_HF1'><div></td>
+            <td align="right"><div id='Fwy_HF2'><div></td>
+          </tr>
+          <tr>
+            <td>Direction Factor</td>
+            <td align="right"><div id='Fwy_DF1'><div></td>
+            <td align="right"><div id='Fwy_DF2'><div></td>
+          </tr>
+          <tr>
+            <td>Medium Truck %</td>
+            <td align="right"><div id='Fwy_MD1'><div></td>
+            <td align="right"><div id='Fwy_MD2'><div></td>
+          </tr>
+          <tr>
+            <td>Heavy Truck %</td>
+            <td align="right"><div id='Fwy_HV1'><div></td>
+            <td align="right"><div id='Fwy_HV2'><div></td>
+          </tr>
+          <tr>
+            <td>Truck Factor</td>
+            <td align="right"><div id='Fwy_TF1'><div></td>
+            <td align="right"><div id='Fwy_TF2'><div></td>
+          </tr>
+          <tr>
+            <td>PHF</td>
+            <td align="right"><div id='Fwy_PHF1'><div></td>
+            <td align="right"><div id='Fwy_PHF2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Lanes</td>
+            <td align="right"><div id='Fwy_LN1'><div></td>
+            <td align="right"><div id='Fwy_LN2'><div></td>
+          </tr>
+          <tr>
+            <td>Area Type</td>
+            <td align="right"><div id='Fwy_AT1'><div></td>
+            <td align="right"><div id='Fwy_AT2'><div></td>
+          </tr>
+          <tr>
+            <td>Functional Type</td>
+            <td align="right"><div id='Fwy_FT1'><div></td>
+            <td align="right"><div id='Fwy_FT2'><div></td>
+          </tr>
+          <tr>
+            <td>Capacity (vph)</td>
+            <td align="right"><div id='Fwy_CP1'><div></td>
+            <td align="right"><div id='Fwy_CP2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period Flow (vph)</td>
+            <td align="right"><div id='Fwy_PrdF1'><div></td>
+            <td align="right"><div id='Fwy_PrdF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour Flow (vph)</td>
+            <td align="right"><div id='Fwy_PkF1'><div></td>
+            <td align="right"><div id='Fwy_PkF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min. Flow (vph)</td>
+            <td align="right"><div id='Fwy_15F1'><div></td>
+            <td align="right"><div id='Fwy_15F2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period V/C</td>
+            <td align="right"><div id='Fwy_PrdVC1'><div></td>
+            <td align="right"><div id='Fwy_PrdVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour V/C</td>
+            <td align="right"><div id='Fwy_PkVC1'><div></td>
+            <td align="right"><div id='Fwy_PkVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min V/C</td>
+            <td align="right"><div id='Fwy_15VC1'><div></td>
+            <td align="right"><div id='Fwy_15VC2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+        </table>
+      </div>
+      <div id="Detail_CD" style="display: none;">
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td colspan=2><div class="thick thicker">CD Roads</div></td>
+          </tr>
+          <tbody id="_CD_FGFDiv">
+            <tr>
+              <td>Functional Group Factor</td>
+              <td align="right"><div id='_CD_FGF1'><div></td><!-- use 1, since 1 and 2 should always be the same-->
+            </tr>
+          </tbody>
+        </table>
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td>Direction</td>
+            <td align="right">NB/EB<div></td>
+            <td align="right">SB/WB<div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>CCS Group Code</td>
+            <td align="right"><div id='_CD_SG1'><div></td>
+            <td align="right"><div id='_CD_SG2'><div></td>
+          </tr>
+          <tr>
+            <td>Season Factor</td>
+            <td align="right"><div id='_CD_SF1'><div></td>
+            <td align="right"><div id='_CD_SF2'><div></td>
+          </tr>
+          <tr>
+            <td>Day-of-Week Factor</td>
+            <td align="right"><div id='_CD_DOW1'><div></td>
+            <td align="right"><div id='_CD_DOW2'><div></td>
+          </tr>
+          <tr>
+            <td>Period Factor</td>
+            <td align="right"><div id='_CD_PF1'><div></td>
+            <td align="right"><div id='_CD_PF2'><div></td>
+          </tr>
+          <tr>
+            <td>Max Hour Factor</td>
+            <td align="right"><div id='_CD_HF1'><div></td>
+            <td align="right"><div id='_CD_HF2'><div></td>
+          </tr>
+          <tr>
+            <td>Direction Factor</td>
+            <td align="right"><div id='_CD_DF1'><div></td>
+            <td align="right"><div id='_CD_DF2'><div></td>
+          </tr>
+          <tr>
+            <td>Medium Truck %</td>
+            <td align="right"><div id='_CD_MD1'><div></td>
+            <td align="right"><div id='_CD_MD2'><div></td>
+          </tr>
+          <tr>
+            <td>Heavy Truck %</td>
+            <td align="right"><div id='_CD_HV1'><div></td>
+            <td align="right"><div id='_CD_HV2'><div></td>
+          </tr>
+          <tr>
+            <td>Truck Factor</td>
+            <td align="right"><div id='_CD_TF1'><div></td>
+            <td align="right"><div id='_CD_TF2'><div></td>
+          </tr>
+          <tr>
+            <td>PHF</td>
+            <td align="right"><div id='_CD_PHF1'><div></td>
+            <td align="right"><div id='_CD_PHF2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Lanes</td>
+            <td align="right"><div id='_CD_LN1'><div></td>
+            <td align="right"><div id='_CD_LN2'><div></td>
+          </tr>
+          <tr>
+            <td>Area Type</td>
+            <td align="right"><div id='_CD_AT1'><div></td>
+            <td align="right"><div id='_CD_AT2'><div></td>
+          </tr>
+          <tr>
+            <td>Functional Type</td>
+            <td align="right"><div id='_CD_FT1'><div></td>
+            <td align="right"><div id='_CD_FT2'><div></td>
+          </tr>
+          <tr>
+            <td>Capacity (vph)</td>
+            <td align="right"><div id='_CD_CP1'><div></td>
+            <td align="right"><div id='_CD_CP2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period Flow (vph)</td>
+            <td align="right"><div id='_CD_PrdF1'><div></td>
+            <td align="right"><div id='_CD_PrdF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour Flow (vph)</td>
+            <td align="right"><div id='_CD_PkF1'><div></td>
+            <td align="right"><div id='_CD_PkF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min. Flow (vph)</td>
+            <td align="right"><div id='_CD_15F1'><div></td>
+            <td align="right"><div id='_CD_15F2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period V/C</td>
+            <td align="right"><div id='_CD_PrdVC1'><div></td>
+            <td align="right"><div id='_CD_PrdVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour V/C</td>
+            <td align="right"><div id='_CD_PkVC1'><div></td>
+            <td align="right"><div id='_CD_PkVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min V/C</td>
+            <td align="right"><div id='_CD_15VC1'><div></td>
+            <td align="right"><div id='_CD_15VC2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+        </table>
+      </div>
+      <div id="DetailMng" style="display: none;">
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td colspan=2><div class="thick thicker">HOV/HOT Lanes</div></td>
+          </tr>
+          <tbody id="Mng_FGFDiv">
+            <tr>
+              <td>Functional Group Factor</td>
+              <td align="right"><div id='Mng_FGF1'><div></td><!-- use 1, since 1 and 2 should always be the same-->
+            </tr>
+          </tbody>
+        </table>
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td>Direction</td>
+            <td align="right">NB/EB<div></td>
+            <td align="right">SB/WB<div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>CCS Group Code</td>
+            <td align="right"><div id='Mng_SG1'><div></td>
+            <td align="right"><div id='Mng_SG2'><div></td>
+          </tr>
+          <tr>
+            <td>Season Factor</td>
+            <td align="right"><div id='Mng_SF1'><div></td>
+            <td align="right"><div id='Mng_SF2'><div></td>
+          </tr>
+          <tr>
+            <td>Day-of-Week Factor</td>
+            <td align="right"><div id='Mng_DOW1'><div></td>
+            <td align="right"><div id='Mng_DOW2'><div></td>
+          </tr>
+          <tr>
+            <td>Period Factor</td>
+            <td align="right"><div id='Mng_PF1'><div></td>
+            <td align="right"><div id='Mng_PF2'><div></td>
+          </tr>
+          <tr>
+            <td>Max Hour Factor</td>
+            <td align="right"><div id='Mng_HF1'><div></td>
+            <td align="right"><div id='Mng_HF2'><div></td>
+          </tr>
+          <tr>
+            <td>Direction Factor</td>
+            <td align="right"><div id='Mng_DF1'><div></td>
+            <td align="right"><div id='Mng_DF2'><div></td>
+          </tr>
+          <tr>
+            <td>Medium Truck %</td>
+            <td align="right"><div id='Mng_MD1'><div></td>
+            <td align="right"><div id='Mng_MD2'><div></td>
+          </tr>
+          <tr>
+            <td>Heavy Truck %</td>
+            <td align="right"><div id='Mng_HV1'><div></td>
+            <td align="right"><div id='Mng_HV2'><div></td>
+          </tr>
+          <tr>
+            <td>Truck Factor</td>
+            <td align="right"><div id='Mng_TF1'><div></td>
+            <td align="right"><div id='Mng_TF2'><div></td>
+          </tr>
+          <tr>
+            <td>PHF</td>
+            <td align="right"><div id='Mng_PHF1'><div></td>
+            <td align="right"><div id='Mng_PHF2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Lanes</td>
+            <td align="right"><div id='Mng_LN1'><div></td>
+            <td align="right"><div id='Mng_LN2'><div></td>
+          </tr>
+          <tr>
+            <td>Area Type</td>
+            <td align="right"><div id='Mng_AT1'><div></td>
+            <td align="right"><div id='Mng_AT2'><div></td>
+          </tr>
+          <tr>
+            <td>Functional Type</td>
+            <td align="right"><div id='Mng_FT1'><div></td>
+            <td align="right"><div id='Mng_FT2'><div></td>
+          </tr>
+          <tr>
+            <td>Capacity (vph)</td>
+            <td align="right"><div id='Mng_CP1'><div></td>
+            <td align="right"><div id='Mng_CP2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period Flow (vph)</td>
+            <td align="right"><div id='Mng_PrdF1'><div></td>
+            <td align="right"><div id='Mng_PrdF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour Flow (vph)</td>
+            <td align="right"><div id='Mng_PkF1'><div></td>
+            <td align="right"><div id='Mng_PkF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min. Flow (vph)</td>
+            <td align="right"><div id='Mng_15F1'><div></td>
+            <td align="right"><div id='Mng_15F2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period V/C</td>
+            <td align="right"><div id='Mng_PrdVC1'><div></td>
+            <td align="right"><div id='Mng_PrdVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour V/C</td>
+            <td align="right"><div id='Mng_PkVC1'><div></td>
+            <td align="right"><div id='Mng_PkVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min V/C</td>
+            <td align="right"><div id='Mng_15VC1'><div></td>
+            <td align="right"><div id='Mng_15VC2'><div></td>
+          </tr>
+        </table>
+      </div>
+      <div id="DetailArt" style="display: none;">
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td colspan=2><div class="thick thicker">Arterial</div></td>
+          </tr>
+          <tbody id="Art_FGFDiv">
+            <tr>
+              <td>Functional Group Factor</td>
+              <td align="right"><div id='Art_FGF1'><div></td><!-- use 1, since 1 and 2 should always be the same-->
+            </tr>
+          </tbody>
+        </table>
+        <hr/>
+        <table width="330px;">
+          <tr>
+            <td>Direction</td>
+            <td align="right">NB/EB<div></td>
+            <td align="right">SB/WB<div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>CCS Group Code</td>
+            <td align="right"><div id='Art_SG1'><div></td>
+            <td align="right"><div id='Art_SG2'><div></td>
+          </tr>
+          <tr>
+            <td>Season Factor</td>
+            <td align="right"><div id='Art_SF1'><div></td>
+            <td align="right"><div id='Art_SF2'><div></td>
+          </tr>
+          <tr>
+            <td>Day-of-Week Factor</td>
+            <td align="right"><div id='Art_DOW1'><div></td>
+            <td align="right"><div id='Art_DOW2'><div></td>
+          </tr>
+          <tr>
+            <td>Period Factor</td>
+            <td align="right"><div id='Art_PF1'><div></td>
+            <td align="right"><div id='Art_PF2'><div></td>
+          </tr>
+          <tr>
+            <td>Max Hour Factor</td>
+            <td align="right"><div id='Art_HF1'><div></td>
+            <td align="right"><div id='Art_HF2'><div></td>
+          </tr>
+          <tr>
+            <td>Direction Factor</td>
+            <td align="right"><div id='Art_DF1'><div></td>
+            <td align="right"><div id='Art_DF2'><div></td>
+          </tr>
+          <tr>
+            <td>Medium Truck %</td>
+            <td align="right"><div id='Art_MD1'><div></td>
+            <td align="right"><div id='Art_MD2'><div></td>
+          </tr>
+          <tr>
+            <td>Heavy Truck %</td>
+            <td align="right"><div id='Art_HV1'><div></td>
+            <td align="right"><div id='Art_HV2'><div></td>
+          </tr>
+          <tr>
+            <td>Truck Factor</td>
+            <td align="right"><div id='Art_TF1'><div></td>
+            <td align="right"><div id='Art_TF2'><div></td>
+          </tr>
+          <tr>
+            <td>PHF</td>
+            <td align="right"><div id='Art_PHF1'><div></td>
+            <td align="right"><div id='Art_PHF2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Lanes</td>
+            <td align="right"><div id='Art_LN1'><div></td>
+            <td align="right"><div id='Art_LN2'><div></td>
+          </tr>
+          <tr>
+            <td>Area Type</td>
+            <td align="right"><div id='Art_AT1'><div></td>
+            <td align="right"><div id='Art_AT2'><div></td>
+          </tr>
+          <tr>
+            <td>Functional Type</td>
+            <td align="right"><div id='Art_FT1'><div></td>
+            <td align="right"><div id='Art_FT2'><div></td>
+          </tr>
+          <tr>
+            <td>Capacity (vph)</td>
+            <td align="right"><div id='Art_CP1'><div></td>
+            <td align="right"><div id='Art_CP2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period Flow (vph)</td>
+            <td align="right"><div id='Art_PrdF1'><div></td>
+            <td align="right"><div id='Art_PrdF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour Flow (vph)</td>
+            <td align="right"><div id='Art_PkF1'><div></td>
+            <td align="right"><div id='Art_PkF2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min Flow (vph)</td>
+            <td align="right"><div id='Art_15F1'><div></td>
+            <td align="right"><div id='Art_15F2'><div></td>
+          </tr>
+          <tr>
+            <td colspan=3>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>Period V/C</td>
+            <td align="right"><div id='Art_PrdVC1'><div></td>
+            <td align="right"><div id='Art_PrdVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak Hour V/C</td>
+            <td align="right"><div id='Art_PkVC1'><div></td>
+            <td align="right"><div id='Art_PkVC2'><div></td>
+          </tr>
+          <tr>
+            <td>Peak 15-Min V/C</td>
+            <td align="right"><div id='Art_15VC1'><div></td>
+            <td align="right"><div id='Art_15VC2'><div></td>
+          </tr>
+          <tr>
+            <td colspan="3">&nbsp;</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

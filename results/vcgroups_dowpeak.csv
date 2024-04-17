@@ -1,4 +1,4 @@
-DOWGROUP,DOWPkCode,DOWPkName,HRPCTOF,PERIOD
-1-Weekday (Tu-Th),WkAM,AM - Weekday,Prd,AM
-1-Weekday (Tu-Th),WkMD,Midday - Weekday,Prd,MD
-1-Weekday (Tu-Th),WkPM,PM - Weekday,Prd,PM
+DOWPkCode,DOWPkName,DOWGROUP,PERIOD,HRPCTOF
+WkAM,AM - Weekday,1-Weekday (Tu-Th),AM,Prd
+WkMD,Midday - Weekday,1-Weekday (Tu-Th),MD,Prd
+WkPM,PM - Weekday,1-Weekday (Tu-Th),PM,Prd
