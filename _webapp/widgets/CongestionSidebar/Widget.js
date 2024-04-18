@@ -37,7 +37,7 @@ var lyrSegments;
 var sCongestionLayerName = 'Congestion';
 var sSegmentLayerName = 'Master_Segs';
 
-var sScenario = "RTP32";
+var sScenario = "RTP50";
 var sSeason   = "Ann";
 var sDOWPeak  = "WkPM";
 var sVCGroup   = "FalWkPM";
