@@ -1,17 +1,16 @@
 ScenarioCode,ScenarioName,ScenarioYear,ScenarioGroup,SegSummaryCSV,Process,PrvScenarioCode,AdjScenarioCode
-Base19,2019 Base,2019,Base,v901_SE19_Net19_Summary_SEGID_Detailed.csv,Yes,,
+Base19,2019 Base,2019,Base,v901_SE19_Net19_Summary_SEGID_Detailed.csv,No,,
 Base23,2023 Base,2023,Base,v901_SE23_Net23_Summary_SEGID_Detailed.csv,Yes,Base19,
-TIP28,2028 TIP Projects Scenario,2028,TIP,v901_TIP_SE28_Net28_Summary_SEGID_Detailed.csv,Yes,Base23,
-RTP32,2032 Fiscally-Constrained Scenario,2032,RTP,v901_RTP_SE32_Net32_Summary_SEGID_Detailed.csv,Yes,TIP28,
-RTP42,2042 Fiscally-Constrained Scenario,2042,RTP,v901_RTP_SE42_Net42_Summary_SEGID_Detailed.csv,Yes,RTP32,
-RTP50,2050 Fiscally-Constrained Scenario,2050,RTP,v901_RTP_SE50_Net50_Summary_SEGID_Detailed.csv,Yes,RTP42,
-NB3228,2032 SE on a 2028 Network Scenario,2032,NoBuild28,v901_NoBuild_SE32_Net28_Summary_SEGID_Detailed.csv,Yes,TIP28,RTP32
-NB4228,2042 SE on a 2028 Network Scenario,2042,NoBuild28,v901_NoBuild_SE42_Net28_Summary_SEGID_Detailed.csv,Yes,NB3228,RTP42
-NB5028,2050 SE on a 2028 Network Scenario,2050,NoBuild28,v901_NoBuild_SE50_Net28_Summary_SEGID_Detailed.csv,Yes,NB4228,RTP50
-NB4232,2042 SE on a 2032 Network,2042,NoBuild32,v901_NoBuild_SE42_Net32_Summary_SEGID_Detailed.csv,Yes,RTP32,RTP42
-NB5032,2050 SE on a 2042 Network,2050,NoBuild32,v901_NoBuild_SE50_Net32_Summary_SEGID_Detailed.csv,Yes,NB4232,RTP32
-NB5042,2050 SE on a 2042 Network,2050,NoBuild42,v901_NoBuild_SE50_Net42_Summary_SEGID_Detailed.csv,Yes,RTP42,RTP42
-UF32,2032 Needs-Based Scenario,2032,Needs,v901_Needs_SE32_Net32_Summary_SEGID_Detailed.csv,Yes,TIP28,RTP32
-UF42,2042 Needs-Based Scenario,2042,Needs,v901_Needs_SE42_Net42_Summary_SEGID_Detailed.csv,Yes,UF32,RTP42
-UF50,2050 Needs-Based Scenario,2050,Needs,v901_Needs_SE50_Net50_Summary_SEGID_Detailed.csv,Yes,UF42,RTP50
-UF50_MAG,2050 Needs-Based Scenario - MAG,2050,NeedsMAG,v901_Needs_MAG_SE50_Net50_Summary_SEGID_Detailed.csv,Yes,UF42_MAG,RTP50
+TIP28,2028 TIP Projects,2028,TIP,v901_TIP_SE28_Net28_Summary_SEGID_Detailed.csv,Yes,Base23,
+RTP32,2032 Fiscally-Constrained,2032,RTP,v901_RTP_SE32_Net32_Summary_SEGID_Detailed.csv,Yes,TIP28,
+RTP42,2042 Fiscally-Constrained,2042,RTP,v901_RTP_SE42_Net42_Summary_SEGID_Detailed.csv,Yes,RTP32,
+RTP50,2050 Fiscally-Constrained,2050,RTP,v901_RTP_SE50_Net50_Summary_SEGID_Detailed.csv,No,RTP42,
+28NB32,2032 SE on a 2028 Network,2032,NoBuild28,v901_NoBuild_SE32_Net28_Summary_SEGID_Detailed.csv,Yes,TIP28,RTP32
+28NB42,2042 SE on a 2028 Network,2042,NoBuild28,v901_NoBuild_SE42_Net28_Summary_SEGID_Detailed.csv,Yes,28NB32,RTP42
+28NB50,2050 SE on a 2028 Network,2050,NoBuild28,v901_NoBuild_SE50_Net28_Summary_SEGID_Detailed.csv,Yes,28NB42,RTP50
+32NB42,2042 SE on a 2032 Network,2042,NoBuild32,v901_NoBuild_SE42_Net32_Summary_SEGID_Detailed.csv,Yes,RTP32,RTP42
+32NB50,2050 SE on a 2032 Network,2050,NoBuild32,v901_NoBuild_SE50_Net32_Summary_SEGID_Detailed.csv,Yes,32NB42,RTP50
+42NB50,2050 SE on a 2042 Network,2050,NoBuild42,v901_NoBuild_SE50_Net42_Summary_SEGID_Detailed.csv,Yes,RTP42,RTP50
+UF32,2032 Needs-Based,2032,Needs,v901_Needs_SE32_Net32_Summary_SEGID_Detailed.csv,Yes,TIP28,RTP32
+UF42,2042 Needs-Based,2042,Needs,v901_Needs_SE42_Net42_Summary_SEGID_Detailed.csv,Yes,UF32,RTP42
+UF50,2050 Needs-Based,2050,Needs,v901_Needs_SE50_Net50_Summary_SEGID_Detailed.csv,Yes,UF42,RTP50
