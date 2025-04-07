@@ -8,7 +8,7 @@ Methodology can be found here: https://docs.google.com/document/d/1tjFTe8QQNCKHn
 
 This map provides an estimate of potentially congested areas for WFRC/MAG 2023 Regional Transportation Plan (RTP) scenarios.
 
-The metrics shown on this map are useful for planning and prioritization as comparative measures of travel demand and do not necessarily reflect anticipated conditions at the highest factored V/C ratios.\
+The metrics shown on this map are useful for planning and prioritization as comparative measures of travel demand and do not necessarily reflect anticipated conditions at the highest factored V/C ratios.
 
 The congestion is based on volume-to-capacity ratios using the following components:
 
